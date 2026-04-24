@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Free website audit for Australian tradies and small businesses. We find what's costing you leads — then fix it. Websites from $497.">
+    <title>TheSmartWebsite.co — We Find The Leaks Before We Fix Them</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        :root {
+            --navy: #0B1D3A; --blue: #2563EB; --blue-dark: #1D4ED8;
+            --blue-light: #3B82F6; --teal: #0D9488; --teal-dark: #0F766E;
+            --green: #10B981; --dark: #0F172A; --gray-700: #334155;
+            --gray-500: #64748B; --gray-400: #94A3B8; --gray-200: #E2E8F0;
+            --gray-100: #F1F5F9; --light: #F8FAFC; --white: #FFFFFF;
+            --amber: #F59E0B;
+        }
+        html { scroll-behavior: smooth; }
+        body { font-family: 'Inter', -apple-system, sans-serif; color: var(--dark); line-height: 1.6; background: var(--white); overflow-x: hidden; }
+        h1,h2,h3,h4 { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; line-height: 1.15; }
+        a { text-decoration: none; }
+
+        /* NAV */
+        nav { position: sticky; top: 0; background: rgba(255,255,255,0.92); backdrop-filter: blur(16px); border-bottom: 1px solid var(--gray-200); z-index: 100; padding: 0 5%; height: 68px; display: flex; justify-content: space-between; align-items: center; }
+        .nav-logo { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 1.15rem; font-weight: 800; color: var(--navy); letter-spacing: -0.02em; }
+        .nav-logo span { color: var(--blue); }
+        .nav-links { display: flex; gap: 28px; align-items: center; }
+        .nav-links a { color: var(--gray-500); font-weight: 500; font-size: 0.875rem; transition: color 0.2s; }
+        .nav-links a:hover { color: var(--blue); }
+        .nav-cta { background: var(--blue); color: white !important; padding: 9px 20px; border-radius: 8px; font-weight: 600; transition: background 0.2s; }
+        .nav-cta:hover { background: var(--blue-dark); }
+
+        /* HERO */
+        .hero { padding: 84px 5% 72px; background: linear-gradient(180deg, var(--light) 0%, var(--white) 60%); text-align: center; position: relative; overflow: hidden; }
+        .hero::before { content: ''; position: absolute; top: -60px; left: 50%; transform: translateX(-50%); width: 900px; height: 600px; background: radial-gradient(ellipse, rgba(37,99,235,0.07) 0%, transparent 70%); pointer-events: none; }
+        .hero-badge { display: inline-flex; align-items: center; gap: 8px; background: rgba(37,99,235,0.07); border: 1px solid rgba(37,99,235,0.2); color: var(--blue); font-size: 0.75rem; font-weight: 700; padding: 6px 14px; border-radius: 50px; margin-bottom: 24px; letter-spacing: 0.05em; text-transform: uppercase; }
+        .hero-badge-dot { width: 6px; height: 6px; background: var(--blue); border-radius: 50%; animation: pulse 2s ease-in-out infinite; }
+        @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.35} }
+        .hero h1 { font-size: clamp(2.1rem, 5vw, 3.6rem); font-weight: 900; color: var(--navy); margin-bottom: 20px; letter-spacing: -0.03em; max-width: 840px; margin-left: auto; margin-right: auto; }
+        .hero h1 .accent { color: var(--blue); }
+        .hero-sub { font-size: clamp(1rem, 2vw, 1.15rem); color: var(--gray-500); max-width: 540px; margin: 0 auto 38px; font-weight: 400; line-height: 1.7; }
+        .hero-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+        .btn-primary-lg { display: inline-flex; align-items: center; gap: 8px; background: var(--blue); color: white; padding: 15px 30px; border-radius: 10px; font-size: 0.975rem; font-weight: 700; box-shadow: 0 4px 14px rgba(37,99,235,0.35); transition: all 0.2s; }
+        .btn-primary-lg:hover { background: var(--blue-dark); transform: translateY(-2px); box-shadow: 0 6px 20px rgba(37,99,235,0.45); }
+        .btn-ghost-lg { display: inline-flex; align-items: center; gap: 8px; background: transparent; color: var(--gray-700); padding: 15px 26px; border-radius: 10px; border: 1.5px solid var(--gray-200); font-size: 0.975rem; font-weight: 600; transition: all 0.2s; }
+        .btn-ghost-lg:hover { border-color: var(--blue); color: var(--blue); }
+        .hero-note { margin-top: 16px; font-size: 0.8rem; color: var(--gray-400); }
+
+        /* STATS */
+        .stats-bar { background: var(--navy); padding: 28px 5%; }
+        .stats-inner { max-width: 900px; margin: 0 auto; display: flex; justify-content: center; flex-wrap: wrap; }
+        .stat-item { text-align: center; padding: 0 32px; }
+        .stat-number { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 2.2rem; font-weight: 900; color: white; line-height: 1; letter-spacing: -0.03em; }
+        .stat-number .accent { color: var(--blue-light); }
+        .stat-label { font-size: 0.82rem; color: rgba(255,255,255,0.5); margin-top: 4px; font-weight: 500; }
+        .stat-divider { width: 1px; background: rgba(255,255,255,0.1); align-self: stretch; margin: 4px 0; }
+
+        /* TRUST */
+        .trust-badges { background: var(--white); padding: 18px 5%; border-bottom: 1px solid var(--gray-200); }
+        .trust-inner { max-width: 880px; margin: 0 auto; display: flex; justify-content: center; gap: 28px; flex-wrap: wrap; align-items: center; }
+        .badge-item { display: flex; align-items: center; gap: 8px; font-size: 0.825rem; font-weight: 600; color: var(--gray-500); }
+        .badge-icon { width: 20px; height: 20px; background: var(--green); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-size: 0.65rem; font-weight: 900; flex-shrink: 0; }
+
+        /* AUDIT CTA */
+        .audit-cta { padding: 80px 5%; background: linear-gradient(135deg, var(--navy) 0%, #0F2744 100%); text-align: center; position: relative; overflow: hidden; }
+        .audit-cta::before { content: ''; position: absolute; top: -80px; left: -80px; width: 480px; height: 480px; background: radial-gradient(circle, rgba(37,99,235,0.14) 0%, transparent 70%); }
+        .audit-cta::after { content: ''; position: absolute; bottom: -80px; right: -80px; width: 480px; height: 480px; background: radial-gradient(circle, rgba(13,148,136,0.1) 0%, transparent 70%); }
+        .audit-cta .section-label { color: rgba(255,255,255,0.45); margin-bottom: 12px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; }
+        .audit-cta h2 { font-size: clamp(1.8rem, 4vw, 2.6rem); color: white; margin-bottom: 14px; letter-spacing: -0.02em; position: relative; }
+        .audit-cta p { color: rgba(255,255,255,0.6); font-size: 1rem; max-width: 500px; margin: 0 auto 36px; position: relative; }
+        .audit-form { display: flex; gap: 10px; max-width: 500px; margin: 0 auto; flex-wrap: wrap; justify-content: center; position: relative; }
+        .audit-form input { flex: 1; min-width: 210px; padding: 13px 16px; border-radius: 10px; border: 1.5px solid rgba(255,255,255,0.15); background: rgba(255,255,255,0.08); color: white; font-size: 0.9rem; outline: none; backdrop-filter: blur(8px); transition: border-color 0.2s; }
+        .audit-form input::placeholder { color: rgba(255,255,255,0.38); }
+        .audit-form input:focus { border-color: var(--blue-light); }
+        .audit-form button { padding: 13px 26px; background: var(--blue); color: white; border: none; border-radius: 10px; font-weight: 700; font-size: 0.9rem; cursor: pointer; transition: all 0.2s; white-space: nowrap; font-family: inherit; }
+        .audit-form button:hover { background: var(--blue-light); transform: translateY(-1px); }
+        .audit-note { margin-top: 12px; color: rgba(255,255,255,0.38); font-size: 0.78rem; position: relative; }
+
+        /* PORTFOLIO */
+        .portfolio { padding: 72px 0; background: var(--light); overflow: hidden; }
+        .portfolio .section-label { text-align: center; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: var(--blue); margin-bottom: 8px; }
+        .portfolio .section-title { text-align: center; font-size: clamp(1.5rem, 3vw, 2rem); color: var(--navy); margin-bottom: 44px; letter-spacing: -0.02em; }
+        .carousel-wrapper { overflow: hidden; width: 100%; }
+        .carousel-track { display: flex; gap: 22px; animation: scroll 45s linear infinite; width: max-content; }
+        .carousel-track:hover { animation-play-state: paused; }
+        @keyframes scroll { 0%{transform:translateX(0)} 100%{transform:translateX(-50%)} }
+        .carousel-card { flex-shrink: 0; width: 296px; background: white; border-radius: 14px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid var(--gray-200); transition: transform 0.2s, box-shadow 0.2s; }
+        .carousel-card:hover { transform: translateY(-4px); box-shadow: 0 10px 28px rgba(0,0,0,0.12); }
+        .carousel-card img { width: 100%; height: 195px; object-fit: cover; display: block; }
+        .carousel-card-info { padding: 14px 16px; }
+        .carousel-card-name { font-weight: 700; font-size: 0.9rem; color: var(--navy); margin-bottom: 3px; }
+        .carousel-card-loc { font-size: 0.78rem; color: var(--gray-500); }
+
+        /* HOW IT WORKS */
+        .how-it-works { padding: 80px 5%; background: var(--white); }
+        .section-label { text-align: center; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: var(--blue); margin-bottom: 12px; }
+        .section-title { text-align: center; font-size: clamp(1.5rem, 3vw, 2rem); color: var(--navy); margin-bottom: 48px; letter-spacing: -0.02em; }
+        .steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; max-width: 880px; margin: 0 auto; }
+        .step { text-align: center; padding: 34px 26px; border-radius: 16px; background: var(--light); border: 1px solid var(--gray-200); }
+        .step-number { width: 52px; height: 52px; background: linear-gradient(135deg, var(--blue) 0%, var(--blue-dark) 100%); color: white; border-radius: 14px; display: flex; align-items: center; justify-content: center; font-family: 'Plus Jakarta Sans', sans-serif; font-size: 1.4rem; font-weight: 900; margin: 0 auto 18px; }
+        .step h3 { font-size: 1.05rem; font-weight: 800; color: var(--navy); margin-bottom: 10px; }
+        .step p { font-size: 0.875rem; color: var(--gray-500); line-height: 1.65; }
+
+        /* PRICING */
+        .pricing { padding: 80px 5%; background: var(--light); }
+        .pricing-intro { text-align: center; color: var(--gray-500); margin-bottom: 44px; font-size: 0.95rem; }
+        .pricing-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; max-width: 960px; margin: 0 auto; }
+        .pricing-card { background: white; border-radius: 20px; padding: 34px 28px; border: 1.5px solid var(--gray-200); display: flex; flex-direction: column; transition: transform 0.2s, box-shadow 0.2s; position: relative; }
+        .pricing-card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(0,0,0,0.09); }
+        .pricing-card.featured { border-color: var(--blue); box-shadow: 0 0 0 4px rgba(37,99,235,0.08), 0 8px 28px rgba(37,99,235,0.14); }
+        .pricing-badge { position: absolute; top: -13px; left: 50%; transform: translateX(-50%); background: var(--blue); color: white; padding: 4px 16px; border-radius: 20px; font-size: 0.72rem; font-weight: 700; white-space: nowrap; }
+        .pricing-tier { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: var(--blue); margin-bottom: 6px; }
+        .pricing-name { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 1.15rem; font-weight: 800; color: var(--navy); margin-bottom: 6px; }
+        .pricing-desc { font-size: 0.825rem; color: var(--gray-500); margin-bottom: 20px; line-height: 1.5; min-height: 36px; }
+        .pricing-price { margin-bottom: 20px; }
+        .pricing-amount { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 2.6rem; font-weight: 900; color: var(--navy); letter-spacing: -0.04em; line-height: 1; }
+        .pricing-period { font-size: 0.8rem; color: var(--gray-500); margin-top: 4px; }
+        .pricing-features { list-style: none; flex: 1; margin-bottom: 24px; }
+        .pricing-features li { padding: 8px 0; font-size: 0.825rem; color: var(--gray-700); border-bottom: 1px solid var(--gray-100); display: flex; align-items: flex-start; gap: 9px; }
+        .pricing-features li:last-child { border-bottom: none; }
+        .pricing-features li::before { content: '✓'; color: var(--green); font-weight: 900; flex-shrink: 0; margin-top: 1px; }
+        .btn-pricing { display: block; text-align: center; padding: 12px; border-radius: 10px; font-weight: 700; font-size: 0.875rem; text-decoration: none; transition: all 0.2s; }
+        .btn-pricing-outline { border: 1.5px solid var(--gray-200); color: var(--gray-700); }
+        .btn-pricing-outline:hover { border-color: var(--blue); color: var(--blue); }
+        .btn-pricing-fill { background: var(--blue); color: white; }
+        .btn-pricing-fill:hover { background: var(--blue-dark); }
+
+        /* TESTIMONIALS */
+        .testimonials { padding: 80px 5%; background: var(--white); }
+        .testimonial-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; max-width: 960px; margin: 0 auto; }
+        .testimonial { padding: 26px; border-radius: 16px; background: var(--light); border: 1px solid var(--gray-200); position: relative; }
+        .testimonial::before { content: '"'; position: absolute; top: 14px; left: 20px; font-size: 3.5rem; color: var(--blue); opacity: 0.12; font-family: Georgia, serif; line-height: 1; }
+        .testimonial-text { font-size: 0.875rem; color: var(--gray-700); margin-bottom: 18px; line-height: 1.7; position: relative; }
+        .testimonial-stars { color: var(--amber); font-size: 0.8rem; margin-bottom: 10px; letter-spacing: 2px; }
+        .testimonial-author { font-weight: 700; font-size: 0.825rem; color: var(--navy); }
+        .testimonial-role { font-size: 0.775rem; color: var(--gray-500); margin-top: 2px; }
+
+        /* FAQ */
+        .faq { padding: 80px 5%; background: var(--light); }
+        .faq-list { max-width: 700px; margin: 0 auto; }
+        .faq-item { background: white; border-radius: 12px; padding: 20px 24px; margin-bottom: 10px; border: 1px solid var(--gray-200); cursor: pointer; transition: box-shadow 0.2s; }
+        .faq-item:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
+        .faq-q { display: flex; justify-content: space-between; align-items: center; font-size: 0.925rem; font-weight: 700; color: var(--navy); }
+        .faq-q::after { content: '+'; font-size: 1.3rem; color: var(--blue); font-weight: 400; transition: transform 0.2s; }
+        .faq-item.open .faq-q::after { transform: rotate(180deg); content: '−'; }
+        .faq-a { font-size: 0.875rem; color: var(--gray-500); margin-top: 10px; line-height: 1.65; display: none; }
+        .faq-item.open .faq-a { display: block; }
+
+        /* FINAL CTA */
+        .final-cta { padding: 80px 5%; background: linear-gradient(135deg, var(--blue) 0%, var(--blue-dark) 100%); text-align: center; position: relative; overflow: hidden; }
+        .final-cta::before { content: ''; position: absolute; inset: 0; background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.035'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); }
+        .final-cta h2 { font-size: clamp(1.7rem, 4vw, 2.4rem); color: white; margin-bottom: 14px; position: relative; letter-spacing: -0.02em; }
+        .final-cta p { color: rgba(255,255,255,0.75); font-size: 1rem; max-width: 460px; margin: 0 auto 34px; position: relative; }
+        .final-cta-form { display: flex; gap: 10px; max-width: 460px; margin: 0 auto; flex-wrap: wrap; justify-content: center; position: relative; }
+        .final-cta-form input { flex: 1; min-width: 190px; padding: 13px 16px; border-radius: 10px; border: 1.5px solid rgba(255,255,255,0.25); background: rgba(255,255,255,0.12); color: white; font-size: 0.9rem; outline: none; }
+        .final-cta-form input::placeholder { color: rgba(255,255,255,0.5); }
+        .final-cta-form input:focus { border-color: rgba(255,255,255,0.6); }
+        .final-cta-form button { padding: 13px 26px; background: var(--teal); color: white; border: none; border-radius: 10px; font-weight: 700; font-size: 0.9rem; cursor: pointer; transition: background 0.2s; white-space: nowrap; font-family: inherit; }
+        .final-cta-form button:hover { background: var(--teal-dark); }
+        .final-cta-note { margin-top: 12px; color: rgba(255,255,255,0.45); font-size: 0.78rem; position: relative; }
+
+        /* FOOTER */
+        footer { padding: 48px 5% 28px; background: var(--navy); }
+        .footer-inner { max-width: 900px; margin: 0 auto; }
+        .footer-top { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 32px; margin-bottom: 36px; }
+        .footer-brand .brand { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 1.1rem; font-weight: 800; color: white; margin-bottom: 8px; }
+        .footer-brand p { font-size: 0.82rem; color: rgba(255,255,255,0.45); line-height: 1.55; max-width: 260px; }
+        .footer-links { display: flex; gap: 44px; flex-wrap: wrap; }
+        .footer-col h4 { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: rgba(255,255,255,0.35); margin-bottom: 14px; }
+        .footer-col a { display: block; color: rgba(255,255,255,0.55); text-decoration: none; font-size: 0.825rem; margin-bottom: 10px; transition: color 0.2s; }
+        .footer-col a:hover { color: white; }
+        .footer-bottom { border-top: 1px solid rgba(255,255,255,0.07); padding-top: 22px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+        .footer-bottom p { font-size: 0.775rem; color: rgba(255,255,255,0.35); }
+        .footer-bottom a { color: rgba(255,255,255,0.35); text-decoration: none; font-size: 0.775rem; transition: color 0.2s; }
+        .footer-bottom a:hover { color: rgba(255,255,255,0.65); }
+
+        /* MOBILE */
+        @media (max-width: 768px) {
+            nav .nav-links { display: none; }
+            .hero { padding: 52px 5% 44px; }
+            .hero h1 { font-size: 1.95rem; }
+            .stat-item { padding: 0 16px; }
+            .stat-divider { display: none; }
+            .stats-inner { gap: 8px; }
+            .steps { grid-template-columns: 1fr; gap: 14px; }
+            .pricing-grid { grid-template-columns: 1fr; max-width: 400px; }
+            .pricing-card.featured { order: -1; }
+            .testimonial-grid { grid-template-columns: 1fr; }
+            .trust-inner { gap: 14px; }
+            .footer-top { flex-direction: column; }
+            .footer-links { gap: 24px; }
+            /* Mobile: horizontal scroll portfolio */
+            .portfolio { padding: 52px 0; }
+            .carousel-wrapper { overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+            .carousel-wrapper::-webkit-scrollbar { display: none; }
+            .carousel-track { animation: none; display: flex; gap: 14px; padding: 0 5%; width: auto; }
+            .carousel-card { flex-shrink: 0; width: 255px; scroll-snap-align: start; }
+            .carousel-card img { height: 165px; }
+        }
+
+        /* FAQ accordion */
+        .faq-item { user-select: none; }
+        .faq-item.open { box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
+    </style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+    <a href="#" class="nav-logo">TheSmart<span>Website</span>.co</a>
+    <div class="nav-links">
+        <a href="#how-it-works">How It Works</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#portfolio">Our Work</a>
+        <a href="#faq">FAQ</a>
+        <a href="#get-audit" class="nav-cta">Free Audit</a>
+    </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+    <div class="hero-badge">
+        <span class="hero-badge-dot"></span>
+        Free Website Audit — No Obligation
+    </div>
+    <h1>We Find The Leaks In Your Business<br><span class="accent">Before We Fix Them</span></h1>
+    <p class="hero-sub">We audit your website and show you exactly what's costing you leads — then build the fix. For Australian tradies and small businesses.</p>
+    <div class="hero-actions">
+        <a href="#get-audit" class="btn-primary-lg">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/><path d="M11 8v6M8 11h6"/></svg>
+            Get Your Free Audit
+        </a>
+        <a href="#how-it-works" class="btn-ghost-lg">See How It Works</a>
+    </div>
+    <p class="hero-note">Used by 127+ Australian businesses &bull; No credit card required</p>
+</section>
+
+<!-- STATS -->
+<section class="stats-bar">
+    <div class="stats-inner">
+        <div class="stat-item"><div class="stat-number">127<span class="accent">+</span></div><div class="stat-label">Websites Built</div></div>
+        <div class="stat-divider"></div>
+        <div class="stat-item"><div class="stat-number">50<span class="accent">+</span></div><div class="stat-label">Happy Clients</div></div>
+        <div class="stat-divider"></div>
+        <div class="stat-item"><div class="stat-number">5–7</div><div class="stat-label">Day Turnaround</div></div>
+        <div class="stat-divider"></div>
+        <div class="stat-item"><div class="stat-number">100<span class="accent">%</span></div><div class="stat-label">Australian Owned</div></div>
+    </div>
+</section>
+
+<!-- TRUST -->
+<section class="trust-badges">
+    <div class="trust-inner">
+        <div class="badge-item"><div class="badge-icon">★</div>5★ Google Reviews</div>
+        <div class="badge-item"><div class="badge-icon">✓</div>Google Certified Partner</div>
+        <div class="badge-item"><div class="badge-icon">&#x2713;</div>SSL & Security Included</div>
+        <div class="badge-item"><div class="badge-icon">&#x1F4DE;</div>Australian Support</div>
+    </div>
+</section>
+
+<!-- AUDIT CTA -->
+<section class="audit-cta" id="get-audit">
+    <p class="section-label">Free Website Audit</p>
+    <h2>See Exactly What's Leaking From Your Website</h2>
+    <p>Paste your URL. We'll audit it and send you a detailed report on what's costing you leads — free, no obligation.</p>
+    <form class="audit-form" action="mailto:hello@thesmartwebsite.co" method="GET" enctype="text/plain">
+        <input type="url" name="body" placeholder="https://yourwebsite.com.au" required>
+        <button type="submit">Get My Free Audit</button>
+    </form>
+    <p class="audit-note">Or email us directly: hello@thesmartwebsite.co</p>
+</section>
+
+<!-- PORTFOLIO -->
+<section class="portfolio" id="portfolio">
+    <p class="section-label">Our Work</p>
+    <h2 class="section-title">Websites We've Built</h2>
+    <div class="carousel-wrapper">
+        <div class="carousel-track">
+            <div class="carousel-card"><img src="images/newcastle_electrician.jpeg" alt="Newcastle Spark Electrical"><div class="carousel-card-info"><div class="carousel-card-name">Newcastle Spark Electrical</div><div class="carousel-card-loc">Newcastle, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/wollongong_plumber.jpeg" alt="South Coast Plumbing"><div class="carousel-card-info"><div class="carousel-card-name">South Coast Plumbing</div><div class="carousel-card-loc">Wollongong, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/port_macquarie_mechanic.jpeg" alt="Coastal Auto Repairs"><div class="carousel-card-info"><div class="carousel-card-name">Coastal Auto Repairs</div><div class="carousel-card-loc">Port Macquarie, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/sydney_roofer.jpeg" alt="Sydney Metro Roofing"><div class="carousel-card-info"><div class="carousel-card-name">Sydney Metro Roofing</div><div class="carousel-card-loc">Sydney, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/bathurst_salon.jpeg" alt="Hair & Beauty Salon"><div class="carousel-card-info"><div class="carousel-card-name">Hair & Beauty Salon</div><div class="carousel-card-loc">Bathurst, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/newcastle_gym.jpeg" alt="Fitness First Gym"><div class="carousel-card-info"><div class="carousel-card-name">Fitness First Gym</div><div class="carousel-card-loc">Newcastle, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/orange_cafe.jpeg" alt="The Local Roastery"><div class="carousel-card-info"><div class="carousel-card-name">The Local Roastery</div><div class="carousel-card-loc">Orange, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/sydney_dentist.jpeg" alt="Harbour Smiles Dental"><div class="carousel-card-info"><div class="carousel-card-name">Harbour Smiles Dental</div><div class="carousel-card-loc">Sydney, NSW</div></div></div>
+            <!-- Duplicate for seamless loop -->
+            <div class="carousel-card"><img src="images/newcastle_electrician.jpeg" alt="Newcastle Spark Electrical"><div class="carousel-card-info"><div class="carousel-card-name"><div class="carousel-card-name">Newcastle Spark Electrical</div><div class="carousel-card-loc">Newcastle, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/wollongong_plumber.jpeg" alt="South Coast Plumbing"><div class="carousel-card-info"><div class="carousel-card-name">South Coast Plumbing</div><div class="carousel-card-loc">Wollongong, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/port_macquarie_mechanic.jpeg" alt="Coastal Auto Repairs"><div class="carousel-card-info"><div class="carousel-card-name">Coastal Auto Repairs</div><div class="carousel-card-loc">Port Macquarie, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/sydney_roofer.jpeg" alt="Sydney Metro Roofing"><div class="carousel-card-info"><div class="carousel-card-name">Sydney Metro Roofing</div><div class="carousel-card-loc">Sydney, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/bathurst_salon.jpeg" alt="Hair & Beauty Salon"><div class="carousel-card-info"><div class="carousel-card-name">Hair & Beauty Salon</div><div class="carousel-card-loc">Bathurst, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/newcastle_gym.jpeg" alt="Fitness First Gym"><div class="carousel-card-info"><div class="carousel-card-name">Fitness First Gym</div><div class="carousel-card-loc">Newcastle, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/orange_cafe.jpeg" alt="The Local Roastery"><div class="carousel-card-info"><div class="carousel-card-name">The Local Roastery</div><div class="carousel-card-loc">Orange, NSW</div></div></div>
+            <div class="carousel-card"><img src="images/sydney_dentist.jpeg" alt="Harbour Smiles Dental"><div class="carousel-card-info"><div class="carousel-card-name">Harbour Smiles Dental</div><div class="carousel-card-loc">Sydney, NSW</div></div></div>
+        </div>
+    </div>
+
+        </div></section>
+
+<!-- HOW IT WORKS -->
+<section class="how-it-works" id="how-it-works">
+    <p class="section-label">How It Works</p>
+    <h2 class="section-title">Three steps to more enquiries</h2>
+    <div class="steps">
+        <div class="step">
+            <div class="step-number">1</div>
+            <h3>Send Us Your URL</h3>
+            <p>Share your current website URL. We'll run a full audit and identify exactly what's costing you leads — free.</p>
+        </div>
+        <div class="step">
+            <div class="step-number">2</div>
+            <h3>We Show You the Leaks</h3>
+            <p>Get a detailed audit report: design issues, lead capture gaps, SEO problems, and competitor comparisons.</p>
+        </div>
+        <div class="step">
+            <div class="step-number">3</div>
+            <h3>We Build the Fix</h3>
+            <p>We redesign and redeploy your site — optimised to convert visitors into enquiries and phone calls.</p>
+        </div>
+    </div>
+</section>
+
+<!-- PRICING -->
+<section class="pricing" id="pricing">
+    <p class="section-label">Pricing</p>
+    <h2 class="section-title">Honest pricing. No surprises.</h2>
+    <p class="pricing-intro">We start with a free audit so you know exactly what you're getting before any commitment.</p>
+    <div class="pricing-grid">
+        <div class="pricing-card">
+            <div class="pricing-tier">Tier 1</div>
+            <div class="pricing-name">Website Audit</div>
+            <div class="pricing-desc">A complete breakdown of what's costing you leads and how to fix it.</div>
+            <div class="pricing-price"><div class="pricing-amount">FREE</div><div class="pricing-period">no credit card</div></div>
+            <ul class="pricing-features">
+                <li>Full website audit report</li>
+                <li>Lead capture analysis</li>
+                <li>Competitor comparison</li>
+                <li>Prioritised fix list</li>
+                <li>No obligation quote</li>
+            </ul>
+            <a href="#get-audit" class="btn-pricing btn-pricing-outline">Get Free Audit</a>
+        </div>
+        <div class="pricing-card featured">
+            <div class="pricing-badge">Most Popular</div>
+            <div class="pricing-tier">Tier 2</div>
+            <div class="pricing-name">Full Website Build</div>
+            <div class="pricing-desc">Modern, mobile-first website built to convert visitors into enquiries.</div>
+            <div class="pricing-price"><div class="pricing-amount">$497</div><div class="pricing-period">one-time + $99/mo hosting</div></div>
+            <ul class="pricing-features">
+                <li>Custom mobile-first design</li>
+                <li>Click-to-call phone number</li>
+                <li>Working contact form</li>
+                <li>SSL certificate included</li>
+                <li>5–7 day turnaround</li>
+                <li>Monthly hosting & support</li>
+            </ul>
+            <a href="#get-audit" class="btn-pricing btn-pricing-fill">Start with Free Audit</a>
+        </div>
+        <div class="pricing-card">
+            <div class="pricing-tier">Tier 3</div>
+            <div class="pricing-name">AI Automation Bundle</div>
+            <div class="pricing-desc">Full website plus AI chatbot, SMS reminders, and smart booking — from $99/mo.</div>
+            <div class="pricing-price"><div class="pricing-amount">$99<span style="font-size:1.2rem;font-weight:600">/mo</span></div><div class="pricing-period">retainer — cancel anytime</div></div>
+            <ul class="pricing-features">
+                <li>Everything in Website Build</li>
+                <li>AI chat widget (24/7 lead capture)</li>
+                <li>SMS booking reminders</li>
+                <li>Voice receptionist (AI answering)</li>
+                <li>Monthly optimisation</li>
+                <li>Priority support</li>
+            </ul>
+            <a href="#get-audit" class="btn-pricing btn-pricing-outline">Get Started</a>
+        </div>
+    </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="testimonials">
+    <p class="section-label">What Our Clients Say</p>
+    <h2 class="section-title">Trusted by tradies across Australia</h2>
+    <div class="testimonial-grid">
+        <div class="testimonial">
+            <div class="testimonial-stars">★★★★★</div>
+            <p class="testimonial-text">"Our enquiries doubled in the first month after the new site went live. The difference is night and day."</p>
+            <div class="testimonial-author">Mark R.</div>
+            <div class="testimonial-role">Electrician, Newcastle NSW</div>
+        </div>
+        <div class="testimonial">
+            <div class="testimonial-stars">★★★★★</div>
+            <p class="testimonial-text">"Finally a web company that gets tradies. Simple process, and the result speaks for itself."</p>
+            <div class="testimonial-author">Sarah T.</div>
+            <div class="testimonial-role">Plumber, Brisbane QLD</div>
+        </div>
+        <div class="testimonial">
+            <div class="testimonial-stars">★★★★★</div>
+            <p class="testimonial-text">"I was skeptical but the results don't lie. Our phone hasn't stopped ringing since the new site launched."</p>
+            <div class="testimonial-author">James K.</div>
+            <div class="testimonial-role">HVAC Contractor, Melbourne VIC</div>
+        </div>
+    </div>
+</section>
+
+<!-- FAQ -->
+<section class="faq" id="faq">
+    <p class="section-label">FAQ</p>
+    <h2 class="section-title">Questions? Answers.</h2>
+    <div class="faq-list">
+        <div class="faq-item" onclick="this.classList.toggle('open')">
+            <div class="faq-q">How long does a website take?</div>
+            <div class="faq-a">Most websites are ready within 5–7 business days from when you approve the design mockup.</div>
+        </div>
+        <div class="faq-item" onclick="this.classList.toggle('open')">
+            <div class="faq-q">What if I don't like the design?</div>
+            <div class="faq-a">We show you the mockup before we build. We'll revise until you're happy — no charge for reasonable revisions.</div>
+        </div>
+        <div class="faq-item" onclick="this.classList.toggle('open')">
+            <div class="faq-q">Do I need to provide content?</div>
+            <div class="faq-a">We use your existing content where possible. You just approve — we handle the rest, including copywriting.</div>
+        </div>
+        <div class="faq-item" onclick="this.classList.toggle('open')">
+            <div class="faq-q">What's the free audit?</div>
+            <div class="faq-a">We run a full analysis of your current website and send you a detailed report on what's costing you leads, what your competitors are doing, and how to fix it. No obligation, no credit card.</div>
+        </div>
+        <div class="faq-item" onclick="this.classList.toggle('open')">
+            <div class="faq-q">What does the $99/mo retainer include?</div>
+            <div class="faq-a">Hosting, SSL, monthly optimisation, uptime monitoring, and support. Optional AI add-ons (chat widget, SMS reminders, voice receptionist) can be added from $99/mo.</div>
+        </div>
+        <div class="faq-item" onclick="this.classList.toggle('open')">
+            <div class="faq-q">Can I cancel the monthly plan?</div>
+            <div class="faq-a">Yes, cancel any time. Your website files are always yours — we can export and transfer them if you leave.</div>
+        </div>
+    </div>
+</section>
+
+<!-- FINAL CTA -->
+<section class="final-cta">
+    <h2>Ready to Find Your Leaks?</h2>
+    <p>Get your free website audit. We'll show you exactly what's costing you leads — then tell you how to fix it.</p>
+    <form class="final-cta-form" action="mailto:hello@thesmartwebsite.co" method="GET" enctype="text/plain">
+        <input type="url" name="body" placeholder="https://yourwebsite.com.au" required>
+        <button type="submit">Get Free Audit →</button>
+    </form>
+    <p class="final-cta-note">Or email hello@thesmartwebsite.co — we respond within 2 hours</p>
+</section>
+
+<!-- FOOTER -->
+<footer>
+    <div class="footer-inner">
+        <div class="footer-top">
+            <div class="footer-brand">
+                <div class="brand">TheSmartWebsite.co</div>
+                <p>Helping Australian tradies and small businesses grow — one website at a time. Built in Australia, for Australian businesses.</p>
+            </div>
+            <div class="footer-links">
+                <div class="footer-col">
+                    <h4>Service</h4>
+                    <a href="#how-it-works">How It Works</a>
+                    <a href="#pricing">Pricing</a>
+                    <a href="#get-audit">Free Audit</a>
+                    <a href="#portfolio">Our Work</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Contact</h4>
+                    <a href="mailto:hello@thesmartwebsite.co">hello@thesmartwebsite.co</a>
+                    <a href="#">0432 XXX XXX</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2026 TheSmartWebsite.co — ABN XX XXX XXX XXX</p>
+            <div>
+                <a href="#">Privacy Policy</a>&ensp;<a href="#">Terms of Service</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>
