@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Newcastle Electrical Services — Website Audit</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f0f0f; color: #f5f5f5; min-height: 100vh; }
+  .hero { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 60px 20px; text-align: center; }
+  .hero h1 { font-size: clamp(28px,5vw,48px); font-weight: 800; color: #fff; margin-bottom: 8px; }
+  .hero p { color: #94a3b8; font-size: 18px; }
+  .score-badge { display: inline-block; background: #ef4444; color: #fff; font-size: 14px; font-weight: 700; padding: 4px 16px; border-radius: 20px; margin-top: 12px; text-transform: uppercase; letter-spacing: 1px; }
+  .container { max-width: 900px; margin: 0 auto; padding: 40px 20px; }
+  .website-link { background: #1e293b; border-radius: 12px; padding: 20px; margin: 20px 0; border: 1px solid #334155; }
+  .website-link a { color: #60a5fa; font-size: 16px; word-break: break-all; }
+  .website-link span { color: #64748b; font-size: 13px; display: block; margin-top: 4px; }
+  .metrics-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; margin: 20px 0; }
+  .metric-card { background: #1e293b; border-radius: 12px; padding: 20px; border: 1px solid #334155; }
+  .metric-card .val { font-size: 36px; font-weight: 800; color: #fff; }
+  .metric-card .lbl { color: #64748b; font-size: 13px; margin-top: 4px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .metric-card.perf { border-color: #ef4444; }
+  .metric-card.acces { border-color: #eab308; }
+  .metric-card.seo { border-color: #eab308; }
+  .metric-card.bp { border-color: #eab308; }
+  .section { background: #1e293b; border-radius: 12px; padding: 24px; margin: 20px 0; border: 1px solid #334155; }
+  .section h2 { font-size: 20px; font-weight: 700; color: #fff; margin-bottom: 16px; border-bottom: 1px solid #334155; padding-bottom: 12px; }
+  .issue-item { background: #1e293b; border-left: 3px solid #ef4444; padding: 12px 16px; margin: 10px 0; border-radius: 0 8px 8px 0; }
+  .rec-item { background: #0f172a; border-left: 3px solid #22c55e; padding: 12px 16px; margin: 10px 0; border-radius: 0 8px 8px 0; font-size: 15px; }
+  .cta-section { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 12px; padding: 40px; text-align: center; margin: 30px 0; }
+  .cta-section h2 { font-size: 28px; font-weight: 800; color: #fff; margin-bottom: 12px; }
+  .cta-section p { color: #94a3b8; margin-bottom: 24px; font-size: 16px; }
+  .cta-btn { display: inline-block; background: #FF5C1A; color: #fff; font-weight: 700; font-size: 18px; padding: 16px 40px; border-radius: 8px; text-decoration: none; text-transform: uppercase; letter-spacing: 1px; }
+  .cta-btn:hover { background: #e04a10; }
+  .rule-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 10px; }
+  .rule-item { background: #0f172a; padding: 10px 14px; border-radius: 6px; font-size: 13px; display: flex; align-items: center; gap: 8px; }
+  .rule-pass { color: #22c55e; font-weight: 700; } .rule-fail { color: #ef4444; font-weight: 700; }
+  .rule-partial { color: #eab308; font-weight: 700; }
+  .footer { text-align: center; padding: 40px; color: #475569; font-size: 13px; }
+  @keyframes pulse { 0%,100%{opacity:1}50%{opacity:0.4} }
+  @media (max-width: 600px) { .metrics-grid { grid-template-columns: 1fr 1fr; } }
+</style>
+</head>
+<body>
+<div class="hero">
+  <h1>Newcastle Electrical Services</h1>
+  <p>Electrician in Newcastle</p>
+  <div style="text-align:center;padding:40px 20px 30px">
+    <div style="font-size:11px;font-family:'IBM Plex Mono',monospace;text-transform:uppercase;letter-spacing:0.12em;color:#666;margin-bottom:8px">Issues Found</div>
+    <div style="font-family:'Montserrat',sans-serif;font-weight:900;font-size:clamp(64px,18vw,110px);line-height:1;color:#F2F2F2;letter-spacing:-0.04em;">18</div>
+    <div style="font-size:13px;font-family:'IBM Plex Mono',monospace;color:#555;margin-top:6px;margin-bottom:16px">across 30 website checks</div>
+    <div style="display:inline-flex;align-items:center;gap:8px;padding:8px 18px;border-radius:6px;background:rgba(255,60,60,0.1);border:1px solid #FF444455;font-family:'IBM Plex Mono',monospace;font-size:12px;font-weight:700;color:#FF4444;text-transform:uppercase;letter-spacing:0.1em">
+      <span style="width:7px;height:7px;border-radius:50%;background:#FF4444;display:inline-block;animation:pulse 2s ease infinite;"></span>
+      Critical
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="website-link">
+    <a href="https://newcastleelectrical.com.au" target="_blank">https://newcastleelectrical.com.au</a>
+    <span>Source: Google Maps + Direct</span>
+  </div>
+  <div class="metrics-grid">
+    <div class="metric-card perf">
+      <div class="val">47</div>
+      <div class="lbl">Performance</div>
+    </div>
+    <div class="metric-card acces">
+      <div class="val">62</div>
+      <div class="lbl">Accessibility</div>
+    </div>
+    <div class="metric-card seo">
+      <div class="val">71</div>
+      <div class="lbl">SEO</div>
+    </div>
+    <div class="metric-card bp">
+      <div class="val">58</div>
+      <div class="lbl">Best Practices</div>
+    </div>
+  </div>
+  <div class="section">
+    <h2>Top Issues Found</h2>
+  <script>
+  const ALL_ISSUES = [{"num": "1", "title": "No visible CTA above the fold", "finding": "No visible CTA above the fold", "fix": "Add CTA", "impact": "Needs attention"}, {"num": "2", "title": "Mobile navigation breaks on iOS", "finding": "Mobile navigation breaks on iOS", "fix": "Form validation", "impact": "Needs attention"}, {"num": "3", "title": "Contact form has no validation", "finding": "Contact form has no validation", "fix": "Schema", "impact": "Needs attention"}, {"num": "4", "title": "Page speed below 50 on mobile", "finding": "Page speed below 50 on mobile", "fix": "Speed", "impact": "Needs attention"}, {"num": "5", "title": "No Google Business Schema markup", "finding": "No Google Business Schema markup", "fix": "Mobile nav", "impact": "Needs attention"}];
+const THANK_YOU_URL = 'https://newcastle-electrical-services-2026-05-13.thesmartwebsite.co/thank-you';
+  </script>
+  <div style="padding:0 20px 60px;max-width:680px;margin:0 auto">
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:28px;flex-wrap:wrap;gap:12px">
+      <div>
+        <div style="font-size:11px;font-family:'IBM Plex Mono',monospace;text-transform:uppercase;letter-spacing:0.12em;color:#B8FF00;margin-bottom:6px">What We Found</div>
+        <div style="font-family:'Montserrat',sans-serif;font-weight:900;font-size:clamp(22px,5vw,32px);text-transform:uppercase;letter-spacing:-0.02em;color:#F2F2F2">Critical Issues</div>
+      </div>
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:12px;color:#666">3 of 5 shown — <a href="#" onclick="openModal(0);return false;" style="color:#B8FF00;text-decoration:none;font-weight:700">View all 5</a></div>
+    </div>
+    <div style="background:#161616;border:1px solid #2a2a2a;border-left:3px solid #FF4444;border-radius:8px;padding:16px;margin-bottom:12px"><div style="color:#FF4444;font-size:11px;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:6px;font-weight:700">No visible CTA above the fold</div></div><div style="background:#161616;border:1px solid #2a2a2a;border-left:3px solid #FF4444;border-radius:8px;padding:16px;margin-bottom:12px"><div style="color:#FF4444;font-size:11px;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:6px;font-weight:700">Mobile navigation breaks on iOS</div></div><div style="background:#161616;border:1px solid #2a2a2a;border-left:3px solid #FF4444;border-radius:8px;padding:16px;margin-bottom:12px"><div style="color:#FF4444;font-size:11px;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:6px;font-weight:700">Contact form has no validation</div></div>
+  </div>
+  <div class="section">
+    <h2>What We'd Fix</h2>
+    <div class="rec-item">&#10004; Add CTA</div><div class="rec-item">&#10004; Form validation</div><div class="rec-item">&#10004; Schema</div>
+  </div>
+  <div class="cta-section">
+    <h2>See What Your Site Could Look Like</h2>
+    <p>We built a mockup for Newcastle Electrical Services. It's free to look at — no obligation.</p>
+    <a href="#" class="cta-btn">View Free Mockup</a>
+  </div>
+  <div class="section">
+    <h2>Design Audit (0 rules checked)</h2>
+    <div class="rule-grid">
+      
+    </div>
+  </div>
+</div>
+<div class="footer">
+  Audit generated by The Smart Website Co. — AI-powered website analysis
+</div>
+
+<!-- PART 4: Swipe Modal -->
+<div id="issues-modal" style="display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,0.92);flex-direction:column;align-items:center;justify-content:flex-end;padding:0" onclick="handleModalBackdropClick(event)">
+  <div id="modal-sheet" style="background:#0f0f0f;border-top:1px solid #1E1E1E;border-radius:20px 20px 0 0;width:100%;max-width:680px;max-height:85vh;display:flex;flex-direction:column;overflow:hidden">
+    <!-- Header -->
+    <div style="display:flex;justify-content:space-between;align-items:center;padding:20px 24px 16px;border-bottom:1px solid #1E1E1E;flex-shrink:0;">
+      <div>
+        <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;color:#555;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:3px;">All Issues Found</div>
+        <div style="font-family:'Montserrat',sans-serif;font-weight:900;font-size:18px;text-transform:uppercase;letter-spacing:-0.02em;color:#F2F2F2;" id="modal-counter"></div>
+      </div>
+      <button onclick="closeModal()" style="background:none;border:1px solid #1E1E1E;border-radius:50%;width:36px;height:36px;color:#666;cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">&#x2715;</button>
+    </div>
+    <!-- Issue slide -->
+    <div style="flex:1;overflow-y:auto;padding:28px 24px 16px;" id="modal-slide"></div>
+    <!-- Dot nav -->
+    <div style="display:flex;justify-content:center;gap:8px;padding:12px 24px;flex-shrink:0;" id="modal-dots"></div>
+    <!-- Prev/Next + CTA -->
+    <div style="padding:16px 24px 32px;border-top:1px solid #1E1E1E;display:flex;flex-direction:column;gap:12px;flex-shrink:0;">
+      <div style="display:flex;gap:10px;">
+        <button onclick="prevIssue()" id="btn-prev" style="flex:1;padding:12px;background:#111;border:1px solid #1E1E1E;border-radius:8px;color:#888;font-family:'IBM Plex Mono',monospace;font-size:13px;cursor:pointer;">&#8592; Prev</button>
+        <button onclick="nextIssue()" id="btn-next" style="flex:1;padding:12px;background:#111;border:1px solid #1E1E1E;border-radius:8px;color:#888;font-family:'IBM Plex Mono',monospace;font-size:13px;cursor:pointer;">Next &#8594;</button>
+      </div>
+      <a id="modal-cta" href="https://newcastle-electrical-services-2026-05-13.thesmartwebsite.co/thank-you" style="display:block;text-align:center;background:#B8FF00;color:#080808;font-family:'IBM Plex Mono',monospace;font-weight:700;font-size:14px;text-transform:uppercase;letter-spacing:0.06em;padding:16px;border-radius:10px;text-decoration:none;box-shadow:0 0 32px rgba(184,255,0,0.25);">Fix all 18 issues &#8212; free &#8594;</a>
+    </div>
+  </div>
+</div>
+
+<style>
+  @keyframes slideUp { from { transform: translateY(40px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+  #modal-sheet { animation: slideUp 0.3s ease; }
+</style>
+
+<script>
+let currentIssue = 0;
+
+function openModal(startIndex) {
+  currentIssue = startIndex || 0;
+  renderModal();
+  document.getElementById('issues-modal').style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+}
+
+function closeModal() {
+  document.getElementById('issues-modal').style.display = 'none';
+  document.body.style.overflow = '';
+}
+
+function handleModalBackdropClick(e) {
+  if (e.target === document.getElementById('issues-modal')) closeModal();
+}
+
+function nextIssue() {
+  currentIssue = (currentIssue + 1) % ALL_ISSUES.length;
+  renderModal();
+}
+
+function prevIssue() {
+  currentIssue = (currentIssue - 1 + ALL_ISSUES.length) % ALL_ISSUES.length;
+  renderModal();
+}
+
+function renderModal() {
+  var issue = ALL_ISSUES[currentIssue];
+  var total = ALL_ISSUES.length;
+  document.getElementById('modal-counter').textContent = 'Issue ' + (currentIssue + 1) + ' of ' + total;
+  document.getElementById('btn-prev').style.opacity = currentIssue === 0 ? '0.3' : '1';
+  document.getElementById('btn-next').style.opacity = currentIssue === total - 1 ? '0.3' : '1';
+
+  // Dot indicators
+  var dotsHtml = '';
+  for (var d = 0; d < total; d++) {
+    dotsHtml += '<div onclick="currentIssue=' + d + ';renderModal()" style="width:' + (d === currentIssue ? '20px' : '7px') + ';height:7px;border-radius:4px;background:' + (d === currentIssue ? '#B8FF00' : '#222') + ';cursor:pointer;transition:all 0.2s;"></div>';
+  }
+  document.getElementById('modal-dots').innerHTML = dotsHtml;
+
+  document.getElementById('modal-slide').innerHTML =
+    '<div style="font-family:&quot;IBM Plex Mono&quot;,monospace;font-size:10px;color:#444;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:10px;">Check #' + issue.num + ' of ' + total + '</div>'
+    + '<div style="font-family:&quot;Montserrat&quot;,sans-serif;font-weight:900;font-size:clamp(18px,4vw,24px);text-transform:uppercase;letter-spacing:-0.02em;color:#F2F2F2;margin-bottom:20px;line-height:1.2;">' + issue.title + '</div>'
+    + '<div style="background:#111;border:1px solid #1E1E1E;border-radius:8px;padding:16px;margin-bottom:12px;">'
+    + '<div style="font-family:&quot;IBM Plex Mono&quot;,monospace;font-size:10px;color:#555;text-transform:uppercase;letter-spacing:0.08em;margin-bottom:8px;">What we found</div>'
+    + '<div style="display:flex;gap:10px;align-items:flex-start;">'
+    + '<span style="color:#FF4444;flex-shrink:0;font-size:16px;">&#x2715;</span>'
+    + '<div style="font-family:&quot;IBM Plex Mono&quot;,monospace;font-size:13px;color:#CCCCCC;line-height:1.6;">' + issue.finding + '</div>'
+    + '</div></div>'
+    + '<div style="background:rgba(184,255,0,0.05);border:1px solid rgba(184,255,0,0.15);border-radius:8px;padding:16px;margin-bottom:12px;">'
+    + '<div style="font-family:&quot;IBM Plex Mono&quot;,monospace;font-size:10px;color:#555;text-transform:uppercase;letter-spacing:0.08em;margin-bottom:8px;">The fix</div>'
+    + '<div style="font-family:&quot;IBM Plex Mono&quot;,monospace;font-size:13px;color:#B8FF00;line-height:1.6;">&#x1F4A1; ' + issue.fix + '</div>'
+    + '</div>'
+    + '<div style="font-family:&quot;IBM Plex Mono&quot;,monospace;font-size:11px;color:#444;text-transform:uppercase;letter-spacing:0.08em;">Impact: ' + issue.impact + '</div>';
+}
+
+// Touch swipe support
+var touchStartX = 0;
+document.getElementById('modal-sheet').addEventListener('touchstart', function(e) { touchStartX = e.touches[0].clientX; }, { passive: true });
+document.getElementById('modal-sheet').addEventListener('touchend', function(e) {
+  var diff = touchStartX - e.changedTouches[0].clientX;
+  if (Math.abs(diff) > 50) { diff > 0 ? nextIssue() : prevIssue(); }
+}, { passive: true });
+
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') closeModal();
+  if (e.key === 'ArrowRight') nextIssue();
+  if (e.key === 'ArrowLeft') prevIssue();
+});
+</script>
+
+</body>
+</html>

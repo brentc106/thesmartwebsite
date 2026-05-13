@@ -1,0 +1,645 @@
+suburb,state,postcode,region,city
+Sydney,NSW,2000,metro,Sydney
+Melbourne,VIC,3000,metro,Melbourne
+Brisbane,QLD,4000,metro,Brisbane
+Perth,WA,6000,metro,Perth
+Adelaide,SA,5000,metro,Adelaide
+Alexandria,NSW,2015,metro,Sydney
+Annandale,NSW,2038,metro,Sydney
+Ashfield,NSW,2131,metro,Sydney
+Auburn,NSW,2141,metro,Sydney
+Bankstown,NSW,2200,metro,Sydney
+Blacktown,NSW,2148,metro,Sydney
+Bondi,NSW,2026,metro,Sydney
+Botany,NSW,2019,metro,Sydney
+Burwood,NSW,2134,metro,Sydney
+Campsie,NSW,2194,metro,Sydney
+Camperdown,NSW,2050,metro,Sydney
+Castle Hill,NSW,2154,metro,Sydney
+Chatswood,NSW,2067,metro,Sydney
+Cherrybrook,NSW,2126,metro,Sydney
+Cremorne,NSW,2090,metro,Sydney
+Cronulla,NSW,2230,metro,Sydney
+Dee Why,NSW,2099,metro,Sydney
+Double Bay,NSW,2028,metro,Sydney
+Dulwich Hill,NSW,2203,metro,Sydney
+Eastwood,NSW,2122,metro,Sydney
+Epping,NSW,2121,metro,Sydney
+Fairfield,NSW,2165,metro,Sydney
+Five Dock,NSW,2046,metro,Sydney
+Fitzroy,VIC,3065,metro,Melbourne
+Glebe,NSW,2037,metro,Sydney
+Granville,NSW,2142,metro,Sydney
+Greenacre,NSW,2190,metro,Sydney
+Greystanes,NSW,2145,metro,Sydney
+Haymarket,NSW,2000,metro,Sydney
+Hornsby,NSW,2077,metro,Sydney
+Hurstville,NSW,2220,metro,Sydney
+Kellyville,NSW,2155,metro,Sydney
+Killara,NSW,2071,metro,Sydney
+Kingsford,NSW,2032,metro,Sydney
+Kogarah,NSW,2217,metro,Sydney
+Lane Cove,NSW,2066,metro,Sydney
+Leichhardt,NSW,2040,metro,Sydney
+Lidcombe,NSW,2141,metro,Sydney
+Lindfield,NSW,2070,metro,Sydney
+Liverpool,NSW,2170,metro,Sydney
+Macquarie Park,NSW,2113,metro,Sydney
+Manly,NSW,2095,metro,Sydney
+Marrickville,NSW,2204,metro,Sydney
+Marsden Park,NSW,2765,metro,Sydney
+Mascot,NSW,2020,metro,Sydney
+Merrylands,NSW,2160,metro,Sydney
+Milsons Point,NSW,2061,metro,Sydney
+Mosman,NSW,2088,metro,Sydney
+Mount Druitt,NSW,2770,metro,Sydney
+Newtown,NSW,2042,metro,Sydney
+North Sydney,NSW,2060,metro,Sydney
+Paddington,NSW,2021,metro,Sydney
+Parramatta,NSW,2150,metro,Sydney
+Peakhurst,NSW,2210,metro,Sydney
+Pendle Hill,NSW,2145,metro,Sydney
+Penshurst,NSW,2222,metro,Sydney
+Petersham,NSW,2044,metro,Sydney
+Port Melbourne,VIC,3207,metro,Melbourne
+Pyrmont,NSW,2009,metro,Sydney
+Quakers Hill,NSW,2763,metro,Sydney
+Randwick,NSW,2031,metro,Sydney
+Redfern,NSW,2016,metro,Sydney
+Rhodes,NSW,2138,metro,Sydney
+Richmond,VIC,3121,metro,Melbourne
+Rockdale,NSW,2216,metro,Sydney
+Rose Bay,NSW,2029,metro,Sydney
+Maroubra,NSW,2035,metro,Sydney
+St Leonards,NSW,2065,metro,Sydney
+Strathfield,NSW,2135,metro,Sydney
+Surry Hills,NSW,2010,metro,Sydney
+Toongabbie,NSW,2146,metro,Sydney
+Turramurra,NSW,2074,metro,Sydney
+Ultimo,NSW,2007,metro,Sydney
+Vaucluse,NSW,2030,metro,Sydney
+Villawood,NSW,2163,metro,Sydney
+Wahroonga,NSW,2076,metro,Sydney
+Waterloo,NSW,2017,metro,Sydney
+Wentworth Point,NSW,2128,metro,Sydney
+West Pennant Hills,NSW,2125,metro,Sydney
+West Ryde,NSW,2114,metro,Sydney
+Westmead,NSW,2145,metro,Sydney
+Wiley Park,NSW,2195,metro,Sydney
+Wollongong,NSW,2500,regional,Other
+Newcastle,NSW,2300,regional,Other
+Gold Coast,QLD,4215,regional,GoldCoast
+Surfers Paradise,QLD,4217,regional,GoldCoast
+Southport,QLD,4215,regional,GoldCoast
+Robina,QLD,4226,regional,GoldCoast
+Burleigh Heads,QLD,4220,regional,GoldCoast
+Cairns,QLD,4870,regional,Other
+Townsville,QLD,4810,regional,Other
+Mackay,QLD,4740,regional,Other
+Rockhampton,QLD,4700,regional,Other
+Bundaberg,QLD,4670,regional,Other
+Hervey Bay,QLD,4655,regional,Other
+Toowoomba,QLD,4350,regional,Other
+Ipswich,QLD,4305,metro,Brisbane
+Logan Central,QLD,4114,metro,Brisbane
+Caboolture,QLD,4510,metro,Brisbane
+Redcliffe,QLD,4020,metro,Brisbane
+Springwood,QLD,4127,metro,Brisbane
+Sunshine Coast,QLD,4551,regional,Other
+Geelong,VIC,3220,regional,Melbourne
+Warrnambool,VIC,3280,regional,Melbourne
+Ballarat,VIC,3350,regional,Melbourne
+Bendigo,VIC,3550,regional,Melbourne
+Mildura,VIC,3500,regional,Melbourne
+Shepparton,VIC,3630,regional,Melbourne
+Traralgon,VIC,3844,regional,Melbourne
+Melton,VIC,3337,metro,Melbourne
+Tarneit,VIC,3029,metro,Melbourne
+Point Cook,VIC,3030,metro,Melbourne
+Werribee,VIC,3030,metro,Melbourne
+Hoppers Crossing,VIC,3029,metro,Melbourne
+Laverton,VIC,3026,metro,Melbourne
+Altona Meadows,VIC,3028,metro,Melbourne
+Sunshine West,VIC,3020,metro,Melbourne
+Sunshine,VIC,3020,metro,Melbourne
+St Albans,VIC,3021,metro,Melbourne
+Craigieburn,NSW,3064,metro,Melbourne
+Mordialloc,VIC,3195,metro,Melbourne
+Frankston,VIC,3199,metro,Melbourne
+Dandenong,VIC,3175,metro,Melbourne
+Cranbourne,VIC,3977,metro,Melbourne
+Cranbourne North,VIC,3977,metro,Melbourne
+Narre Warren,VIC,3805,metro,Melbourne
+Berwick,VIC,3806,metro,Melbourne
+Glen Waverley,VIC,3150,metro,Melbourne
+Mount Waverley,VIC,3149,metro,Melbourne
+Box Hill,VIC,3128,metro,Melbourne
+Doncaster,VIC,3108,metro,Melbourne
+Donvale,VIC,3111,metro,Melbourne
+Bundoora,VIC,3083,metro,Melbourne
+Reservoir,VIC,3073,metro,Melbourne
+Thomastown,VIC,3074,metro,Melbourne
+Fitzroy North,VIC,3068,metro,Melbourne
+Brunswick,VIC,3055,metro,Melbourne
+Coburg,VIC,3058,metro,Melbourne
+Northcote,VIC,3070,metro,Melbourne
+Thornbury,VIC,3071,metro,Melbourne
+Preston,VIC,3072,metro,Melbourne
+Hawthorn,VIC,3122,metro,Melbourne
+Kew,VIC,3101,metro,Melbourne
+Richmond,VIC,3121,metro,Melbourne
+South Yarra,VIC,3141,metro,Melbourne
+Prahran,VIC,3181,metro,Melbourne
+St Kilda,VIC,3182,metro,Melbourne
+Elwood,VIC,3184,metro,Melbourne
+Balaclava,VIC,3183,metro,Melbourne
+Windsor,VIC,3181,metro,Melbourne
+Patterson Lakes,VIC,3197,metro,Melbourne
+Aspendale,VIC,3195,metro,Melbourne
+Chelsea,VIC,3196,metro,Melbourne
+Bonbeach,VIC,3196,metro,Melbourne
+Edithvale,VIC,3196,metro,Melbourne
+Cheltenham,VIC,3192,metro,Melbourne
+Highett,VIC,3190,metro,Melbourne
+Sandringham,VIC,3191,metro,Melbourne
+Brighton,VIC,3186,metro,Melbourne
+Hampton,VIC,3188,metro,Melbourne
+Bentleigh East,VIC,3165,metro,Melbourne
+McKinnon,NSW,2224,metro,Sydney
+Moorabbin,VIC,3189,metro,Melbourne
+Oakleigh,VIC,3166,metro,Melbourne
+Hughesdale,VIC,3166,metro,Melbourne
+Murrumbeena,VIC,3163,metro,Melbourne
+Carnegie,VIC,3163,metro,Melbourne
+Glen Huntly,VIC,3163,metro,Melbourne
+Caulfield,VIC,3162,metro,Melbourne
+Caulfield North,VIC,3161,metro,Melbourne
+St Albans,VIC,3021,metro,Melbourne
+Albion,VIC,3020,metro,Melbourne
+Altona,VIC,3018,metro,Melbourne
+Altona North,VIC,3025,metro,Melbourne
+Laverton,VIC,3026,metro,Melbourne
+Seabrook,VIC,3028,metro,Melbourne
+Seaholme,VIC,3018,metro,Melbourne
+South Kingsville,VIC,3015,metro,Melbourne
+Spotswood,VIC,3015,metro,Melbourne
+Newport,VIC,3015,metro,Melbourne
+Williamstown North,VIC,3015,metro,Melbourne
+Williamstown,VIC,3016,metro,Melbourne
+Yarraville,VIC,3013,metro,Melbourne
+Footscray,VIC,3011,metro,Melbourne
+Seddon,VIC,3011,metro,Melbourne
+Kingsville,VIC,3012,metro,Melbourne
+Tottenham,VIC,3012,metro,Melbourne
+Brooklyn,VIC,3012,metro,Melbourne
+Coburg North,VIC,3058,metro,Melbourne
+Fawkner,VIC,3060,metro,Melbourne
+Glenroy,VIC,3042,metro,Melbourne
+Gowanbrae,VIC,3043,metro,Melbourne
+Hadfield,VIC,3046,metro,Melbourne
+Oak Park,VIC,3046,metro,Melbourne
+Pascoe Vale,VIC,3044,metro,Melbourne
+Pascoe Vale South,VIC,3044,metro,Melbourne
+Coburg,VIC,3058,metro,Melbourne
+Fitzroy North,VIC,3068,metro,Melbourne
+Clifton Hill,VIC,3068,metro,Melbourne
+Abbotsford,VIC,3067,metro,Melbourne
+Collingwood,VIC,3066,metro,Melbourne
+Carlton,VIC,3053,metro,Melbourne
+Carlton North,VIC,3054,metro,Melbourne
+Carlton South,VIC,3052,metro,Melbourne
+Docklands,VIC,3008,metro,Melbourne
+East Melbourne,VIC,3002,metro,Melbourne
+Flemington,VIC,3031,metro,Melbourne
+Kensington,VIC,3031,metro,Melbourne
+North Melbourne,VIC,3051,metro,Melbourne
+Parkville,VIC,3052,metro,Melbourne
+West Melbourne,VIC,3003,metro,Melbourne
+Port Melbourne,VIC,3207,metro,Melbourne
+Southbank,VIC,3006,metro,Melbourne
+South Wharf,VIC,3006,metro,Melbourne
+Docklands,VIC,3008,metro,Melbourne
+Canning Vale,WA,6155,metro,Perth
+Willetton,WA,6155,metro,Perth
+Riverton,WA,6148,metro,Perth
+Rossmoyne,WA,6148,metro,Perth
+ Shelley,WA,6148,metro,Perth
+Winthrop,WA,6150,metro,Perth
+Applecross,WA,6153,metro,Perth
+Ardross,WA,6153,metro,Perth
+Bateman,WA,6153,metro,Perth
+Booragoon,WA,6154,metro,Perth
+Brentwood,WA,6153,metro,Perth
+Bull Creek,WA,6149,metro,Perth
+Leeming,WA,6149,metro,Perth
+Melville,WA,6156,metro,Perth
+Mount Pleasant,WA,6153,metro,Perth
+Palmyra,WA,6157,metro,Perth
+Pontville,WA,6050,metro,Perth
+Attadale,WA,6156,metro,Perth
+Bicton,WA,6157,metro,Perth
+East Fremantle,WA,6158,metro,Perth
+Fremantle,WA,6160,metro,Perth
+Hamilton Hill,WA,6163,metro,Perth
+Hilton,WA,6163,metro,Perth
+O'Connor,WA,6163,metro,Perth
+South Fremantle,WA,6162,metro,Perth
+White Gum Valley,WA,6162,metro,Perth
+Beaconsfield,WA,6162,metro,Perth
+North Fremantle,WA,6159,metro,Perth
+Claremont,WA,6010,metro,Perth
+Cottesloe,WA,6011,metro,Perth
+Dalkeith,WA,6009,metro,Perth
+Doubleview,WA,6018,metro,Perth
+Floreat,WA,6014,metro,Perth
+Glendalough,WA,6000,metro,Perth
+Greenwich,WA,6000,metro,Perth
+Hawthorn,WA,5062,metro,Perth
+Inglewood,WA,6052,metro,Perth
+Julimar,WA,6566,metro,Perth
+Kalamunda,WA,6076,metro,Perth
+Lesmurdie,WA,6076,metro,Perth
+Maida Vale,WA,6057,metro,Perth
+Mount Helena,WA,6082,metro,Perth
+Mundaring,WA,6073,metro,Perth
+Scarborough,WA,6019,metro,Perth
+Swan View,WA,6056,metro,Perth
+The Ridgewood,WA,6076,metro,Perth
+Tapping,WA,6065,metro,Perth
+Wanneroo,WA,6065,metro,Perth
+Watson,WA,6026,metro,Perth
+Woodvale,WA,6026,metro,Perth
+Ashfield,WA,6054,metro,Perth
+Bayswater,WA,6053,metro,Perth
+Bedford,WA,6062,metro,Perth
+Beeborough,WA,6054,metro,Perth
+Culham,WA,6061,metro,Perth
+Dalwall,WA,6060,metro,Perth
+Ellenbrook,WA,6067,metro,Perth
+Giyg,WA,6041,metro,Perth
+Guilder,WA,6556,regional,Perth
+Henley Brook,WA,6055,metro,Perth
+Aveley,WA,6069,metro,Perth
+Belhus,WA,6069,metro,Perth
+Brabham,WA,6055,metro,Perth
+Brentwood,WA,6153,metro,Perth
+Burswood,WA,6100,metro,Perth
+Carlisle,WA,6100,metro,Perth
+Kewdale,WA,6105,metro,Perth
+Lathlain,WA,6100,metro,Perth
+Lexia,WA,6063,metro,Perth
+Lockridge,WA,6054,metro,Perth
+Mallabum,WA,6066,metro,Perth
+Midland,WA,6056,metro,Perth
+Midvale,WA,6056,metro,Perth
+Stratton,WA,6056,metro,Perth
+Swan View,WA,6056,metro,Perth
+Vasto,WA,6530,metro,Perth
+Balga,WA,6061,metro,Perth
+Carine,WA,6020,metro,Perth
+Duncraig,metro,Perth
+Greenwood,WA,6024,metro,Perth
+Hamersley,WA,6022,metro,Perth
+healthridge,WA,6168,metro,Perth
+Karrinyup,WA,6018,metro,Perth
+Kingsley,WA,6026,metro,Perth
+Madeley,WA,6065,metro,Perth
+Marangaroo,WA,6064,metro,Perth
+Morley,WA,6062,metro,Perth
+Nollamara,WA,6061,metro,Perth
+Noranda,WA,6062,metro,Perth
+Seville Grove,WA,6112,metro,Perth
+Stevens,WA,6056,metro,Perth
+Tapping,WA,6065,metro,Perth
+Warwick,WA,6024,metro,Perth
+Westminster,WA,6061,metro,Perth
+Glen Forrest,WA,6071,metro,Perth
+Hove,WA,6054,metro,Perth
+Jane Brook,WA,6056,metro,Perth
+Lockridge,WA,6054,metro,Perth
+Midland,WA,6056,metro,Perth
+Midvale,WA,6056,metro,Perth
+Milton,WA,6163,metro,Perth
+Mirrabella,WA,6061,metro,Perth
+Morley,WA,6062,metro,Perth
+Nollamara,WA,6061,metro,Perth
+Noranda,WA,6062,metro,Perth
+Seville Grove,WA,6112,metro,Perth
+Ashfield,WA,6054,metro,Perth
+Bassendean,WA,6054,metro,Perth
+Bayswater,WA,6053,metro,Perth
+Bedford,WA,6062,metro,Perth
+Beechboro,WA,6063,metro,Perth
+Brentwood,WA,6153,metro,Perth
+Caversham,WA,6055,metro,Perth
+Culham,WA,6061,metro,Perth
+Dayton,WA,6056,metro,Perth
+Ellenbrook,WA,6067,metro,Perth
+Fairfield,WA,6058,metro,Perth
+Guildford,WA,6055,metro,Perth
+Hazelgrove,WA,6076,metro,Perth
+Henley Brook,WA,6055,metro,Perth
+Jane Brook,WA,6056,metro,Perth
+Kiamba,WA,6067,metro,Perth
+Lexia,WA,6063,metro,Perth
+Lockridge,WA,6054,metro,Perth
+Midland,WA,6056,metro,Perth
+Midvale,WA,6056,metro,Perth
+Mirrabella,WA,6061,metro,Perth
+Morley,WA,6062,metro,Perth
+Noranda,WA,6062,metro,Perth
+Red Hill,WA,6056,metro,Perth
+South Guildford,WA,6055,metro,Perth
+Stratton,WA,6056,metro,Perth
+Swan View,WA,6056,metro,Perth
+Vasto,WA,6530,metro,Perth
+Adelaide CBD,SA,5000,metro,Adelaide
+Adelaide,SA,5000,metro,Adelaide
+North Adelaide,SA,5006,metro,Adelaide
+Adelaide,SA,5000,metro,Adelaide
+Adelaide,SA,5000,metro,Adelaide
+Adelaide,SA,5000,metro,Adelaide
+Adelaide,SA,5000,metro,Adelaide
+Adelaide,SA,5000,metro,Adelaide
+Adelaide,SA,5000,metro,Adelaide
+Adelaide,SA,5000,metro,Adelaide
+North Adelaide,SA,5006,metro,Adelaide
+Medindie,SA,5081,metro,Adelaide
+Nailsworth,SA,5083,metro,Adelaide
+Evandale,SA,5066,metro,Adelaide
+St Peters,SA,5069,metro,Adelaide
+Stepney,SA,5069,metro,Adelaide
+Payneham,SA,5070,metro,Adelaide
+Payneham South,SA,5070,metro,Adelaide
+Trinity Gardens,SA,5068,metro,Adelaide
+Marryatville,SA,5068,metro,Adelaide
+Leabrook,SA,5068,metro,Adelaide
+Kensington,SA,5068,metro,Adelaide
+Kensington Park,SA,5068,metro,Adelaide
+Fitzroy,SA,5082,metro,Adelaide
+Medindie,SA,5081,metro,Adelaide
+Nailsworth,SA,5083,metro,Adelaide
+Wollongong,SA,5083,metro,Adelaide
+North Adelaide,SA,5006,metro,Adelaide
+Medindie,SA,5081,metro,Adelaide
+Nailsworth,SA,5083,metro,Adelaide
+St Peters,SA,5069,metro,Adelaide
+Stepney,SA,5069,metro,Adelaide
+Payneham,SA,5070,metro,Adelaide
+Gawler,SA,5118,metro,Adelaide
+Lewiston,SA,5118,metro,Adelaide
+Munno Para,SA,5118,metro,Adelaide
+Smithfield,SA,5114,metro,Adelaide
+Blake,SA,5114,metro,Adelaide
+Davoren Park,SA,5113,metro,Adelaide
+Eden Hills,SA,5050,metro,Adelaide
+Belair,SA,5052,metro,Adelaide
+Glenelg,SA,5045,metro,Adelaide
+Brighton,SA,5048,metro,Adelaide
+Seacliffe,SA,5049,metro,Adelaide
+Port Adelaide,SA,5015,metro,Adelaide
+Largs Bay,SA,5015,metro,Adelaide
+Exeter,SA,5019,metro,Adelaide
+Semaphore,SA,5019,metro,Adelaide
+Royal Park,SA,5014,metro,Adelaide
+Albert Park,SA,5014,metro,Adelaide
+Kilburn,SA,5085,metro,Adelaide
+Blair Athol,SA,5084,metro,Adelaide
+Enfield,SA,5085,metro,Adelaide
+Klemzig,SA,5087,metro,Adelaide
+Broadview,SA,5083,metro,Adelaide
+Mansfield Park,SA,5109,metro,Adelaide
+Windsor Gardens,SA,5085,metro,Adelaide
+Hampstead Gardens,metro,metro,Adelaide
+Klemzig,SA,5087,metro,Adelaide
+Brompton,SA,5007,metro,Adelaide
+Cowand,SA,5110,metro,Adelaide
+Mansfield Park,SA,5109,metro,Adelaide
+Mansfield,SA,5154,metro,Adelaide
+North Adelaide,SA,5006,metro,Adelaide
+Medindie,SA,5081,metro,Adelaide
+Nailsworth,SA,5083,metro,Adelaide
+St Peters,SA,5069,metro,Adelaide
+Stepney,SA,5069,metro,Adelaide
+Payneham,SA,5070,metro,Adelaide
+Payneham South,SA,5070,metro,Adelaide
+Trinity Gardens,SA,5068,metro,Adelaide
+Marryatville,SA,5068,metro,Adelaide
+Leabrook,SA,5068,metro,Adelaide
+Kensington,SA,5068,metro,Adelaide
+Kensington Park,SA,5068,metro,Adelaide
+Fitzroy,SA,5082,metro,Adelaide
+Medindie,SA,5081,metro,Adelaide
+Nailsworth,SA,5083,metro,Adelaide
+Windsor Gardens,SA,5085,metro,Adelaide
+Broadview,SA,5083,metro,Adelaide
+Blair Athol,SA,5084,metro,Adelaide
+Kilburn,SA,5085,metro,Adelaide
+Klemzig,SA,5087,metro,Adelaide
+Croydon Park,SA,5008,metro,Adelaide
+Adelaide,SA,5000,metro,Adelaide
+Windsor Gardens,SA,5085,metro,Adelaide
+Broadview,SA,5083,metro,Adelaide
+Blair Athol,SA,5084,metro,Adelaide
+Kilburn,SA,metro,metro,Adelaide
+Endfield,SA,5085,metro,Adelaide
+Lightsview,SA,5085,metro,Adelaide
+Klemzig,SA,5087,metro,Adelaide
+North Adelaide,SA,5006,metro,Adelaide
+Medindie,SA,5081,metro,Adelaide
+Nailsworth,SA,5083,metro,Adelaide
+Windsor Gardens,SA,metro,metro,Adelaide
+Ingle Farm,SA,5098,metro,Adelaide
+Pooraka,SA,5095,metro,Adelaide
+Walkley Heights,SA,5098,metro,Adelaide
+Cavan,SA,5095,metro,Adelaide
+Dry Creek,SA,5094,metro,Adelaide
+Gepps Cross,SA,5094,metro,Adelaide
+Enfield,SA,metroadelade
+Klemzig,SA,5087,metro,Adelaide
+Metro,SA,5000,metro,Adelaide
+Broadview,SA,5083,metro,metro
+Clearview,SA,5085,metro,Adelaide
+Lightsview,SA,5085,metro,Adelaide
+Nailsworth,SA,5083,metro,Adelaide
+North Adelaide,SA,5006,metro,Adelaide
+Windsor Gardens,SA,5085,metro,Adelaide
+Klemzig,SA,5087,metro,Adelaide
+Mansfield Park,SA,5109,metro,Adelaide
+Elizabeth Grove,SA,5113,metro,metro
+Elizabeth,SA,5112,metro,metro
+Craigmore,SA,5114,metro,metro
+Blake,SA,5114,metro,metro
+Davoren Park,SA,5113,metro,metro
+Andrews Farm,SA,5114,metro,metro
+Angle Vale,metro,metro,metro
+Angle Vale,SA,5114,metro,metro
+Munno Para,SA,5118,metro,metro
+Peachey,metro,metro,metro
+Smithfield,SA,5114,metro,metro
+Urrbrae,SA,5062,metro,metro
+Toorak Gardens,SA,5061,metro,metro
+St Peters,SA,5069,metro,metro
+Klemzig,SA,5087,metro,metro
+Nailsworth,SA,metro,metro
+Windsor Gardens,SA,metro,metro
+North Adelaide,SA,5006,metro,metro
+Medindie,SA,metro,metro
+Adelaide,metro,metro,metro
+Metro West,metro,metro,metro
+West Adelaide,metro,metro,metro
+Petersham,metro,metro,metro
+Stanmore,metro,metro,metro
+Metro East,metro,metro,metro
+Adelaide,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro,metro,metro
+Metro,metro

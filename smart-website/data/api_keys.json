@@ -1,0 +1,21 @@
+{
+  "INSTANTLY_API_KEY": "",
+  "INSTANTLY_API_SECRET": "",
+  "INSTANTLY_CAMPAIGN_ID": "",
+  "MAILGUN_API_KEY": "",
+  "MINIMAX_API_KEY": "",
+  "MINIMAX_UID": "",
+  "LAOZHANG_API_KEY": "",
+  "LAOZHANG_BASE_URL": "https://api.laozhang.ai/v1",
+  "ANTHROPIC_API_KEY": "",
+  "FIRECRAWL_API_KEY": "",
+  "PAGESPEED_API_KEY": "",
+  "VERCEL_TOKEN": "",
+  "GHL_WEBHOOK_URL": "https://services.leadconnectorhq.com/hooks/jptMFdSGspW5HK3uWBDb/webhook-trigger/d9ea71ab-085e-4996-a365-2310a19e9f10",
+  "LOOM_API_KEY": "",
+  "STRIPE_STARTER_LINK": "https://buy.stripe.com/9B69AT8CKa977ZRbYTgbm00",
+  "STRIPE_GROWTH_LINK": "https://buy.stripe.com/9B69ATcT080ZfsjaUPgbm02",
+  "STRIPE_PREMIUM_LINK": "https://buy.stripe.com/5kQ9ATcT080ZfsjaUPgbm02",
+  "STRIPE_TRIAL_LINK": "https://buy.stripe.com/fZu28rdX45SR4NFgf9gbm03",
+  "_comment": "Values loaded from Railway env vars at runtime. This file is local-dev only."
+}

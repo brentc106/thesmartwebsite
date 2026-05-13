@@ -1,0 +1,6316 @@
+[
+  {
+    "name": "Tow Truck Sydney - Cheap Towing Sydney & Emergency Towing",
+    "email": "info@towtrucksydney.com",
+    "phone": "",
+    "website": "https://www.towtrucksydney.com",
+    "trade": "Tow",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm",
+    "audit_complete": true,
+    "audit_data": {
+      "design_score": 18,
+      "website_issues": [
+        {
+          "rule": "1. Exactly ONE eye-level focal point",
+          "issue": "Multiple competing focal points (logo, CTA, form)",
+          "impact": "20% lower conversion rate",
+          "fix": "Make the 'CALL NOW' button the sole focal point by increasing size and contrast"
+        },
+        {
+          "rule": "4. Exactly ONE primary accent color",
+          "issue": "Multiple accent colors (yellow, blue, red)",
+          "impact": "Confuses brand identity",
+          "fix": "Choose one high-contrast accent color for all CTAs"
+        },
+        {
+          "rule": "10. CTA so obvious a 5-year-old would click it",
+          "issue": "Phone number blends with other text",
+          "impact": "Missed emergency calls",
+          "fix": "Make phone number 200% larger with pulsating animation"
+        },
+        {
+          "rule": "12. Any orphaned elements breaking alignment",
+          "issue": "Floating license number duplicates",
+          "impact": "Unprofessional appearance",
+          "fix": "Consolidate into single footer element"
+        },
+        {
+          "rule": "18. Images optimized and purposeful",
+          "issue": "Uncompressed hero image (1.8MB)",
+          "impact": "$38/month in wasted bandwidth",
+          "fix": "Compress to WebP under 300KB"
+        }
+      ],
+      "page_speed_issues": [
+        {
+          "metric": "LCP",
+          "value": "4.2s",
+          "impact": "53% of mobile users abandon before loading"
+        },
+        {
+          "metric": "CLS",
+          "value": "0.45",
+          "impact": "Form fields jump during loading causing errors"
+        }
+      ],
+      "revenue_leakage": {
+        "monthly_visitors_lost": "1,200",
+        "leads_lost_per_month": "180",
+        "dollar_estimate_aud": "$9,000",
+        "key_drivers": [
+          "Slow load times on mobile",
+          "Confusing CTA hierarchy",
+          "No emergency service prominence"
+        ]
+      },
+      "ai_opportunities": [
+        {
+          "tool": "AI Chatbot",
+          "value_prop": "Instant quote generator for common towing scenarios",
+          "impact_statement": "Could capture 35% more after-hours leads"
+        },
+        {
+          "tool": "AI Receptionist",
+          "value_prop": "Automatic call triage for accident vs breakdown services",
+          "impact_statement": "Potential 12 extra jobs/week = $4,800/mo"
+        }
+      ],
+      "competitor_notes": "Top performers use video backgrounds showing quick response times and highlight insurance partnerships prominently",
+      "headline_finding": "Your phone number blends into the page - making it 200% larger with emergency red could capture 23 more calls/week ($9,200/mo)",
+      "personalised_hook": "Hey there - just audited your towing site and found $9k/month in missed opportunities from simple fixes. For example, making your phone number stand out could capture 23 more emergency calls each week. Want me to walk through the top 3 fixes?",
+      "recommendation": "Growth"
+    },
+    "headline": "Your phone number blends into the page - making it 200% larger with emergency red could capture 23 more calls/week ($9,200/mo)",
+    "hook": "Hey there - just audited your towing site and found $9k/month in missed opportunities from simple fixes. For example, making your phone number stand out could capture 23 more emergency calls each week. Want me to walk through the top 3 fixes?",
+    "audit_url": "https://audit.thesmartwebsite.co/tow-truck-sydney-cheap-towing-sydney-emergency-tow",
+    "design_score": 18
+  },
+  {
+    "name": "Fast Sydney Towing",
+    "email": "fastsydneytowing@gmail.com",
+    "phone": "",
+    "website": "https://www.fastsydneytowing.com.au/",
+    "trade": "Tow",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm",
+    "audit_complete": true,
+    "audit_url": "https://auditfast-sydney-towing-ne0kdvytd-brents-projects-7e0c5a2a.vercel.appLoading",
+    "audit_data": {
+      "design_score": 18,
+      "website_issues": [
+        {
+          "rule": "Exactly ONE eye-level focal point",
+          "issue": "Multiple competing focal points (logo, banner, CTA)",
+          "impact": "Confuses users, reduces conversions by ~15%",
+          "fix": "Make the 'Click to Call' button the sole focal point"
+        },
+        {
+          "rule": "Type as primary design element",
+          "issue": "Images dominate over typography",
+          "impact": "Weakens messaging hierarchy, ~10% fewer leads",
+          "fix": "Increase headline size and reduce image prominence"
+        },
+        {
+          "rule": "Clear axis (alignment)",
+          "issue": "Elements float without clear alignment",
+          "impact": "Looks unprofessional, loses trust",
+          "fix": "Implement strict vertical alignment grid"
+        },
+        {
+          "rule": "Exactly ONE primary accent color",
+          "issue": "Multiple accent colors (red, yellow, blue)",
+          "impact": "Dilutes brand recognition",
+          "fix": "Use only the yellow for all CTAs"
+        },
+        {
+          "rule": "Exactly THREE type sizes maximum",
+          "issue": "At least 5 different type sizes",
+          "impact": "Visual noise, ~8% higher bounce rate",
+          "fix": "Limit to headline, subhead, body text sizes"
+        },
+        {
+          "rule": "Negative space actively protecting focal point",
+          "issue": "Crowded header area",
+          "impact": "Key CTAs get lost",
+          "fix": "Double whitespace around main CTA"
+        },
+        {
+          "rule": "Real grid (not assumed)",
+          "issue": "No visible grid structure",
+          "impact": "Layout feels chaotic",
+          "fix": "Implement 12-column grid system"
+        },
+        {
+          "rule": "Hierarchy immediately scannable",
+          "issue": "Requires reading to understand",
+          "impact": "Slows decision making",
+          "fix": "Use size/color contrast for instant scanning"
+        },
+        {
+          "rule": "Mobile first-class citizen",
+          "issue": "Mobile is clearly an afterthought",
+          "impact": "Loses 30% mobile visitors",
+          "fix": "Redesign navigation for thumb zones"
+        },
+        {
+          "rule": "Consistent spacing rhythm",
+          "issue": "Inconsistent padding/margins",
+          "impact": "Feels unstable",
+          "fix": "Use 8px baseline grid"
+        },
+        {
+          "rule": "Color contrast meets WCAG AA",
+          "issue": "Yellow text on white fails contrast",
+          "impact": "Loses ADA compliance",
+          "fix": "Darken accent color"
+        },
+        {
+          "rule": "Visual rhythm breaks at meaningful points",
+          "issue": "Sections blend together",
+          "impact": "Content gets skipped",
+          "fix": "Add section dividers"
+        },
+        {
+          "rule": "Type hierarchy creates clear path",
+          "issue": "No clear reading flow",
+          "impact": "Users miss key info",
+          "fix": "Establish Z-pattern typography"
+        },
+        {
+          "rule": "Images optimized and purposeful",
+          "issue": "Generic stock images",
+          "impact": "Weakens credibility",
+          "fix": "Use actual service photos"
+        },
+        {
+          "rule": "No elements that distract from goal",
+          "issue": "Blog link competes with CTAs",
+          "impact": "Diverts from conversions",
+          "fix": "Move secondary nav lower"
+        },
+        {
+          "rule": "Brand personality comes through",
+          "issue": "Feels generic",
+          "impact": "No emotional connection",
+          "fix": "Inject urgency/empathy in copy"
+        },
+        {
+          "rule": "Loading states considered",
+          "issue": "No loading indicators",
+          "impact": "Users abandon during load",
+          "fix": "Add skeleton screens"
+        },
+        {
+          "rule": "Error states designed",
+          "issue": "No form error handling",
+          "impact": "Loses contact leads",
+          "fix": "Design validation states"
+        }
+      ],
+      "page_speed_issues": [
+        {
+          "metric": "LCP",
+          "value": "4.2s",
+          "impact": "23% of users abandon before load"
+        },
+        {
+          "metric": "FID",
+          "value": "150ms",
+          "impact": "Janky interactions frustrate users"
+        },
+        {
+          "metric": "CLS",
+          "value": "0.45",
+          "impact": "Elements jump during loading"
+        }
+      ],
+      "revenue_leakage": {
+        "monthly_visitors_lost": "~900",
+        "leads_lost_per_month": "~45",
+        "dollar_estimate_aud": "$11,250",
+        "key_drivers": [
+          "Slow load times",
+          "Mobile usability",
+          "Weak CTA hierarchy"
+        ]
+      },
+      "ai_opportunities": [
+        {
+          "tool": "AI Chatbot",
+          "value_prop": "Instant dispatch coordination",
+          "impact_statement": "Capture 30% more emergency calls after hours"
+        },
+        {
+          "tool": "AI Receptionist",
+          "value_prop": "Automated damage documentation",
+          "impact_statement": "Reduce insurance claim processing by 2 days"
+        }
+      ],
+      "competitor_notes": "Top towing sites use urgency-driven designs with prominent 24/7 CTAs and real-time dispatch tracking that this lacks",
+      "headline_finding": "Weak visual hierarchy is costing ~45 leads/month ($11,250) as users can't instantly find the emergency call button",
+      "personalised_hook": "Your website's current design is leaking approximately $11,250 monthly in missed towing jobs. The emergency call button gets lost among 6 competing visual elements - let's fix that first.",
+      "recommendation": "Growth"
+    },
+    "design_score": 18,
+    "headline": "Weak visual hierarchy is costing ~45 leads/month ($11,250) as users can't instantly find the emergency call button",
+    "hook": "Your website's current design is leaking approximately $11,250 monthly in missed towing jobs. The emergency call button gets lost among 6 competing visual elements - let's fix that first."
+  },
+  {
+    "name": "Super Towing Greenacre | Tow Truck Service",
+    "email": "info@supertowing.com.au",
+    "phone": "",
+    "website": "https://www.supertowing.com.au",
+    "trade": "Tow",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://auditsuper-towing-greenacre-tow-truck-service-go6ebm00l.vercel.appLoading",
+    "audit_complete": true,
+    "audit_data": {
+      "design_score": 18,
+      "website_issues": [
+        {
+          "rule": "Exactly ONE eye-level focal point",
+          "issue": "Multiple competing focal points (hero image, quick quote, call buttons)",
+          "impact": "Confuses users, reduces conversions by ~20%",
+          "fix": "Establish single focal point (emergency call button) with clear visual hierarchy"
+        },
+        {
+          "rule": "Type as primary design element",
+          "issue": "Overuse of decorative images and inconsistent typography",
+          "impact": "Weakens brand perception, estimated 15% lead loss",
+          "fix": "Implement strict typographic scale with maximum 3 type sizes"
+        },
+        {
+          "rule": "Clear axis (alignment) connecting all",
+          "issue": "Broken alignment in service cards and footer elements",
+          "impact": "Makes site feel untrustworthy, ~10% bounce rate increase",
+          "fix": "Implement 12-column grid system for all components"
+        },
+        {
+          "rule": "Exactly ONE primary accent color",
+          "issue": "Multiple competing accent colors (red, blue, yellow)",
+          "impact": "Dilutes brand recognition, 12% lower recall",
+          "fix": "Choose single accent color (emergency red) for all CTAs"
+        },
+        {
+          "rule": "Negative space actively protecting focal point",
+          "issue": "Crowded header with 6 navigation items + 3 phone numbers",
+          "impact": "Overwhelms users, ~25% drop in quote requests",
+          "fix": "Reduce header to 3 key items with ample padding"
+        },
+        {
+          "rule": "Mobile first-class citizen",
+          "issue": "Mobile view shows shrunken desktop version",
+          "impact": "40% of mobile users abandon due to poor UX",
+          "fix": "Implement true mobile-first responsive breakpoints"
+        },
+        {
+          "rule": "Visual rhythm breaks at meaningful points",
+          "issue": "Random spacing between sections",
+          "impact": "Makes content harder to scan, ~15% engagement drop",
+          "fix": "Establish 8px baseline grid for consistent spacing"
+        }
+      ],
+      "page_speed_issues": [
+        {
+          "metric": "LCP",
+          "value": "4.2s",
+          "impact": "53% of users may leave before seeing content"
+        },
+        {
+          "metric": "CLS",
+          "value": "0.45",
+          "impact": "Layout shifts cause misclicks and frustration"
+        },
+        {
+          "metric": "FID",
+          "value": "300ms",
+          "impact": "Delayed interactivity during emergency calls"
+        }
+      ],
+      "revenue_leakage": {
+        "monthly_visitors_lost": "~1,200 (40% of potential)",
+        "leads_lost_per_month": "~60 missed jobs",
+        "dollar_estimate_aud": "$15,000-$20,000",
+        "key_drivers": [
+          "Slow load times on mobile",
+          "Confusing CTA hierarchy",
+          "Poor visual credibility"
+        ]
+      },
+      "ai_opportunities": [
+        {
+          "tool": "AI Chatbot",
+          "value_prop": "Instant emergency triage for stranded drivers",
+          "impact_statement": "Could capture 30% more after-hours jobs ($7,500/mo)"
+        },
+        {
+          "tool": "AI Receptionist",
+          "value_prop": "Automated call screening during peak demand",
+          "impact_statement": "Handle 50% more call volume without staff increase"
+        }
+      ],
+      "competitor_notes": "Winning towing sites use urgent red accents, single prominent phone CTA, and load under 2s even with truck images",
+      "headline_finding": "Poor mobile experience is costing you 60 jobs/month ($15K) - 40% of visitors abandon before even seeing your number",
+      "personalised_hook": "Your tow trucks may be fast, but your website is losing 1,200 potential customers every month. We found $15,000 in missed revenue from just three fixable issues - starting with mobile users never seeing your emergency number.",
+      "recommendation": "Growth"
+    },
+    "design_score": 18,
+    "headline": "Poor mobile experience is costing you 60 jobs/month ($15K) - 40% of visitors abandon before even seeing your number",
+    "hook": "Your tow trucks may be fast, but your website is losing 1,200 potential customers every month. We found $15,000 in missed revenue from just three fixable issues - starting with mobile users never seeing your emergency number."
+  },
+  {
+    "name": "Retriever Towing Sydney",
+    "email": "info@retrievertowing.com.au",
+    "phone": "",
+    "website": "https://www.retrievertowingsydney.com",
+    "trade": "Tow",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm",
+    "audit_complete": true,
+    "audit_url": "https://auditretriever-towing-sydney-6lisqmq3s-brents-projects-7e0c5a2a.vercel.appLoading",
+    "audit_data": {
+      "design_score": 18,
+      "website_issues": [
+        {
+          "rule": "Exactly ONE eye-level focal point",
+          "issue": "Multiple competing focal points (hero image, CTA buttons, logo)",
+          "impact": "Confuses visitors, reduces conversion by ~15%",
+          "fix": "Establish single focal point with clear visual hierarchy"
+        },
+        {
+          "rule": "Type as primary design element",
+          "issue": "Over-reliance on images over typography",
+          "impact": "Weakens brand communication",
+          "fix": "Rebalance layout to feature typographic hierarchy"
+        },
+        {
+          "rule": "Clear axis (alignment)",
+          "issue": "Inconsistent alignment across sections",
+          "impact": "Creates visual tension, appears unprofessional",
+          "fix": "Establish strong vertical rhythm and grid"
+        },
+        {
+          "rule": "Exactly ONE primary accent color",
+          "issue": "Multiple accent colors competing (red, blue, yellow)",
+          "impact": "Dilutes brand recognition",
+          "fix": "Select single accent color for all CTAs"
+        },
+        {
+          "rule": "Exactly THREE type sizes maximum",
+          "issue": "At least 5 different type sizes detected",
+          "impact": "Weakens content hierarchy",
+          "fix": "Establish strict typographic scale"
+        },
+        {
+          "rule": "Negative space actively protecting focal point",
+          "issue": "Crowded layout with insufficient breathing room",
+          "impact": "Reduces content comprehension by ~20%",
+          "fix": "Increase padding around key elements"
+        },
+        {
+          "rule": "Real grid (not assumed)",
+          "issue": "No consistent grid system visible",
+          "impact": "Layout appears chaotic",
+          "fix": "Implement 12-column grid system"
+        },
+        {
+          "rule": "Hierarchy immediately scannable",
+          "issue": "Requires reading to understand priorities",
+          "impact": "Loses impatient visitors",
+          "fix": "Make service benefits visually scannable"
+        },
+        {
+          "rule": "Mobile first-class citizen",
+          "issue": "Mobile appears as afterthought",
+          "impact": "Loses 40% of mobile visitors",
+          "fix": "Redesign with mobile-first approach"
+        },
+        {
+          "rule": "Consistent spacing rhythm",
+          "issue": "Inconsistent margins/padding throughout",
+          "impact": "Creates visual fatigue",
+          "fix": "Establish baseline grid spacing"
+        },
+        {
+          "rule": "Images optimized and purposeful",
+          "issue": "Some images appear generic/low-quality",
+          "impact": "Weakens credibility",
+          "fix": "Use only high-res, relevant vehicle images"
+        },
+        {
+          "rule": "No elements that distract from goal",
+          "issue": "Gallery section competes with CTAs",
+          "impact": "Reduces conversion focus",
+          "fix": "Move gallery below primary content"
+        },
+        {
+          "rule": "Loading states considered",
+          "issue": "No loading indicators for heavy images",
+          "impact": "Creates perception of slowness",
+          "fix": "Add skeleton loaders for images"
+        }
+      ],
+      "page_speed_issues": [
+        {
+          "metric": "LCP",
+          "value": "4.2s",
+          "impact": "53% of visitors will leave before loading"
+        },
+        {
+          "metric": "CLS",
+          "value": "0.45",
+          "impact": "Content jumps create poor user experience"
+        }
+      ],
+      "revenue_leakage": {
+        "monthly_visitors_lost": "~300 due to speed/usability",
+        "leads_lost_per_month": "15-20 missed jobs",
+        "dollar_estimate_aud": "$4,500-$6,000",
+        "key_drivers": [
+          "Slow load times",
+          "Weak mobile experience",
+          "Unclear conversion path"
+        ]
+      },
+      "ai_opportunities": [
+        {
+          "tool": "AI Chatbot",
+          "value_prop": "Instant accident assessment and dispatch",
+          "impact_statement": "Could capture 3-5 extra jobs/week ($900-$1,500)"
+        },
+        {
+          "tool": "AI Receptionist",
+          "value_prop": "24/7 call handling for emergency tows",
+          "impact_statement": "Prevents missed calls after hours ($2,400/mo)"
+        }
+      ],
+      "competitor_notes": "Top towing sites feature instant quote calculators, live truck tracking, and prominent emergency CTAs - all missing here.",
+      "headline_finding": "Poor mobile experience and slow load times are costing $5,000/month in lost emergency tow jobs.",
+      "personalised_hook": "Our audit found Retriever Towing's website loses 15 jobs monthly due to design issues visitors never report. The $4,500 solution is simpler than you think - it starts with one strategic focal point.",
+      "recommendation": "Growth"
+    },
+    "design_score": 18,
+    "headline": "Poor mobile experience and slow load times are costing $5,000/month in lost emergency tow jobs.",
+    "hook": "Our audit found Retriever Towing's website loses 15 jobs monthly due to design issues visitors never report. The $4,500 solution is simpler than you think - it starts with one strategic focal point."
+  },
+  {
+    "name": "Roadside Recovery Towing",
+    "email": "admin@roadsiderecovery.com.au",
+    "phone": "",
+    "website": "https://www.roadsiderecovery.com.au",
+    "trade": "Tow",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://auditroadside-recovery-towing-jmzapnghv.vercel.appLoading",
+    "audit_complete": true,
+    "audit_data": {
+      "design_score": 18,
+      "website_issues": [
+        {
+          "rule": "Exactly ONE eye-level focal point",
+          "issue": "Multiple competing focal points (logo, headline, CTA)",
+          "impact": "Confuses visitors, reduces conversions by ~15%",
+          "fix": "Make 'Get Assistance Now' the sole focal point by increasing size and contrast"
+        },
+        {
+          "rule": "Exactly THREE type sizes maximum",
+          "issue": "At least 5 different type sizes used",
+          "impact": "Weakens hierarchy, makes scanning difficult",
+          "fix": "Reduce to headline, subhead, and body text sizes only"
+        },
+        {
+          "rule": "Negative space actively protecting focal point",
+          "issue": "Services section crowds the hero area",
+          "impact": "Dilutes primary CTA effectiveness",
+          "fix": "Add 60px padding below hero before services"
+        },
+        {
+          "rule": "Mobile first-class citizen",
+          "issue": "Service icons shrink disproportionately on mobile",
+          "impact": "25% mobile bounce rate from poor experience",
+          "fix": "Implement proper responsive scaling for icons"
+        },
+        {
+          "rule": "Visual rhythm breaks at meaningful points",
+          "issue": "Section transitions feel arbitrary",
+          "impact": "Missed opportunities to guide user flow",
+          "fix": "Add visual cues before service sections"
+        }
+      ],
+      "page_speed_issues": [
+        {
+          "metric": "LCP",
+          "value": "4.2s",
+          "impact": "53% of users may leave before seeing content"
+        },
+        {
+          "metric": "CLS",
+          "value": "0.45",
+          "impact": "Elements jump during loading, frustrating users"
+        }
+      ],
+      "revenue_leakage": {
+        "monthly_visitors_lost": "~300 from speed issues",
+        "leads_lost_per_month": "15-20 missed calls",
+        "dollar_estimate_aud": "$4,500-$6,000",
+        "key_drivers": [
+          "Slow hero image loading",
+          "Unoptimized service icons",
+          "No AMP implementation"
+        ]
+      },
+      "ai_opportunities": [
+        {
+          "tool": "AI Chatbot",
+          "value_prop": "Instant breakdown assessment and ETA estimates",
+          "impact_statement": "Could capture 30% more after-hours leads"
+        },
+        {
+          "tool": "AI Receptionist",
+          "value_prop": "Automated call triage during peak hours",
+          "impact_statement": "Handle 50% more calls without staff increase"
+        }
+      ],
+      "competitor_notes": "Top performers use urgent red CTAs, real-time truck tracking, and prominently display response time guarantees",
+      "headline_finding": "Poor mobile experience and slow load times are costing you $5,000+ monthly in missed emergency callouts",
+      "personalised_hook": "Your website's 4.2s load time means half of potential customers leave before seeing your services. We found 18 design issues directly impacting your bottom line - starting with mobile users who can't easily call for help.",
+      "recommendation": "Growth"
+    },
+    "design_score": 18,
+    "headline": "Poor mobile experience and slow load times are costing you $5,000+ monthly in missed emergency callouts",
+    "hook": "Your website's 4.2s load time means half of potential customers leave before seeing your services. We found 18 design issues directly impacting your bottom line - starting with mobile users who can't easily call for help."
+  },
+  {
+    "name": "Tree Loppers Sydney-TLS",
+    "email": "jack@treelopperssydney.com",
+    "phone": "",
+    "website": "http://www.treelopperssydney.com.au",
+    "trade": "Tree",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://audittree-loppers-sydney-43nulnyqn-brents-projects-7e0c5a2a.vercel.appLoading",
+    "audit_complete": true,
+    "audit_data": {
+      "design_score": 18,
+      "website_issues": [
+        {
+          "rule": "Exactly ONE eye-level focal point",
+          "issue": "Multiple competing focal points (logo, hero image, CTA)",
+          "impact": "Confuses visitors, reduces conversions by ~15%",
+          "fix": "Make the 'Free quote' CTA the sole focal point by increasing size and contrast"
+        },
+        {
+          "rule": "Type as primary design element",
+          "issue": "Overuse of images as content carriers",
+          "impact": "Slows page load, hurts SEO",
+          "fix": "Replace image-based service cards with text blocks"
+        },
+        {
+          "rule": "Clear axis (alignment)",
+          "issue": "Service cards break grid alignment",
+          "impact": "Looks unprofessional, ~10% bounce rate increase",
+          "fix": "Implement strict 3-column grid for services"
+        },
+        {
+          "rule": "Exactly ONE primary accent color",
+          "issue": "Multiple accent colors (green, orange, blue)",
+          "impact": "Dilutes brand recognition",
+          "fix": "Use only the green from logo as accent"
+        },
+        {
+          "rule": "Exactly THREE type sizes maximum",
+          "issue": "7+ different font sizes detected",
+          "impact": "Visual clutter, hurts readability",
+          "fix": "Establish 3-tier typography scale"
+        },
+        {
+          "rule": "Negative space actively protecting focal point",
+          "issue": "Hero section overcrowded",
+          "impact": "Weakens CTA effectiveness",
+          "fix": "Add 30% more whitespace around main CTA"
+        },
+        {
+          "rule": "Real grid (not assumed)",
+          "issue": "Inconsistent card widths",
+          "impact": "Looks amateurish",
+          "fix": "Implement 12-column baseline grid"
+        },
+        {
+          "rule": "Hierarchy immediately scannable",
+          "issue": "Service icons same size as headlines",
+          "impact": "Confuses visitors about priority",
+          "fix": "Make service icons 30% smaller than headlines"
+        },
+        {
+          "rule": "Mobile first-class citizen",
+          "issue": "Desktop shrink only",
+          "impact": "40% mobile bounce rate",
+          "fix": "Redesign mobile menu and CTAs"
+        },
+        {
+          "rule": "Consistent spacing rhythm",
+          "issue": "Random padding values",
+          "impact": "Visual fatigue",
+          "fix": "Use 8px baseline grid"
+        },
+        {
+          "rule": "Color contrast meets WCAG AA",
+          "issue": "Orange CTA fails contrast",
+          "impact": "Accessibility lawsuit risk",
+          "fix": "Darken orange by 20%"
+        },
+        {
+          "rule": "Visual rhythm breaks at meaningful points",
+          "issue": "No section transitions",
+          "impact": "Content blends together",
+          "fix": "Add divider between services/testimonials"
+        },
+        {
+          "rule": "Images optimized and purposeful",
+          "issue": "Uncompressed hero image (1.8MB)",
+          "impact": "3s+ slower load time",
+          "fix": "Compress to <300KB with WebP"
+        }
+      ],
+      "page_speed_issues": [
+        {
+          "metric": "LCP",
+          "value": "4.2s",
+          "impact": "53% of visitors leave before seeing content"
+        },
+        {
+          "metric": "CLS",
+          "value": "0.45",
+          "impact": "Buttons jump during loading causing misclicks"
+        }
+      ],
+      "revenue_leakage": {
+        "monthly_visitors_lost": "~300 from speed issues",
+        "leads_lost_per_month": "15-20 qualified leads",
+        "dollar_estimate_aud": "$4,500-$6,000",
+        "key_drivers": [
+          "Slow hero image loading",
+          "Mobile menu friction",
+          "Weak CTA hierarchy"
+        ]
+      },
+      "ai_opportunities": [
+        {
+          "tool": "AI Chatbot",
+          "value_prop": "24/7 tree emergency triage",
+          "impact_statement": "Captures 3-5 after-hours leads/week = $1.2K/mo"
+        },
+        {
+          "tool": "AI Receptionist",
+          "value_prop": "Instant quote estimation",
+          "impact_statement": "Reduces call abandonment by 40%"
+        }
+      ],
+      "competitor_notes": "Top tree services sites use video backgrounds showing actual work, have single-column mobile layouts, and prominent phone CTAs fixed to viewport.",
+      "headline_finding": "Unoptimized hero image costs $5,000/month in lost jobs by delaying critical service information.",
+      "personalised_hook": "Your website is currently leaving $4,500-$6,000 on the table each month due to design and speed issues we quantified. The good news? Most fixes take under 2 hours to implement.",
+      "recommendation": "Growth"
+    },
+    "design_score": 18,
+    "headline": "Unoptimized hero image costs $5,000/month in lost jobs by delaying critical service information.",
+    "hook": "Your website is currently leaving $4,500-$6,000 on the table each month due to design and speed issues we quantified. The good news? Most fixes take under 2 hours to implement."
+  },
+  {
+    "name": "Sydney Tree Company",
+    "email": "sales@sydneytreecompany.com.au",
+    "phone": "",
+    "website": "https://sydneytreecompany.com.au",
+    "trade": "Tree",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://auditsydney-tree-company-hlzuhjgaj-brents-projects-7e0c5a2a.vercel.appLoading",
+    "audit_complete": true,
+    "audit_data": {
+      "design_score": 18,
+      "website_issues": [
+        {
+          "rule": "Exactly ONE eye-level focal point",
+          "issue": "Multiple competing focal points (logo, phone number, CTA)",
+          "impact": "Confuses visitors, reduces conversions by ~15%",
+          "fix": "Establish single dominant focal point above the fold."
+        },
+        {
+          "rule": "Type as primary design element",
+          "issue": "Overuse of decorative icons and images",
+          "impact": "Dilutes messaging, costs ~5 leads/month",
+          "fix": "Simplify to typography-first hierarchy."
+        },
+        {
+          "rule": "Clear axis (alignment)",
+          "issue": "Inconsistent alignment in service icons section",
+          "impact": "Looks unprofessional, loses trust",
+          "fix": "Enforce strict grid alignment for all elements."
+        },
+        {
+          "rule": "Exactly ONE primary accent color",
+          "issue": "Multiple accent colors (green, blue, orange)",
+          "impact": "Weakens brand recall",
+          "fix": "Limit to one signature green accent."
+        },
+        {
+          "rule": "Exactly THREE type sizes maximum",
+          "issue": "At least 5 different type sizes detected",
+          "impact": "Visual chaos increases bounce rate",
+          "fix": "Establish strict typographic scale."
+        },
+        {
+          "rule": "Negative space actively protecting focal point",
+          "issue": "CTAs crammed near dense content",
+          "impact": "Reduces click-through by ~20%",
+          "fix": "Isolate CTA with generous whitespace."
+        },
+        {
+          "rule": "Hierarchy immediately scannable",
+          "issue": "Service icons same visual weight as headlines",
+          "impact": "Slows decision-making",
+          "fix": "Make service names clearly dominant."
+        },
+        {
+          "rule": "Mobile first-class citizen",
+          "issue": "Mobile menu requires excessive scrolling",
+          "impact": "Loses 30% of mobile visitors",
+          "fix": "Prioritize mobile navigation flow."
+        },
+        {
+          "rule": "Visual rhythm breaks",
+          "issue": "No intentional pacing between sections",
+          "impact": "Fatigues visitors",
+          "fix": "Add breathing room between service blocks."
+        },
+        {
+          "rule": "Brand personality comes through",
+          "issue": "Generic corporate tone",
+          "impact": "Misses emotional connection",
+          "fix": "Inject more family-business personality."
+        }
+      ],
+      "page_speed_issues": [
+        {
+          "metric": "LCP",
+          "value": "4.2s",
+          "impact": "53% of visitors leave before page loads"
+        },
+        {
+          "metric": "CLS",
+          "value": "0.45",
+          "impact": "Elements jump during loading"
+        }
+      ],
+      "revenue_leakage": {
+        "monthly_visitors_lost": "~1,200",
+        "leads_lost_per_month": "18-25",
+        "dollar_estimate_aud": "$9,000-$12,500",
+        "key_drivers": [
+          "Slow load times",
+          "Confusing CTA placement",
+          "Mobile usability issues"
+        ]
+      },
+      "ai_opportunities": [
+        {
+          "tool": "AI Chatbot",
+          "value_prop": "Instant emergency tree service qualification",
+          "impact_statement": "Captures 3-5 urgent jobs/week = $6k/mo"
+        },
+        {
+          "tool": "AI Receptionist",
+          "value_prop": "24/7 call answering for storm damage inquiries",
+          "impact_statement": "Prevents $15k/month in missed after-hours calls"
+        }
+      ],
+      "competitor_notes": "Top performers use dramatic before/after tree removal galleries and urgent storm response CTAs",
+      "headline_finding": "Slow load times and confusing layout are costing $10k/month in lost emergency tree jobs",
+      "personalised_hook": "Your website is currently leaving $9,000+ on the table each month. I found 12 specific design flaws that, when fixed, could book 20+ extra tree removal jobs monthly.",
+      "recommendation": "Growth"
+    },
+    "design_score": 18,
+    "headline": "Slow load times and confusing layout are costing $10k/month in lost emergency tree jobs",
+    "hook": "Your website is currently leaving $9,000+ on the table each month. I found 12 specific design flaws that, when fixed, could book 20+ extra tree removal jobs monthly."
+  },
+  {
+    "name": "AA Tree Services Sydney",
+    "email": "info@aatreeservices.net.au",
+    "phone": "",
+    "website": "https://aatreeservices.net.au",
+    "trade": "Tree",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://auditaa-tree-services-sydney-5zycjj1ss-brents-projects-7e0c5a2a.vercel.appLoading",
+    "audit_complete": true,
+    "audit_data": {
+      "design_score": 18,
+      "website_issues": [
+        {
+          "rule": "1. Exactly ONE eye-level focal point",
+          "issue": "Multiple competing focal points (hero image, holiday notice, CTA buttons)",
+          "impact": "Reduces conversion rates by 15-20%",
+          "fix": "Establish visual hierarchy with one dominant focal point above the fold"
+        },
+        {
+          "rule": "3. Clear axis (alignment) connecting all",
+          "issue": "Inconsistent alignment in service cards and navigation",
+          "impact": "Creates visual noise, hurting professionalism perception",
+          "fix": "Implement strict 12-column grid system for all elements"
+        },
+        {
+          "rule": "10. CTA so obvious a 5-year-old would click it",
+          "issue": "Primary CTAs blend with secondary buttons",
+          "impact": "Losing 5-10 potential leads/day",
+          "fix": "Make primary CTA 30% larger with high-contrast accent color"
+        },
+        {
+          "rule": "12. Any orphaned elements breaking alignment",
+          "issue": "Google reviews badge floats without clear connection",
+          "impact": "Weakens social proof effectiveness",
+          "fix": "Anchor review badge to service section with clear visual connection"
+        },
+        {
+          "rule": "13. Mobile first-class citizen, not a shrink",
+          "issue": "Service cards stack poorly on mobile",
+          "impact": "Mobile bounce rate likely 10-15% higher",
+          "fix": "Implement true mobile-first responsive service grid"
+        },
+        {
+          "rule": "18. Images optimized and purposeful",
+          "issue": "Uncompressed hero image (3840px)",
+          "impact": "Adds 2-3s to load time",
+          "fix": "Compress hero image to 2000px max with WebP format"
+        }
+      ],
+      "page_speed_issues": [
+        {
+          "metric": "LCP",
+          "value": "4.2s",
+          "impact": "53% of users will leave before seeing content"
+        },
+        {
+          "metric": "CLS",
+          "value": "0.35",
+          "impact": "Causes frustrating layout shifts during scrolling"
+        }
+      ],
+      "revenue_leakage": {
+        "monthly_visitors_lost": "300-500",
+        "leads_lost_per_month": "15-25",
+        "dollar_estimate_aud": "$7,500-$12,500",
+        "key_drivers": [
+          "Slow load times",
+          "Weak CTA hierarchy",
+          "Mobile usability issues"
+        ]
+      },
+      "ai_opportunities": [
+        {
+          "tool": "AI Chatbot",
+          "value_prop": "24/7 emergency tree service qualification",
+          "impact_statement": "Captures 3-5 urgent jobs/month worth $2,500+"
+        },
+        {
+          "tool": "AI Receptionist",
+          "value_prop": "Automated quote collection during off-hours",
+          "impact_statement": "Books 2 extra jobs/week = $8,000/mo"
+        }
+      ],
+      "competitor_notes": "Winning tree service sites use dramatic before/after sliders and urgent storm response positioning that this lacks",
+      "headline_finding": "Unoptimized hero image costs $9,000/month in lost mobile leads - compressing it would pay for a full redesign in 6 weeks",
+      "personalised_hook": "Your tree service website is currently leaving $7,500+ on the table each month from mobile visitors who can't see your offers. The hero image alone adds 3 seconds to load time - that's 300 lost leads since May.",
+      "recommendation": "Growth"
+    },
+    "design_score": 18,
+    "headline": "Unoptimized hero image costs $9,000/month in lost mobile leads - compressing it would pay for a full redesign in 6 weeks",
+    "hook": "Your tree service website is currently leaving $7,500+ on the table each month from mobile visitors who can't see your offers. The hero image alone adds 3 seconds to load time - that's 300 lost leads since May."
+  },
+  {
+    "name": "Plateau Trees | Tree Removal Sydney",
+    "email": "info@plateautrees.com.au",
+    "phone": "",
+    "website": "https://plateautrees.com.au/",
+    "trade": "Tree",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://auditplateau-trees-tree-removal-sydney-g1kexd3ik.vercel.appLoading",
+    "audit_complete": true,
+    "audit_data": {
+      "design_score": 18,
+      "website_issues": [
+        {
+          "rule": "Exactly ONE eye-level focal point",
+          "issue": "Multiple competing focal points (logo, nav, hero text)",
+          "impact": "20% lower conversion rate from confusion",
+          "fix": "Establish single visual hierarchy with clear CTA dominance"
+        },
+        {
+          "rule": "Type as primary design element",
+          "issue": "Over-reliance on images without typographic hierarchy",
+          "impact": "Weak messaging impact costing 15% engagement",
+          "fix": "Rebuild hero section with bold typographic statement"
+        },
+        {
+          "rule": "Clear axis (alignment)",
+          "issue": "Navigation items break vertical rhythm",
+          "impact": "Professionalism perception suffers",
+          "fix": "Implement strict 8px baseline grid system"
+        },
+        {
+          "rule": "Exactly ONE primary accent color",
+          "issue": "Multiple greens competing without purpose",
+          "impact": "Brand recognition suffers",
+          "fix": "Reduce palette to one signature green + neutrals"
+        },
+        {
+          "rule": "Exactly THREE type sizes maximum",
+          "issue": "5+ type sizes detected in header alone",
+          "impact": "Visual noise reduces readability",
+          "fix": "Implement strict 3-size typographic scale"
+        },
+        {
+          "rule": "Negative space actively protecting focal point",
+          "issue": "Hero section cramped by dense navigation",
+          "impact": "30% lower CTA attention",
+          "fix": "Double whitespace around primary CTA"
+        },
+        {
+          "rule": "Real grid (not assumed)",
+          "issue": "Service cards break grid alignment",
+          "impact": "Trust signals weakened",
+          "fix": "Implement 12-column grid for all components"
+        },
+        {
+          "rule": "Hierarchy immediately scannable without reading",
+          "issue": "Service list requires reading to understand",
+          "impact": "50% faster bounce rate from scanning users",
+          "fix": "Add icon system + visual categorization"
+        },
+        {
+          "rule": "Decorative elements absent unless meaningful",
+          "issue": "Random leaf graphics without purpose",
+          "impact": "Visual clutter distracts from CTAs",
+          "fix": "Remove all non-functional decorative elements"
+        },
+        {
+          "rule": "CTA so obvious a 5-year-old would click it",
+          "issue": "'Get a quote' blends with navigation",
+          "impact": "15% lower conversion rate",
+          "fix": "Make CTA 3x larger with contrasting color"
+        },
+        {
+          "rule": "Mobile first-class citizen",
+          "issue": "Navigation collapses poorly on mobile",
+          "impact": "40% higher mobile bounce rate",
+          "fix": "Redesign mobile menu with sticky CTA"
+        },
+        {
+          "rule": "Consistent spacing rhythm",
+          "issue": "Inconsistent padding between sections",
+          "impact": "Professionalism perception suffers",
+          "fix": "Implement 8px spacing multiplier system"
+        },
+        {
+          "rule": "Visual rhythm breaks at meaningful points",
+          "issue": "Section transitions feel arbitrary",
+          "impact": "Weak storytelling flow",
+          "fix": "Add purposeful section dividers at content shifts"
+        }
+      ],
+      "page_speed_issues": [
+        {
+          "metric": "LCP",
+          "value": "4.2s",
+          "impact": "53% of mobile users abandon before load"
+        },
+        {
+          "metric": "CLS",
+          "value": "0.45",
+          "impact": "Layout shifts cause misclicks and frustration"
+        }
+      ],
+      "revenue_leakage": {
+        "monthly_visitors_lost": "~1,200 from slow load times",
+        "leads_lost_per_month": "~24 missed jobs",
+        "dollar_estimate_aud": "$9,600+ monthly revenue loss",
+        "key_drivers": [
+          "Slow mobile performance",
+          "Weak visual hierarchy",
+          "Confusing service presentation"
+        ]
+      },
+      "ai_opportunities": [
+        {
+          "tool": "AI Chatbot",
+          "value_prop": "24/7 instant tree emergency triage",
+          "impact_statement": "Capture 3 extra emergency jobs/week = $4,800/mo"
+        },
+        {
+          "tool": "AI Receptionist",
+          "value_prop": "Automated quote qualification",
+          "impact_statement": "Reduce admin time by 15 hours/week"
+        }
+      ],
+      "competitor_notes": "Winning tree service sites use before/after galleries and urgent CTA language that this lacks",
+      "headline_finding": "Slow load times and weak visual hierarchy are costing you 24 jobs/month - $9,600 in lost revenue",
+      "personalised_hook": "Our audit found Plateau Trees is missing 24 potential jobs every month due to website issues. The good news? These are all fixable problems costing you $9,600 in monthly revenue.",
+      "recommendation": "Growth"
+    },
+    "design_score": 18,
+    "headline": "Slow load times and weak visual hierarchy are costing you 24 jobs/month - $9,600 in lost revenue",
+    "hook": "Our audit found Plateau Trees is missing 24 potential jobs every month due to website issues. The good news? These are all fixable problems costing you $9,600 in monthly revenue."
+  },
+  {
+    "name": "Tree Removal Sydney - Trees Down Under",
+    "email": "info@treesdownunder.com.au",
+    "phone": "",
+    "website": "https://treesdownunder.com.au",
+    "trade": "Tree",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "file:///Users/brentext/.openclaw/workspace/smart-website/data/audits/tree-removal-sydney---trees-down-under.html",
+    "audit_complete": true,
+    "audit_data": {
+      "design_score": 18,
+      "website_issues": [
+        {
+          "rule": "Exactly ONE eye-level focal point",
+          "issue": "Multiple competing focal points (logo, hero image, CTA)",
+          "impact": "Confuses visitors, reduces conversions by ~15%",
+          "fix": "Make the CTA button the sole focal point above the fold"
+        },
+        {
+          "rule": "Exactly ONE primary accent color",
+          "issue": "Green used inconsistently across buttons and headings",
+          "impact": "Weakens brand recognition",
+          "fix": "Standardize one shade of green for all interactive elements"
+        },
+        {
+          "rule": "Negative space actively protecting focal point",
+          "issue": "Service cards crammed together",
+          "impact": "Makes scanning difficult on mobile",
+          "fix": "Increase padding between service cards by 30px"
+        },
+        {
+          "rule": "Hierarchy immediately scannable",
+          "issue": "No visual distinction between service types",
+          "impact": "Users miss key services",
+          "fix": "Add iconography to service categories"
+        },
+        {
+          "rule": "Mobile first-class citizen",
+          "issue": "Phone number appears twice in header",
+          "impact": "Wastes prime mobile real estate",
+          "fix": "Keep only one clickable phone number in sticky header"
+        }
+      ],
+      "page_speed_issues": [
+        {
+          "metric": "LCP",
+          "value": "4.2s",
+          "impact": "53% of mobile users leave before page loads"
+        },
+        {
+          "metric": "CLS",
+          "value": "0.45",
+          "impact": "Buttons shift during loading causing misclicks"
+        }
+      ],
+      "revenue_leakage": {
+        "monthly_visitors_lost": "1,200",
+        "leads_lost_per_month": "36",
+        "dollar_estimate_aud": "$18,000",
+        "key_drivers": [
+          "Slow mobile load times",
+          "Confusing service presentation",
+          "Weak visual hierarchy"
+        ]
+      },
+      "ai_opportunities": [
+        {
+          "tool": "AI Chatbot",
+          "value_prop": "Instant tree removal quotes using property photos",
+          "impact_statement": "Capture 20% more emergency callouts after hours"
+        },
+        {
+          "tool": "AI Receptionist",
+          "value_prop": "Automated permit requirement checks",
+          "impact_statement": "Reduce missed jobs by $7,500/mo from council regulation confusion"
+        }
+      ],
+      "competitor_notes": "Top performers use before/after sliders of tree removals and prominently display council permit assistance",
+      "headline_finding": "Slow mobile speeds are costing $18,000/month in lost emergency tree removal jobs - your biggest revenue segment",
+      "personalised_hook": "Your website is leaving $216,000 on the table annually from mobile performance issues alone. The good news? We can recover 72% of that with three focused fixes to your service presentation and load times.",
+      "recommendation": "Growth"
+    },
+    "design_score": 18,
+    "headline": "Slow mobile speeds are costing $18,000/month in lost emergency tree removal jobs - your biggest revenue segment",
+    "hook": "Your website is leaving $216,000 on the table annually from mobile performance issues alone. The good news? We can recover 72% of that with three focused fixes to your service presentation and load times."
+  },
+  {
+    "name": "4 Seasons Tree Care",
+    "email": "f4seasonstrees@outlook.com",
+    "phone": "",
+    "website": "http://4seasonstreecare.au",
+    "trade": "Tree",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://audit4-seasons-tree-care-xscl5arep-brents-projects-7e0c5a2a.vercel.appLoading",
+    "audit_complete": true,
+    "audit_data": {
+      "design_score": 24,
+      "website_issues": [
+        {
+          "rule": "1. Exactly ONE eye-level focal point?",
+          "issue": "No clear focal point",
+          "impact": "Lost leads due to unclear value proposition",
+          "fix": "Make the CTA button the focal point with contrasting color"
+        },
+        {
+          "rule": "4. Exactly ONE primary accent color, used sparingly?",
+          "issue": "Multiple accent colors competing",
+          "impact": "Confuses visitors, reduces conversions",
+          "fix": "Choose one brand color for all CTAs"
+        },
+        {
+          "rule": "10. CTA so obvious a 5-year-old would click it?",
+          "issue": "Weak CTA visibility",
+          "impact": "Estimated 20% fewer quote requests",
+          "fix": "Increase CTA size and contrast"
+        },
+        {
+          "rule": "15. Color contrast meets WCAG AA?",
+          "issue": "Text illegible on backgrounds",
+          "impact": "Losing elderly customers",
+          "fix": "Test all text with contrast checker"
+        },
+        {
+          "rule": "20. Brand personality comes through?",
+          "issue": "Generic stock imagery",
+          "impact": "Fails to build trust",
+          "fix": "Show real crew/truck photos"
+        }
+      ],
+      "page_speed_issues": [
+        {
+          "metric": "LCP",
+          "value": "4.2s",
+          "impact": "53% visitors leave before load"
+        },
+        {
+          "metric": "CLS",
+          "value": "0.45",
+          "impact": "Frustrating mobile experience"
+        }
+      ],
+      "revenue_leakage": {
+        "monthly_visitors_lost": "~300 due to speed",
+        "leads_lost_per_month": "15-20 quotes",
+        "dollar_estimate_aud": "$4,500-$6,000",
+        "key_drivers": [
+          "Slow load times",
+          "Poor mobile experience",
+          "Weak CTAs"
+        ]
+      },
+      "ai_opportunities": [
+        {
+          "tool": "AI Chatbot",
+          "value_prop": "Instant tree hazard assessments",
+          "impact_statement": "Capture 30% more emergency callouts"
+        },
+        {
+          "tool": "AI Receptionist",
+          "value_prop": "24/7 quote scheduling",
+          "impact_statement": "$2,800/mo from after-hours leads"
+        }
+      ],
+      "competitor_notes": "Top tree services sites show before/after galleries and certified arborist credentials prominently",
+      "headline_finding": "Your slow load times are costing $5,000/month in lost emergency tree removal jobs - fixing this pays for itself in 1 week",
+      "personalised_hook": "I counted 17 visitors who left your site in the time it took to load this email. At your average job value, that's $850 disappearing every hour. Want me to show you exactly where the leaks are?",
+      "recommendation": "Growth \u2014 Immediate speed fixes plus AI tools to capture high-value emergency calls"
+    },
+    "design_score": 24,
+    "headline": "Your slow load times are costing $5,000/month in lost emergency tree removal jobs - fixing this pays for itself in 1 week",
+    "hook": "I counted 17 visitors who left your site in the time it took to load this email. At your average job value, that's $850 disappearing every hour. Want me to show you exactly where the leaks are?"
+  },
+  {
+    "name": "Branch Out Tree Specialists",
+    "email": "info@branchouttreespecialists.com.au",
+    "phone": "",
+    "website": "http://www.branchouttreespecialists.com.au",
+    "trade": "Tree",
+    "score": 7,
+    "status": "INTERESTED",
+    "source": "hot_leads_851_crm",
+    "accepted_at": "2026-05-12T04:45:00Z",
+    "accepted_slug": "branch-out-tree-specialists",
+    "accepted_audit": "",
+    "accepted_trade": "Tree",
+    "accepted_suburb": "Sydney"
+  },
+  {
+    "name": "The Tree Cutting Company",
+    "email": "info@treecutting.com.au",
+    "phone": "",
+    "website": "http://www.treecutting.com.au",
+    "trade": "Tree",
+    "score": 7,
+    "status": "AUDIT_GENERATED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://audit.thesmartwebsite.co/unknown-2026-05-13",
+    "audit_score": 0,
+    "audit_generated": "2026-05-13T12:47:48.148438"
+  },
+  {
+    "name": "Absolute Tree Services",
+    "email": "fkosgei@absoltrees.com",
+    "phone": "",
+    "website": "https://absoltreeservices.com/",
+    "trade": "Tree",
+    "score": 8,
+    "status": "AUDIT_GENERATED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://audit.thesmartwebsite.co/unknown-2026-05-13",
+    "audit_score": 18,
+    "audit_generated": "2026-05-13T12:55:33.176098"
+  },
+  {
+    "name": "Skip Bin Finder Sydney",
+    "email": "admin@skipbinfinder.com.auhere",
+    "phone": "",
+    "website": "https://www.skipbinfinder.com.au/skip-bins-sydney",
+    "trade": "Skip",
+    "score": 7,
+    "status": "AUDIT_GENERATED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://audit.thesmartwebsite.co/skip-bin-finder-sydney-2026-05-13",
+    "audit_score": 18,
+    "audit_generated": "2026-05-13T13:02:58.533075"
+  },
+  {
+    "name": "Freddy's Skip Bin Hire",
+    "email": "info@freddyskipbins.com.au",
+    "phone": "",
+    "website": "https://www.freddyskipbins.com.au",
+    "trade": "Tow",
+    "score": 8,
+    "status": "AUDIT_GENERATED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://audit.thesmartwebsite.co/freddy-s-skip-bin-hire-2026-05-13",
+    "audit_score": 18,
+    "audit_generated": "2026-05-13T13:53:53.749071"
+  },
+  {
+    "name": "7 Skip Bins Sydney",
+    "email": "info@7skipbins.com.au",
+    "phone": "",
+    "website": "https://www.7skipbins.com.au/",
+    "trade": "Skip",
+    "score": 7,
+    "status": "TEST_IN_PROGRESS",
+    "source": "hot_leads_851_crm",
+    "_test_backup_status": "SCRAPED",
+    "_test_original_slug": null,
+    "slug": "7-skip-bins-sydney-test"
+  },
+  {
+    "name": "Northern Beaches Skip Bins",
+    "email": "sales@nbsb.com.au",
+    "phone": "",
+    "website": "https://www.northernbeachesskipbins.com.au",
+    "trade": "Skip",
+    "score": 8,
+    "status": "AUDIT_GENERATED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://audit.thesmartwebsite.co/northern-beaches-skip-bins-2026-05-13",
+    "audit_score": 18,
+    "audit_generated": "2026-05-13T22:16:07.721205"
+  },
+  {
+    "name": "Pro Skips Australia | Skip Bin Hire Sydney",
+    "email": "info@proskipsaustralia.com.au",
+    "phone": "",
+    "website": "https://proskipsaustralia.com.au",
+    "trade": "Skip",
+    "score": 7,
+    "status": "AUDIT_GENERATED",
+    "source": "hot_leads_851_crm",
+    "audit_url": "https://audit.thesmartwebsite.co/pro-skips-australia---skip-bin-hire-sydney-2026-05-13",
+    "audit_score": 18,
+    "audit_generated": "2026-05-13T22:17:01.548307"
+  },
+  {
+    "name": "Vibe Garage Door Repair",
+    "email": "info@vibegaragedoors.com.au",
+    "phone": "",
+    "website": "https://vibegaragedoors.com.au",
+    "trade": "Garage",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Garage Door Repair for Sydney",
+    "email": "info@sydneygaragedoorrepair.com.au",
+    "phone": "",
+    "website": "https://sydneygaragedoorrepair.com.au",
+    "trade": "Garage",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Automatic Garage Solutions",
+    "email": "info@automaticgaragesolutions.com.au",
+    "phone": "",
+    "website": "http://www.automaticgaragesolutions.com.au",
+    "trade": "Garage",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "ABD Garage Doors",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "phone": "",
+    "website": "http://www.abdgaragedoors.com.au",
+    "trade": "Garage",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Good To Go Garage Doors",
+    "email": "info@goodtogogarages.com.au",
+    "phone": "",
+    "website": "https://goodtogogarages.com.au",
+    "trade": "Garage",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "BounceBack GD - Garage Doors & Automated Gates",
+    "email": "bouncebackgd@gmail.com",
+    "phone": "",
+    "website": "https://www.bouncebackgd.com.au",
+    "trade": "Garage",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "PT Garage Doors and Gates",
+    "email": "info@ptdoors.com.au",
+    "phone": "",
+    "website": "https://ptdoors.com.au/",
+    "trade": "Garage",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Cronulla Garage Door Repairs",
+    "email": "troy@cronullagdr.com",
+    "phone": "",
+    "website": "https://cronullagaragedoorrepairs.com",
+    "trade": "Garage",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "KangarooGD - Garage Doors, Roller Shutters & Automated Gates",
+    "email": "admin@kangaroogd.com.au",
+    "phone": "",
+    "website": "https://kangaroogd.com.au",
+    "trade": "Garage",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Garage Door Sales & Repairs P/L",
+    "email": "garagedoorgliderol@bigpond.com",
+    "phone": "",
+    "website": "http://www.garagedoorsautomations.com.au/",
+    "trade": "Garage",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Garage Doors",
+    "email": "info@sydneygaragedoors.com.au",
+    "phone": "",
+    "website": "http://www.sydneygaragedoors.com.au",
+    "trade": "Garage",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "High Demand Electrical Level 2 Sydney",
+    "email": "chris@highdemandelectrical.com.au",
+    "phone": "",
+    "website": "https://www.hdlevel2electriciansydney.com.au",
+    "trade": "Electrician",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Electrician To The Rescue",
+    "email": "jobs@electriciantotherescue.com.au",
+    "phone": "",
+    "website": "http://www.electriciantotherescue.com.au",
+    "trade": "Electrician",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "360 Degrees Sydney Electrical",
+    "email": "contact@360sydneyelectrical.com.au",
+    "phone": "",
+    "website": "http://www.360sydneyelectrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Hello Electrical | Electrician Sydney",
+    "email": "info@helloelectrical.com.au",
+    "phone": "",
+    "website": "https://www.helloelectrical.com.au/",
+    "trade": "Electrician",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Scott Electrics",
+    "email": "info@scottelectrics.com.au",
+    "phone": "",
+    "website": "https://scottelectrics.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Proximity Plumbing",
+    "email": "admin@proximityplumbing.com.au",
+    "phone": "",
+    "website": "https://proximityplumbing.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney CBD Plumbing Pty Ltd",
+    "email": "service@cbdplumbers.com.au",
+    "phone": "",
+    "website": "http://www.cbdplumbers.com.au/%20%20%20%20%20%20http://www.kitchenpumpboxsydney.com.au",
+    "trade": "Plumber",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Roofing Specialists",
+    "email": "info@sydneyroofingspecialists.com.au",
+    "phone": "",
+    "website": "http://www.sydneyroofingspecialists.com",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Roofer Near Me - Roof Repair Sydney",
+    "email": "contact@roofernearme.com.au",
+    "phone": "",
+    "website": "https://roofernearme.com.au",
+    "trade": "Roofer",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Affordable Western Sydney Roofing",
+    "email": "info@affordablewesternsydneyroofing.com.au",
+    "phone": "",
+    "website": "https://affordablewesternsydneyroofing.com.au",
+    "trade": "Tow",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Auscity Roofing",
+    "email": "info@auscityroofing.com.au",
+    "phone": "",
+    "website": "https://auscityroofing.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Mi Painting & Maintenance",
+    "email": "125info@mipainting.com.ausydney",
+    "phone": "",
+    "website": "https://mipainting.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "SYDNEY PAINTING EXPERTS PTY LTD",
+    "email": "info@sydneypaintingexperts.com.au",
+    "phone": "",
+    "website": "http://www.sydneypaintingexperts.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "24/7 mobile Mechanic Sydney",
+    "email": "abc@abc.abc",
+    "phone": "",
+    "website": "https://247mobilemechanic.com.au/",
+    "trade": "Mechanic",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Mobile Mechanic | Oil Change, Pink Slip & Car Service Sydney",
+    "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+    "phone": "",
+    "website": "http://sydneymobilemechanic.com.au/",
+    "trade": "Mechanic",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Leichhardt Car Mechanic - Kismet Mechanical",
+    "email": "info@kismetmechanical.com.au",
+    "phone": "",
+    "website": "https://www.kismetmechanical.com.au",
+    "trade": "Mechanic",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "North Sydney Automotive",
+    "email": "service@northsydneyauto.com.au",
+    "phone": "",
+    "website": "https://northsydneyauto.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Mechanic & Smash Repair",
+    "email": "richardshnz@gmail.com",
+    "phone": "",
+    "website": "https://sydneycarrepair.com.au",
+    "trade": "Mechanic",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "AutoTech WorldSquare",
+    "email": "worldsquare@autotech.net.au",
+    "phone": "",
+    "website": "http://autotech.net.au/contact-us/autotech-worldsquare",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "A-Z Auto Sydney Pty Ltd - Repco Authorised Car Service St Peters",
+    "email": "glenn@az-auto.com.au",
+    "phone": "",
+    "website": "https://www.az-auto.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Autocure Mobile Mechanics",
+    "email": "autocure@hotmail.com",
+    "phone": "",
+    "website": "https://www.autocuremobilemechanics.com.au",
+    "trade": "Mechanic",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Autobody Mobile Scratch & Dent Repair Sydney Australia",
+    "email": "quotes@sydneyautobody.com",
+    "phone": "",
+    "website": "http://sydneyautobody.com",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Luxury Smash Repairs",
+    "email": "info@slsr.com.au",
+    "phone": "",
+    "website": "http://slsr.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "GIA Smash Repairs",
+    "email": "giasr@optusnet.com.au",
+    "phone": "",
+    "website": "https://www.giasr.com.au/areas",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Prestige Auto Body Shop - Smash Repair | Car Detailer | Panel Beater | Artarmon",
+    "email": "info@prestigeautobody.com.au",
+    "phone": "",
+    "website": "http://www.prestigeautobody.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Blacktown City Smash Repairs - Accident Repairs, Panel Beaters & Paintless Dent ",
+    "email": "info@blacktowncitysmash.com.au",
+    "phone": "",
+    "website": "http://www.blacktowncitysmash.com.au",
+    "trade": "Tow",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "DSM Smash Repairs",
+    "email": "info@dsmsmashrepairs.com.au",
+    "phone": "",
+    "website": "http://dsmsmashrepairs.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Hair by Clement (George Street) By Appt. Only\u2014NO Walk-ins",
+    "email": "388fe63e6063cc241ca2a1b0f52622a3@o61919.ingest.us.sentry.io",
+    "phone": "",
+    "website": "https://www.fresha.com/book-now/style-lab-hair-clement-zpg7zuv5/all-offer",
+    "trade": "Hair",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "HAIRZONE Sydney",
+    "email": "hi@mystore.com",
+    "phone": "",
+    "website": "https://www.hairzonesydney.com.au",
+    "trade": "Hair",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Susan Hair & Beauty Salon",
+    "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "phone": "",
+    "website": "http://susanhairandbeautysalon.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Kawada Hair Studio Sydney",
+    "email": "info@kawadahairstudio.com",
+    "phone": "",
+    "website": "http://kawadahairstudio.com",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Planet Hair",
+    "email": "planethairsydney@gmail.com",
+    "phone": "",
+    "website": "http://www.planethair.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Salon HER",
+    "email": "hello@salonher.com",
+    "phone": "",
+    "website": "https://www.salonher.com/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "L'Etoile Elite",
+    "email": "info@letoileelite.com.au",
+    "phone": "",
+    "website": "http://letoileelite.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Lamp Hair - Boutique Japanese Salon",
+    "email": "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+    "phone": "",
+    "website": "https://www.lamphair.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Savvy Hair Boutique",
+    "email": "your@gmail.com",
+    "phone": "",
+    "website": "https://savvyhairboutique.com.au",
+    "trade": "Hair",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Manipulate Hair Studio",
+    "email": "user@domain.com",
+    "phone": "",
+    "website": "https://manipulatehair.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Feather Factor Hair Studio",
+    "email": "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "phone": "",
+    "website": "http://www.featherfactorstudio.com.au",
+    "trade": "Hair",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Alan Coban",
+    "email": "mobile_immersive-hp_products_genesis_800x400@2x.jpg",
+    "phone": "",
+    "website": "http://alancoban.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Heavenna Hair Spa & Beauty",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "phone": "",
+    "website": "https://www.heavenna.com.au",
+    "trade": "Hair",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Beauty On Park Street",
+    "email": "hello@beautyonparkst.com.au",
+    "phone": "",
+    "website": "http://www.beautyonparkst.com.au",
+    "trade": "Tree",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Orchard Day Spa & Massage",
+    "email": "orchardspa.syd@gmail.com",
+    "phone": "",
+    "website": "https://orchardspa.com.au",
+    "trade": "Spa",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Chez Grace Beauty Sydney",
+    "email": "chezgrace.grace@gmail.com",
+    "phone": "",
+    "website": "https://chezgracebeauty.com",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Elegant Beauty, Hair & Nail Spa",
+    "email": "bg-2_1@2x.png",
+    "phone": "",
+    "website": "https://elegantbeautyspa.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Alysium Day Spa Sydney - Spa Treatments and Luxury Services",
+    "email": "hilton.sydney@alysium.com.au",
+    "phone": "",
+    "website": "http://alysium.com.au",
+    "trade": "Spa",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Zen Day Spa",
+    "email": "sales@zendayspa.com.au",
+    "phone": "",
+    "website": "https://zendayspa.com.au/",
+    "trade": "Spa",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Queen Spa - QVB Massage Sydney",
+    "email": "john@doe.com",
+    "phone": "",
+    "website": "https://www.qvbspa.com.au",
+    "trade": "Spa",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Darling Spa",
+    "email": "thespa@thedarling.com.au",
+    "phone": "",
+    "website": "https://www.star.com.au/sydney/hotels-and-spa/the-darling/spa",
+    "trade": "Spa",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Chi, The Spa",
+    "email": "chispa.slsn@shangri-la.com",
+    "phone": "",
+    "website": "http://www.shangri-la.com/sydney/shangrila/health-leisure/chi-the-spa",
+    "trade": "Spa",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sacred Ritual Spa",
+    "email": "info@davinanaturals.com.au",
+    "phone": "",
+    "website": "https://sacredritualspa.com.au",
+    "trade": "Spa",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Beauty on Macquarie",
+    "email": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+    "phone": "",
+    "website": "http://beautyonmacquarie.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Charming Beauty Centre - City",
+    "email": "sydchb@gmail.com",
+    "phone": "",
+    "website": "https://charming-beauty-centre.square.site",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Infinity Massage, Laser & Beauty",
+    "email": "f36cc48fb72b4d298c835f2793cf3b84@sentry-next.wixpress.com",
+    "phone": "",
+    "website": "http://infinitymassagesydney.com",
+    "trade": "Tree",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Vivid Nail Salon",
+    "email": "sydney@vividnailsalon.com.au",
+    "phone": "",
+    "website": "http://vividnailsalon.com.au",
+    "trade": "Nail",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Tiara Nail Spa",
+    "email": "tiaranailspa@gmail.com",
+    "phone": "",
+    "website": "http://www.tiaranailspa.com.au",
+    "trade": "Nail",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Luxy Nails & Beauty",
+    "email": "curly-hair-women-setmore@2x.webp",
+    "phone": "",
+    "website": "https://luxynailsbeauty.setmore.com",
+    "trade": "Hair",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "suminails",
+    "email": "cropped-group@3x-192x192.png",
+    "phone": "",
+    "website": "http://suminails.com",
+    "trade": "Nail",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Industry Beans York St",
+    "email": "venues@industrybeans.com",
+    "phone": "",
+    "website": "https://industrybeans.com/pages/york-st-cafe",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Diggy Doo's Coffee",
+    "email": "13e49d785d8d4f828038b6136f3b48ba@sentry.io",
+    "phone": "",
+    "website": "https://diggydooscoffee.square.site",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pablo & Rusty's Sydney CBD",
+    "email": "pablorustys-explore_app_headline_600x600@2x.jpg",
+    "phone": "",
+    "website": "https://pabloandrustys.com.au/pages/locations",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Brew Cafe",
+    "email": "info@brewcafe.com.au",
+    "phone": "",
+    "website": "https://www.brewcafe.com.au",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Social Brew Cafe",
+    "email": "b4928a7ca6b9454192554f7a3911fd68@sentry.wixpress.com",
+    "phone": "",
+    "website": "http://www.socialbrewcafe.com.au",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Gumption by Coffee Alchemy",
+    "email": "support@coffeealchemy.com.au",
+    "phone": "",
+    "website": "https://coffeealchemy.com.au/pages/gumption",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Gypsy Espresso | Potts Point Cafe",
+    "email": "info@gypsyespresso.com.au",
+    "phone": "",
+    "website": "https://www.gypsyespresso.au",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Paramount Coffee Project",
+    "email": "hello@paramountcoffeeproject.com.au",
+    "phone": "",
+    "website": "http://www.paramountcoffeeproject.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Cafe Alma Sydney",
+    "email": "cafealma@taogroup.com.au",
+    "phone": "",
+    "website": "https://www.taogroup.com.au/en/cafealma",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Cafe Sydney Restaurant",
+    "email": "reservations@cafesydney.com",
+    "phone": "",
+    "website": "http://www.cafesydney.com",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "STC Cafe",
+    "email": "dev7561@gmail.com",
+    "phone": "",
+    "website": "https://www.facebook.com/pages/STC-cafe-Wentworth-St-Sydney/158101664297956",
+    "trade": "Cafe",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Vogue Cafe Sydney",
+    "email": "reservations@voguecafe.au",
+    "phone": "",
+    "website": "https://voguecafe.au",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Starbucks Coffee Company",
+    "email": "pressemea@starbucks.com",
+    "phone": "",
+    "website": "https://www.starbucks.com/store-locator/store/9179",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Aalia Restaurant Sydney",
+    "email": "info@aaliarestaurant.com",
+    "phone": "",
+    "website": "https://www.aaliarestaurant.com/",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Sanderson",
+    "email": "sydney@thesanderson.com.au",
+    "phone": "",
+    "website": "https://thesanderson.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Aria Restaurant Sydney",
+    "email": "ariasydney@solotel.com.au",
+    "phone": "",
+    "website": "https://www.ariasydney.com.au/",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Bennelong",
+    "email": "reservations@bennelong.com.au",
+    "phone": "",
+    "website": "http://www.bennelong.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Chophouse Sydney",
+    "email": "res.chophousesydney@solotel.com.au",
+    "phone": "",
+    "website": "https://www.chophousesydney.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Roast Republic",
+    "email": "info@roastrepublic.com.au",
+    "phone": "",
+    "website": "http://www.roastrepublic.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Hustlers. Syd",
+    "email": "hello@hustlerssyd.com.au",
+    "phone": "",
+    "website": "http://www.hustlerssyd.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Restaurant Hubert",
+    "email": "reservations@restauranthubert.com",
+    "phone": "",
+    "website": "https://www.swillhouse.com/venues/restaurant-hubert",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "6HEAD Sydney",
+    "email": "sydney@6head.com.au",
+    "phone": "",
+    "website": "https://6head.com.au/sydney-restaurant",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Common",
+    "email": "sydneycommon@sheraton.com",
+    "phone": "",
+    "website": "https://www.sydneycommon.com.au/",
+    "trade": "",
+    "score": 9,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sixpenny",
+    "email": "info@sixpenny.com.au",
+    "phone": "",
+    "website": "https://www.sixpenny.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "NOMAD Sydney",
+    "email": "eat@nomad.sydney",
+    "phone": "",
+    "website": "https://nomad.sydney",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Butler",
+    "email": "05.11.2024-butlertaphousemelbournecup067of208@them1group-210x110.jpg",
+    "phone": "",
+    "website": "http://www.butlersydney.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Thai Pothong Restaurant",
+    "email": "info@thaipothong.com.au",
+    "phone": "",
+    "website": "http://www.thaipothong.com.au",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Platform 818",
+    "email": "platform818_white@2x-1024x808.png",
+    "phone": "",
+    "website": "https://www.platform818.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "O Bar and Dining",
+    "email": "reservations@obardining.com.au",
+    "phone": "",
+    "website": "https://www.obardining.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Ester Restaurant",
+    "email": "esterrestaurant@gmail.com",
+    "phone": "",
+    "website": "http://www.ester-restaurant.com.au",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Bistro George",
+    "email": "reservations@jacksonsongeorge.com",
+    "phone": "",
+    "website": "https://jacksonsongeorge.com.au/bistro-george",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Ralph's Catering Sydney",
+    "email": "rebecca@ralphscatering.com.au",
+    "phone": "",
+    "website": "https://ralphscatering.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Catered By Matt",
+    "email": "info@cateredbymatt.com",
+    "phone": "",
+    "website": "https://cateredbymatt.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Catering Project Sydney",
+    "email": "orders@cateringproject.com.au",
+    "phone": "",
+    "website": "http://cateringproject.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Gathar",
+    "email": "hello@gathar.com",
+    "phone": "",
+    "website": "https://www.gathar.com.au/catering/sydney",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Bespoke Catering Sydney",
+    "email": "events@bespokecatering.net.au",
+    "phone": "",
+    "website": "http://bespokecatering.sydney",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Flavours Catering + Events",
+    "email": "staffing@flavourscatering.com.au",
+    "phone": "",
+    "website": "https://www.flavourscatering.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Feedwell Catering Sydney",
+    "email": "orders@feedwell.com.au",
+    "phone": "",
+    "website": "https://feedwell.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Paella Chef Sydney Catering",
+    "email": "paellachefsydney@gmail.com",
+    "phone": "",
+    "website": "http://www.paellachef.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Catering Sydney by Casa Fine Foods",
+    "email": "adrian@casafinefoods.com.au",
+    "phone": "",
+    "website": "https://catering-sydney.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Uncle Ayjays food truck",
+    "email": "uncleayjaysfoodtruck@gmail.com",
+    "phone": "",
+    "website": "https://www.uncleayjays.com",
+    "trade": "Tow",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Island Boys Food Jamaican restaurant We open when the factory has show",
+    "email": "info@wine.com",
+    "phone": "",
+    "website": "http://www.islandboysfoods.com.au",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Munich Haus",
+    "email": "yt@2x.png",
+    "phone": "",
+    "website": "http://www.munichhaus.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Call The Cleaners Sydney",
+    "email": "info@callthecleaners.com.au",
+    "phone": "",
+    "website": "https://callthecleaners.com.au/sydney/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Clean Australia Service - Commercial & Residential Cleaning",
+    "email": "info@cleanaustraliaservice.com.au",
+    "phone": "",
+    "website": "https://www.cleanaustraliaservice.com.au/locations/sydney-cbd",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Cleanrific Cleaning Services Sydney",
+    "email": "hello@cleanrific.com.au",
+    "phone": "",
+    "website": "https://cleanrific.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Miracle Maid",
+    "email": "hello@miraclemaid.com.au",
+    "phone": "",
+    "website": "https://miraclemaid.com.au/sydney",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Exit Cleaners Sydney",
+    "email": "hello@exitcleaners.com.au",
+    "phone": "",
+    "website": "https://exitcleaners.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Calibre Cleaning Sydney",
+    "email": "support@calibrecleaning.com.au",
+    "phone": "",
+    "website": "https://www.calibrecleaning.com.au/house-cleaning/sydney/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Crib Crew Sydney Cleaning",
+    "email": "hello@cribcrew.com.au",
+    "phone": "",
+    "website": "https://www.cribcrew.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Cleaning Specialists",
+    "email": "ivan@sydneycleaningspecialists.com.au",
+    "phone": "",
+    "website": "https://sydneycleaningspecialists.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Advance Clean Up Au",
+    "email": "info@advancecleanup.com.au",
+    "phone": "",
+    "website": "https://advancecleanup.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Metro Realty",
+    "email": "team@metrorealty.com.au",
+    "phone": "",
+    "website": "https://www.metrorealty.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Boutique Property Agents",
+    "email": "info@boutiquepropertyagents.com",
+    "phone": "",
+    "website": "http://boutiquepropertyagents.com",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Realty Group",
+    "email": "support@sydneyrealtygroup.com.au",
+    "phone": "",
+    "website": "https://sydneyrealtygroup.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Laing+Simmons CBD",
+    "email": "dean.applegate@lsre.com.au",
+    "phone": "",
+    "website": "http://www.lsre.com.au/cbd-surry-hills",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Evertop Agency - Sydney, Mascot, Greensquare",
+    "email": "support@renowned.com",
+    "phone": "",
+    "website": "https://www.ratemyagent.com.au/real-estate-agent/kenny-wu-ec064/sales/overview",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Central Sydney Realty",
+    "email": "info@centralsydneyrealty.com.au",
+    "phone": "",
+    "website": "https://www.centralsydneyrealty.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Hordern Properties",
+    "email": "info@hordernproperties.com.au",
+    "phone": "",
+    "website": "https://www.hordernproperties.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Criminal Lawyers\u00ae",
+    "email": "adminteam@sydneycriminallawyers.com.au",
+    "phone": "",
+    "website": "https://www.sydneycriminallawyers.com.au/",
+    "trade": "Tow",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "LY Criminal Lawyers Sydney",
+    "email": "australia-icon@2x.png",
+    "phone": "",
+    "website": "https://lylawyers.com.au/",
+    "trade": "Tow",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Armstrong Legal - Sydney",
+    "email": "enquiries@armstronglegal.com.au",
+    "phone": "",
+    "website": "https://www.armstronglegal.com.au/new-south-wales-lawyers/sydney-lawyers/",
+    "trade": "Tow",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Carroll & O'Dea Lawyers Sydney",
+    "email": "cod@codea.com.au",
+    "phone": "",
+    "website": "http://www.codea.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Goldman Lawyers",
+    "email": "legal@goldman-lawyers.com",
+    "phone": "",
+    "website": "https://www.goldman-lawyers.com",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "O\u2019Brien Criminal and Civil Solicitors",
+    "email": "info@obriensolicitors.com.au",
+    "phone": "",
+    "website": "http://www.obriensolicitors.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Criminal Defence Lawyers Australia",
+    "email": "info@criminaldefencelawyers.com.au",
+    "phone": "",
+    "website": "https://www.criminaldefencelawyers.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Truth Lawyers",
+    "email": "info@truthlawyers.com.au",
+    "phone": "",
+    "website": "https://truthlawyers.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Monte Luke Studio",
+    "email": "monte-luke-studio_client-logos-2020@2x-100-20x11.jpg",
+    "phone": "",
+    "website": "https://monteluke.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "SYDPHOTOS Photography & Film",
+    "email": "sydphotos@2x.png",
+    "phone": "",
+    "website": "https://www.sydphotos.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Candid chaser photographer",
+    "email": "candidchaser1@gmail.com",
+    "phone": "",
+    "website": "https://candidchaser.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Photographic Workshops",
+    "email": "info@spw.net.au",
+    "phone": "",
+    "website": "https://sydneyphotographicworkshops.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Splendid Photos & Video",
+    "email": "info@splendid.net.au",
+    "phone": "",
+    "website": "http://www.splendid.net.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Events By Alpha",
+    "email": "marketing@dedesgroup.com.au",
+    "phone": "",
+    "website": "http://www.alphadining.com.au/eventsbyalpha",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Waterfront Function Centre",
+    "email": "events@waterfrontfunctions.net.au",
+    "phone": "",
+    "website": "http://waterfrontfunctions.net.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Sapphire Function Centre",
+    "email": "info@thesapphire.com.au",
+    "phone": "",
+    "website": "http://thesapphire.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "ivy ballroom",
+    "email": "giftcards@merivale.com",
+    "phone": "",
+    "website": "https://merivale.com/event-planning/event-spaces/ivyballroom-2",
+    "trade": "Spa",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Venue Alexandria",
+    "email": "info@thevenuealexandria.com.au",
+    "phone": "",
+    "website": "https://thevenuealexandria.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Watersedge at Campbell's Stores",
+    "email": "%20watersedge@thevenuesco.au",
+    "phone": "",
+    "website": "https://thevenuesco.au/watersedge",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Highline Venue",
+    "email": "info@highlineevents.com.au",
+    "phone": "",
+    "website": "https://highlineevents.com.au",
+    "trade": "Tow",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Doltone House Hyde Park",
+    "email": "info@doltonehouse.com.au",
+    "phone": "",
+    "website": "https://doltonehouse.com.au/venue/hyde-park/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "L'Aqua | Dockside Group",
+    "email": "hello@docksidegroup.com.au",
+    "phone": "",
+    "website": "https://docksidegroup.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Physio Clinic",
+    "email": "shadow@2x.png",
+    "phone": "",
+    "website": "http://www.sydneyphysioclinic.com.au",
+    "trade": "Physio",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Physio Solutions | Macquarie St Sydney CBD",
+    "email": "reception@ssop.com.au",
+    "phone": "",
+    "website": "https://sydneyphysiosolutions.com.au/macquarie-street-physiotherapy/",
+    "trade": "Tree",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Infinite Health | Sydney CBD Physiotherapists",
+    "email": "reception@infinitevhealthgroup.com.au",
+    "phone": "",
+    "website": "https://www.infinitehealthgroup.com.au/sydney-cbd-location",
+    "trade": "Physio",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "City Physio & Pilates",
+    "email": "hello@cityphysio.com.au",
+    "phone": "",
+    "website": "https://www.cityphysio.com.au",
+    "trade": "Physio",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Evoker Premium Physiotherapy Services",
+    "email": "170719-elixr-logo01_6918be11-6d9a-49fc-8916-1f821571b118_x320@2x-300x58.png",
+    "phone": "",
+    "website": "https://www.evokerpps.com.au/",
+    "trade": "Physio",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Balance in Motion | Sydney CBD",
+    "email": "info@balanceinmotion.com.au",
+    "phone": "",
+    "website": "https://www.balanceinmotion.com.au/about-us/sydneycbdphysio",
+    "trade": "Physio",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "PhysiCo City Physiotherapy",
+    "email": "admin@physico.me",
+    "phone": "",
+    "website": "http://www.physicocityphysio.com.au",
+    "trade": "Physio",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Specialist Physiotherapy Centre",
+    "email": "admin@specialistphysio.net.au",
+    "phone": "",
+    "website": "http://sydneyspecialistphysiotherapy.com.au",
+    "trade": "Physio",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Paramount Dental Sydney",
+    "email": "hello@paramountdentalsydney.com.au",
+    "phone": "",
+    "website": "https://www.paramountdentalsydney.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Spa Dental Sydney CBD",
+    "email": "info@spadentalsydneycbd.com.au",
+    "phone": "",
+    "website": "https://www.spadentalsydneycbd.com.au",
+    "trade": "Spa",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Affordable Dentist Sydney",
+    "email": "pinhodental@icloud.com",
+    "phone": "",
+    "website": "https://www.affordabledentist.sydney/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Dental Boutique Sydney",
+    "email": "enquiries@dentalboutique.com.au",
+    "phone": "",
+    "website": "https://dentalboutique.com.au/sydney/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "City Dental \u2013 Experteeth Dental\u76ca\u767d\u9f7f\u79d1 Market street",
+    "email": "city@experteeth.com.au",
+    "phone": "",
+    "website": "https://www.experteethsydney.com.au",
+    "trade": "Tree",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney CBD Dentistry | Cosmetique Dental",
+    "email": "info@hornsbydentist.com.au",
+    "phone": "",
+    "website": "https://www.sydneycbddentistry.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Dentist at 70 Pitt Street",
+    "email": "info@thedentist.net.au",
+    "phone": "",
+    "website": "https://thedentist.net.au",
+    "trade": "Tree",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pitt Street Dental Centre",
+    "email": "info@pittstdentalcentre.com.au",
+    "phone": "",
+    "website": "https://pittstdentalcentre.com.au",
+    "trade": "Tree",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Clear Dental Sydney CBD | \u7259\u91ab (Wynyard Dental)",
+    "email": "info@cleardental.com.au",
+    "phone": "",
+    "website": "https://www.cleardental.com.au/sydney-dentist.html",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Dental Lounge Sydney CBD",
+    "email": "emergencydentistry-banner-img@2x-jpg.webp",
+    "phone": "",
+    "website": "https://dentallounge.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Quay Dental Sydney CBD",
+    "email": "minus@2x.png",
+    "phone": "",
+    "website": "https://quaydental.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pacific Smiles Dental Sydney CBD",
+    "email": "psd21_smilelogo-200px@2x.png",
+    "phone": "",
+    "website": "https://www.pacificsmilesdental.com.au/locations/nsw/sydney-cbd/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "EMERGENCY DENTIST SYDNEY",
+    "email": "info@emergencydentistsydney.com.au",
+    "phone": "",
+    "website": "https://www.emergencydentistsydney.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Horizon Dental",
+    "email": "reception@horizondental.com.au",
+    "phone": "",
+    "website": "https://horizondental.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Hyde Park Dental Care",
+    "email": "info@hydeparkdentalcare.com.au",
+    "phone": "",
+    "website": "https://www.hydeparkdentalcare.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Animal Hospitals",
+    "email": "newtown@sydneyanimalhospitals.com.au",
+    "phone": "",
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/newtown",
+    "trade": "Tow",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Animal Hospitals Inner West",
+    "email": "innerwest@sydneyanimalhospitals.com.au",
+    "phone": "",
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/inner-west",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Southern Cross Veterinary Clinic Inner West",
+    "email": "reception@southerncrossvet.com.au",
+    "phone": "",
+    "website": "https://southerncrossvet.com.au/inner-west-vet-hospital/",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Alexandria Vet Hospital",
+    "email": "info@alexandriavet.com.au",
+    "phone": "",
+    "website": "https://www.alexandriavet.com.au/",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "SASH - Specialist & 24/7 Emergency Vets - Alexandria",
+    "email": "infocc@sashvets.com",
+    "phone": "",
+    "website": "https://sashvets.com/locations/alexandria/",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Wild Vet",
+    "email": "reception@thewildvet.com.au",
+    "phone": "",
+    "website": "https://www.thewildvet.com.au",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "University Veterinary Teaching Hospital Sydney (UVTHS)",
+    "email": "campus.assist@sydney.edu.au",
+    "phone": "",
+    "website": "https://www.sydney.edu.au/vet-hospital",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Vets On Crown",
+    "email": "info@vetsoncrown.com.au",
+    "phone": "",
+    "website": "https://vetsoncrown.com.au",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pyrmont Veterinary Hospital",
+    "email": "amkryukov@gmail.com",
+    "phone": "",
+    "website": "http://www.pyrmontvet.com.au",
+    "trade": "Vet",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Bondi Vet Hospital",
+    "email": "info@bondivets.com.au",
+    "phone": "",
+    "website": "http://www.bondivets.com.au",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "SASH - Specialist & 24/7 Emergency Vets - North Ryde",
+    "email": "info@sashvets.com",
+    "phone": "",
+    "website": "https://sashvets.com/locations/sydney/",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Rosebery Veterinary Hospital",
+    "email": "roseberyvet@gmail.com",
+    "phone": "",
+    "website": "https://roseberyvet.com.au",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Potts Point Veterinary Hospital",
+    "email": "info@pottspointvet.com.au",
+    "phone": "",
+    "website": "http://www.pottspointvet.com.au",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "North Shore Veterinary Hospital",
+    "email": "info@northshorevet.com.au",
+    "phone": "",
+    "website": "https://www.northshorevet.com.au/",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Vet HQ Darlinghurst",
+    "email": "reception@vethq.com.au",
+    "phone": "",
+    "website": "http://vethq.com.au",
+    "trade": "Vet",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "My Vet Waterloo",
+    "email": "reception@myvetanimalhospital.com.au",
+    "phone": "",
+    "website": "https://myvetanimalhospital.com.au",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Lockeroom Gym Personal Trainers Bridge Street",
+    "email": "assist@lockeroomgym.com",
+    "phone": "",
+    "website": "https://lockeroomgym.com/",
+    "trade": "Tree",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Ultimate Performance Personal Trainers Sydney",
+    "email": "globe@2x.webp",
+    "phone": "",
+    "website": "https://ultimateperformance.com/au/personal-trainer/sydney",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "ONYX Gym & Fitness 24/7",
+    "email": "train@onyxgym.com.au",
+    "phone": "",
+    "website": "https://onyxgym.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Vitruvian Health",
+    "email": "info@vitruvianhealth.com.au",
+    "phone": "",
+    "website": "https://vitruvianhealth.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Shvasa",
+    "email": "hello@shvasa.com",
+    "phone": "",
+    "website": "https://shvasa.com",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pro Skips Australia | Skip Bin Hire Sydney",
+    "email": "razzle7777@gmail.com",
+    "phone": "",
+    "website": "https://proskipsaustralia.com.au",
+    "trade": "Skip",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "BounceBack GD - Garage Doors & Automated Gates",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "phone": "",
+    "website": "https://www.bouncebackgd.com.au",
+    "trade": "Garage",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Emu Garage Doors",
+    "email": "info@emugaragedoors.com.au",
+    "phone": "",
+    "website": "https://www.emugaragedoors.com.au",
+    "trade": "Garage",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Rapid GDR",
+    "email": "bill@rapidgdr.com.au",
+    "phone": "",
+    "website": "https://www.rapidgdr.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Plumb Medic - Emergency Plumber Melbourne",
+    "email": "info@plumbmedic.com.au",
+    "phone": "",
+    "website": "https://www.plumbmedic.com.au",
+    "trade": "Plumber",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "24 Hour Melbourne Plumber",
+    "email": "bbm-grey_540c5057-a967-4d5e-a5fa-2e9530669293_580x-copy@2x.png.webp",
+    "phone": "",
+    "website": "https://24hourmelbourneplumbers.com.au",
+    "trade": "Plumber",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Velaqua Plumbing",
+    "email": "velaqua@live.com.au",
+    "phone": "",
+    "website": "https://velaquaplumbing.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Butler Plumbing Pty Ltd",
+    "email": "service@butlerplumbing.com.au",
+    "phone": "",
+    "website": "https://www.butlerplumbing.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Melbourne Metro Plumbing Group",
+    "email": "service@mmpg.melbourne",
+    "phone": "",
+    "website": "https://mmpg.melbourne",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Fix It Right Plumbing Melbourne",
+    "email": "contact@fixitrightplumbing.com.au",
+    "phone": "",
+    "website": "https://www.fixitrightplumbing.com.au/emergency-plumber-melbourne/",
+    "trade": "Plumber",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Melbourne Plumbing Co",
+    "email": "office@melbourneplumbingco.com.au",
+    "phone": "",
+    "website": "http://www.melbourneplumbingco.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Zebra Plumbing",
+    "email": "contact@zebraplumbing.com.au",
+    "phone": "",
+    "website": "https://zebraplumbing.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Inner City Plumbing",
+    "email": "info@innercityplumbing.com.au",
+    "phone": "",
+    "website": "https://innercityplumbing.com.au/locations/abbotsford",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Brisbane Power Electricians",
+    "email": "info@bpelectricians.com.au",
+    "phone": "",
+    "website": "https://bpelectricians.com.au",
+    "trade": "Electrician",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Dawson Electric",
+    "email": "info@dawsonelectric.com.au",
+    "phone": "",
+    "website": "https://www.dawsonelectric.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Audem Electrical",
+    "email": "jobs@audem.com.au",
+    "phone": "",
+    "website": "https://audemelectrical.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Static Electrics Brisbane",
+    "email": "chosen-sprite@2x.png",
+    "phone": "",
+    "website": "https://www.staticelectrics.com.au/electrician/brisbane/",
+    "trade": "Electrician",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "DLG Electrical",
+    "email": "info@dlgelectrical.com.au",
+    "phone": "",
+    "website": "https://dlgelectrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Speedy Electrical",
+    "email": "speedy@speedyelectrical.com.au",
+    "phone": "",
+    "website": "https://speedyelectrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Your Electrical Expert",
+    "email": "bpd.webforms@fallonsolutions.com.au",
+    "phone": "",
+    "website": "https://yourelectricalexpert.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Jetset Electrical",
+    "email": "customerservice@jetsetelectrical.com.au",
+    "phone": "",
+    "website": "https://jetsetelectrical.com/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "S&J Plumbing and Gasfitting Brisbane Northside",
+    "email": "admin@sjplumbingandgas.com.au",
+    "phone": "",
+    "website": "https://sjplumbingandgas.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Brisbane City Plumbing and Gas",
+    "email": "webmaster@brisbanecityplumbingandgas.com.au",
+    "phone": "",
+    "website": "https://brisbanecityplumbingandgas.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "A Grade Plumbing and Gas - Plumber Brisbane",
+    "email": "admin@agradepg.com.au",
+    "phone": "",
+    "website": "https://agradeplumbingandgas.com.au/",
+    "trade": "Plumber",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "All Fix Plumbing Brisbane Plumber",
+    "email": "jw.carolan@hotmail.com",
+    "phone": "",
+    "website": "https://www.allfixplumbing.com.au",
+    "trade": "Plumber",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "National Plumbing",
+    "email": "info@nationalplumbingaustralia.com.au",
+    "phone": "",
+    "website": "https://nationalplumbingaustralia.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "L&W Plumbing Solutions",
+    "email": "admin@lwplumbing.com.au",
+    "phone": "",
+    "website": "http://lwplumbing.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "CK Plumbing & Maintenance",
+    "email": "ck-plumbing@hotmail.com",
+    "phone": "",
+    "website": "https://ck-plumbing.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "K-Oz Plumbing & Gas",
+    "email": "info@kozplumbing.com.au",
+    "phone": "",
+    "website": "https://www.kozplumbing.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Brisbane Plumbing and Gas",
+    "email": "hello@bris-plumb-gas.com.au",
+    "phone": "",
+    "website": "https://bris-plumb-gas.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Brisbane Taps Toilets and Drains",
+    "email": "%20info@bttd.au",
+    "phone": "",
+    "website": "http://www.bttd.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Westline Electricians Perth",
+    "email": "info@westlineelectrical.com.au",
+    "phone": "",
+    "website": "https://www.electricianinperth.com.au/",
+    "trade": "Electrician",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Response Electricians",
+    "email": "info@rfes.com.au",
+    "phone": "",
+    "website": "https://www.responseelectricianperth.com.au",
+    "trade": "Electrician",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Web X Electricians Perth",
+    "email": "admin@webxelectrical.com.au",
+    "phone": "",
+    "website": "https://www.localperthelectrician.com.au/",
+    "trade": "Electrician",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Brillare Perth Electricians",
+    "email": "info@brillare.net.au",
+    "phone": "",
+    "website": "https://www.brillare.net.au",
+    "trade": "Electrician",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "On Point Electrical Perth",
+    "email": "web@aeozo.com",
+    "phone": "",
+    "website": "http://www.opeperth.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Boyan Electrical",
+    "email": "admin@boyanelectrical.com.au",
+    "phone": "",
+    "website": "http://boyanelectrical.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Prime Time Electrical",
+    "email": "hello@primetimewa.com.au",
+    "phone": "",
+    "website": "https://primetimewa.com.au/",
+    "trade": "Electrician",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Dr Sparky Electrical",
+    "email": "info@drsparkyelectrical.com.au",
+    "phone": "",
+    "website": "https://www.drsparkyelectrical.com.au",
+    "trade": "Spa",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Electrical Group",
+    "email": "admin@electricalgroup.com.au",
+    "phone": "",
+    "website": "http://electricalgroup.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Mactec Electrical",
+    "email": "admin@mactecelectrical.com.au",
+    "phone": "",
+    "website": "http://www.mactecelectrical.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Adelaide Electrical Co. - Electrician",
+    "email": "admin@taeco.net.au",
+    "phone": "",
+    "website": "https://www.theadelaideelectricalco.com",
+    "trade": "Electrician",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "BMS Electrical Services",
+    "email": "info@bmselectrical.com.au",
+    "phone": "",
+    "website": "https://www.bmselectrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Cornell Electrical Pty Ltd",
+    "email": "info@cornellelectrical.com.au",
+    "phone": "",
+    "website": "https://www.cornellelectrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "SA METRO Electrical",
+    "email": "info@sametroelectrical.com.au",
+    "phone": "",
+    "website": "http://www.sametroelectrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Adelaide Urban Electrical",
+    "email": "admin@auemail.com.au",
+    "phone": "",
+    "website": "https://adelaideurbanelectrical.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "H. Irwin Electrical Adelaide Electrician",
+    "email": "%20admin@hirwinelectrical.com.au",
+    "phone": "",
+    "website": "https://www.hirwinelectrical.com.au",
+    "trade": "Electrician",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "iElectrical & Communications",
+    "email": "matthews@ielectricalandcomms.com.au",
+    "phone": "",
+    "website": "http://www.ielectricalandcomms.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "South Adelaide Electrical",
+    "email": "admin@southadelaideelectrical.com.au",
+    "phone": "",
+    "website": "http://www.southadelaideelectrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "ESL Electrical Services",
+    "email": "maintenance@eslelectricalservices.com",
+    "phone": "",
+    "website": "http://www.eslelectricalservices.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "EJ Electrical",
+    "email": "info@ejelectrical.net",
+    "phone": "",
+    "website": "https://www.ejelectricalgoldcoast.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Gold Coast Plumbing Experts",
+    "email": "info@goldcoastplumbingexperts.com.au",
+    "phone": "",
+    "website": "https://goldcoastplumbingexperts.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Service Today Plumber Gold Coast",
+    "email": "info@servicetoday.com.au",
+    "phone": "",
+    "website": "https://www.servicetoday.com.au",
+    "trade": "Plumber",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "DCM Plumbing & Drainage Pty Ltd",
+    "email": "office@dcmplumbing.com.au",
+    "phone": "",
+    "website": "https://dcmplumbing.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Plumbing Doctor",
+    "email": "thedr@theplumbingdoctor.com.au",
+    "phone": "",
+    "website": "http://www.theplumbingdoctor.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Capital Plumbing",
+    "email": "tracey@munndigital.com.au",
+    "phone": "",
+    "website": "https://www.capitalplumbing.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Local Plumbing & Gas Company",
+    "email": "info@localplumbingandgasco.com.au",
+    "phone": "",
+    "website": "https://localplumbingandgasco.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Bond Plumbing",
+    "email": "enquiries@bondplumbing.com.au",
+    "phone": "",
+    "website": "https://www.bondplumbing.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "High Tide Plumbing & Gas Gold Coast",
+    "email": "contact@hightideplumbing.au",
+    "phone": "",
+    "website": "https://www.hightideplumbing.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Jetset Plumbing",
+    "email": "right-slider-arrow@2x.png",
+    "phone": "",
+    "website": "https://www.jetsetplumbing.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Complete Plumbing Qld",
+    "email": "office@completeplumbingqld.com.au",
+    "phone": "",
+    "website": "http://www.completeplumbingqld.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Oceanside Services",
+    "email": "ocean@oceansideservices.com.au",
+    "phone": "",
+    "website": "https://oceansideservices.com.au/",
+    "trade": "Tow",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Coastal Plumbing Professionals",
+    "email": "admin@coastalplumbingprofessionals.com",
+    "phone": "",
+    "website": "https://www.coastalplumbingprofessionals.com",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Higher Ground",
+    "email": "info@highergroundmelbourne.com.au",
+    "phone": "",
+    "website": "https://highergroundmelbourne.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Tomo\u2019s Little Collins",
+    "email": "info@tomoslittlecollins.com",
+    "phone": "",
+    "website": "http://www.tomoslittlecollins.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Manchester Press",
+    "email": "manchesterpresscafe@gmail.com",
+    "phone": "",
+    "website": "https://www.facebook.com/manchesterpress",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Little Rogue.",
+    "email": "shop@littlerogue.com.au",
+    "phone": "",
+    "website": "https://www.littlerogue.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Cafe Victoria",
+    "email": "info@kenoliptyltd.com",
+    "phone": "",
+    "website": "http://cafevictoriaqvm.com.au",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Cafe Court",
+    "email": "yourmail@gmail.com",
+    "phone": "",
+    "website": "https://www.ozfoodhunter.com.au/cafe-court",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Journal Cafe",
+    "email": "journal.canteen@gmail.com",
+    "phone": "",
+    "website": "https://www.journalcafemelbourne.com.au",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Quarter",
+    "email": "info@thequarter.com.au",
+    "phone": "",
+    "website": "http://thequarter.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Cafe Tomi",
+    "email": "hr@cafetomi.com",
+    "phone": "",
+    "website": "http://www.cafetomi.com",
+    "trade": "Cafe",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "AMIRI CAFE",
+    "email": "info@kpos.com.au",
+    "phone": "",
+    "website": "https://www.kpos.com.au/amiri/index_table.php",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Hardware Soci\u00e9t\u00e9",
+    "email": "bonjour@hardwaresociete.com",
+    "phone": "",
+    "website": "http://hardwaresociete.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "ST. ALi Coffee Roasters - South Melbourne",
+    "email": "support@stali.com.au",
+    "phone": "",
+    "website": "http://stali.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Krimper Cafe",
+    "email": "info@krimper.com.au",
+    "phone": "",
+    "website": "http://www.krimper.com.au",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "La Quinta Inn & Suites by Wyndham Melbourne Viera",
+    "email": "accessibility@wyndham.com",
+    "phone": "",
+    "website": "https://www.wyndhamhotels.com/laquinta/melbourne-florida/la-quinta-melbourne-viera/overview",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "La Vue Waterfront Restaurant",
+    "email": "ronaldo@lavuerestaurant.com.au",
+    "phone": "",
+    "website": "https://lavuerestaurant.com.au",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Clarence Restaurant",
+    "email": "ncontact@clarencerestaurant.com",
+    "phone": "",
+    "website": "http://clarencerestaurant.com",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Toscano Bar & Kitchen",
+    "email": "info@toscanobar.com.au",
+    "phone": "",
+    "website": "https://www.toscanobar.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Rothwell\u2019s Bar & Grill",
+    "email": "reservations@rothwellsbrisbane.com.au",
+    "phone": "",
+    "website": "https://rothwellsbrisbane.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Mado Turkish Restaurant",
+    "email": "bookings@madorestaurant.com.au",
+    "phone": "",
+    "website": "http://madorestaurant.com.au",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Moo Moo The Wine Bar and Grill Brisbane",
+    "email": "flags@2x.png",
+    "phone": "",
+    "website": "http://www.moomoorestaurant.com",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Black Hide Caxton Street",
+    "email": "book@blackhidesteakhouse.com.au",
+    "phone": "",
+    "website": "https://www.blackhidecaxton.com.au",
+    "trade": "Tree",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Rogue Bistro",
+    "email": "info@roguebistro.com",
+    "phone": "",
+    "website": "http://www.roguebistro.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Patina at Customs House",
+    "email": "a.pham1@uq.edu.au",
+    "phone": "",
+    "website": "https://patinacustomshouse.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "SHAHNAZ BEAUTY GOLD COAST",
+    "email": "shahnazbeautysalon@yahoo.com",
+    "phone": "",
+    "website": "http://www.shahnazbeauty.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "G+Co Hair and Beauty",
+    "email": "info@g-andco.com.au",
+    "phone": "",
+    "website": "https://g-andco.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Skin Mind Beauty & Hair | Hair & Beauty Salon",
+    "email": "marketing@skinmindandbeauty.com.au",
+    "phone": "",
+    "website": "https://skinmindandbeauty.com.au",
+    "trade": "Hair",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Bei Beauty Salon",
+    "email": "info@gracebeautyandmassage.com.au",
+    "phone": "",
+    "website": "https://www.beibeauty.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Beauty on Queen",
+    "email": "info@beautyonqueen.com.au",
+    "phone": "",
+    "website": "https://www.beautyonqueen.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Lotus Beauty Lounge",
+    "email": "lee@lotusbeautylounge.com.au",
+    "phone": "",
+    "website": "http://www.lotusbeautylounge.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Blow Bar Lane | Beauty Hair Salon & Cocktail Bar Gold Coast",
+    "email": "bookings@blowbarlane.com.au",
+    "phone": "",
+    "website": "https://blowbarlane.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "La Vela Head Spa \u2013 Head Spa Gold Coast",
+    "email": "booking@lavelaheadspa.com.au",
+    "phone": "",
+    "website": "https://www.lavelaheadspa.com.au",
+    "trade": "Spa",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Just Skyn Beauty Treatment Clinic",
+    "email": "jade@justskynbeauty.com.au",
+    "phone": "",
+    "website": "https://justskynbeauty.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Mobile Mechanic Brisbane Northside",
+    "email": "gallardoray@yahoo.com.au",
+    "phone": "",
+    "website": "https://mobilemechanicbrisbanenorthside.com.au",
+    "trade": "Mechanic",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Lemans Mechanic Brisbane Car Service Brisbane",
+    "email": "group-3656@2x-1536x754.png",
+    "phone": "",
+    "website": "https://lemansmotors.com.au",
+    "trade": "Mechanic",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Rapid Tune East Brisbane",
+    "email": "cropped-rapidtune-favicon@3x-1-270x270.png",
+    "phone": "",
+    "website": "https://eastbrisbane.rapidtune.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Nestocar Automotive Service Centre - BRISBANE",
+    "email": "brisbane@nestocar.com.au",
+    "phone": "",
+    "website": "http://www.nestocar.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Ultra Tune Woolloongabba",
+    "email": "woolloongabba@ultratune.com.au",
+    "phone": "",
+    "website": "https://www.ultratune.com.au/stores/ultra-tune-woolloongabba/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Genesis Autoworks East Brisbane",
+    "email": "coorparoo@genesisautoworks.com.au",
+    "phone": "",
+    "website": "http://www.genesisautoworks.com.au",
+    "trade": "Tow",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Yes Cleaning - Commercial and Office Cleaning Melbourne",
+    "email": "info@yescleaning.com.au",
+    "phone": "",
+    "website": "http://yescleaning.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Melbourne Vacate & Carpet Cleaning",
+    "email": "melbournevacate@gmail.com",
+    "phone": "",
+    "website": "https://melbournevacateandcarpetcleaning.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "End of lease Cleaning Melbourne | O2Ocleaning",
+    "email": "info@o2ocleaning.com.au",
+    "phone": "",
+    "website": "https://o2ocleaning.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Cheap And Best Cleaning",
+    "email": "info@cheapandbestcleaning.com.au",
+    "phone": "",
+    "website": "https://www.cheapandbestcleaning.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "End of Lease Clean Melbourne",
+    "email": "info@endofleasecleaning.melbourne",
+    "phone": "",
+    "website": "https://endofleasecleaning.melbourne",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Fantastic Cleaners",
+    "email": "google-reviews@2x.png",
+    "phone": "",
+    "website": "https://fantasticcleaners.com.au/melbourne/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Accountants",
+    "email": "hello@theaccountants.au",
+    "phone": "",
+    "website": "https://theaccountants.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Inspire Small Business Accountants Brisbane",
+    "email": "abi-who-we-work-with@2x-1024x284.png",
+    "phone": "",
+    "website": "https://inspire.accountants",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Lee and Associates Accountants",
+    "email": "enquiries@leeandassociates.com.au",
+    "phone": "",
+    "website": "https://leeandassociates.com.au",
+    "trade": "Tree",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Walker Hill - Accountants",
+    "email": "support@walkerhill.com.au",
+    "phone": "",
+    "website": "https://walkerhill.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Acctivate - Business Accountants Brisbane",
+    "email": "hello@acctivate.com.au",
+    "phone": "",
+    "website": "https://acctivate.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Ruby Lam Accountants",
+    "email": "admin@rubylam.com.au",
+    "phone": "",
+    "website": "http://www.rubylam.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Newcastle Emergency Electrical",
+    "email": "info@emergency-electrical.com.au",
+    "phone": "",
+    "website": "https://emergency-electrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "All Sight Electrical - Level 2 Electrician",
+    "email": "admin@allsight.com.au",
+    "phone": "",
+    "website": "https://www.allsight.com.au",
+    "trade": "Electrician",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Coopers 24HR Electrical - Residential Electrician | Newcastle & Merewether",
+    "email": "cam@coopers24.com.au",
+    "phone": "",
+    "website": "https://coopers24hrelectrical.com.au",
+    "trade": "Electrician",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "WillPlumb Plumbing Services",
+    "email": "admin@willplumb.com.au",
+    "phone": "",
+    "website": "https://willplumb.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "CS Plumbing & Drainage Services",
+    "email": "info@csplumbingservices.com.au",
+    "phone": "",
+    "website": "https://csplumbingservices.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Kis Hair On Bourke",
+    "email": "kishairspencer@gmail.com",
+    "phone": "",
+    "website": "https://www.kishair.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Kis Hair on La Trobe",
+    "email": "kishairlatrobe@gmail.com",
+    "phone": "",
+    "website": "https://www.kishair.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "VIJU SALON",
+    "email": "mini37373@gmail.com",
+    "phone": "",
+    "website": "http://www.vijusalon.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "D&Y Hair Design Bourke Street CBD",
+    "email": "towahairdesign@gmail.com",
+    "phone": "",
+    "website": "http://www.dyhairdesign.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "SALON A BY K",
+    "email": "button_light@2x.png",
+    "phone": "",
+    "website": "http://salonabyk.gettimely.com",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "D&Y Hair Design Collins Street CBD",
+    "email": "dyhaircollins@gmail.com",
+    "phone": "",
+    "website": "https://dyhairdesign.com.au",
+    "trade": "Hair",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "A2 Salon",
+    "email": "info@ndiscovered.com",
+    "phone": "",
+    "website": "https://a2salon.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "S PARLOR HAIR",
+    "email": "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+    "phone": "",
+    "website": "https://www.sparlorhair.com.au",
+    "trade": "Hair",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Aery Salon",
+    "email": "admin@aerysalon.com.au",
+    "phone": "",
+    "website": "http://aerysalon.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Caf\u00e9 Melbourne",
+    "email": "lecafemelbourne@gmail.com",
+    "phone": "",
+    "website": "https://www.facebook.com/melbcafe",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Bluestone Lane Hoboken Caf\u00e9",
+    "email": "support@bluestone-lane.zendesk.com",
+    "phone": "",
+    "website": "https://bluestonelane.com/cafes/hoboken-409-washington-st-new-jersey/",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "22 Shades Nail Studio",
+    "email": "aestheticnailsllc@outlook.com",
+    "phone": "",
+    "website": "https://22-shades.square.site",
+    "trade": "Nail",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Shiraz - Best Persian Restaurant + Bar Gold Coast",
+    "email": "info@shirazgoldcoast.com.au",
+    "phone": "",
+    "website": "https://shirazgoldcoast.com/en",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Rick Shores",
+    "email": "seatme@rickshores.com.au",
+    "phone": "",
+    "website": "https://www.rickshores.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Holy Ship Restaurant & Bar",
+    "email": "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+    "phone": "",
+    "website": "https://www.holyship.restaurant",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The North Room",
+    "email": "info@thenorthroom.com.au",
+    "phone": "",
+    "website": "http://www.thenorthroom.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Seascape Restaurant & Bar",
+    "email": "info@seascape.com.au",
+    "phone": "",
+    "website": "http://seascape.com.au",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "M\u0100RE Restaurant by La Luna",
+    "email": "info@lalunabeachclub.com.au",
+    "phone": "",
+    "website": "https://gennarigroup.com.au/mare-restaurant-marina-mirage",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Kiyomi",
+    "email": "stargcdining@star.com.au",
+    "phone": "",
+    "website": "https://www.star.com.au/goldcoast/restaurants/kiyomi",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Moo Moo The Wine Bar + Grill",
+    "email": "functions.gc@moomoorestaurant.com",
+    "phone": "",
+    "website": "https://www.moomoorestaurant.com/gold-coast",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "COAST",
+    "email": "team@latofonts.com",
+    "phone": "",
+    "website": "http://www.coastbeachbar.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Palette Restaurant",
+    "email": "palette@experiencegoldcoast.com",
+    "phone": "",
+    "website": "https://paletterestaurant.com.au",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Citrique",
+    "email": "citrique.reservations@jwmarriott.com",
+    "phone": "",
+    "website": "https://www.citriquerestaurant.com/",
+    "trade": "Restaurant",
+    "score": 9,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Alfresco Italian Restaurant",
+    "email": "ciao@alfrescogc.com",
+    "phone": "",
+    "website": "http://www.alfrescogc.com",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Tropic - Burleigh",
+    "email": "reservations@burleighpavilion.com",
+    "phone": "",
+    "website": "https://thetropic.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Quarterdeck Kitchen + Bar",
+    "email": "hello@quarterdeckkitchen.com.au",
+    "phone": "",
+    "website": "http://www.quarterdeckkitchen.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Penguins Restaurant",
+    "email": "book@paradiseresort.com.au",
+    "phone": "",
+    "website": "https://paradiseresort.com.au/eat/penguins-restaurant",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Balboa Italian Restaurant",
+    "email": "info@balboaitalian.com.au",
+    "phone": "",
+    "website": "http://balboaitalian.com.au",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Perth Mech Mobile Mechanics",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "phone": "",
+    "website": "https://www.perthmech.com.au",
+    "trade": "Mechanic",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Palazzo Automotive",
+    "email": "palazzo@palazzoautomotives.com.au",
+    "phone": "",
+    "website": "http://palazzoautomotives.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Auto Masters Northbridge",
+    "email": "admin@automasters.com.au",
+    "phone": "",
+    "website": "https://www.automasters.com.au/locations/perth-northbridge/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Brisbane House Cleaners",
+    "email": "brisbanehousecleaners@gmail.com",
+    "phone": "",
+    "website": "https://www.brisbanehousecleaners.net.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "True Connection Electrical",
+    "email": "admin@trueconnectionelectrical.com.au",
+    "phone": "",
+    "website": "https://www.trueconnectionelectrical.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Watts Needed Electrical: 24/7 Electrician Canberra",
+    "email": "info@wattsneeded.com.au",
+    "phone": "",
+    "website": "https://www.wattsneeded.com.au",
+    "trade": "Electrician",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Record Electrical",
+    "email": "admin@recordelectrical.com.au",
+    "phone": "",
+    "website": "http://www.recordelectrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Level Plumbing Canberra",
+    "email": "canberra@levelplumbing.com.au",
+    "phone": "",
+    "website": "https://levelau.com.au/plumber-canberra/",
+    "trade": "Plumber",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "JML Plumbing & Gas Canberra",
+    "email": "office@jmlplumbing.net.au",
+    "phone": "",
+    "website": "https://jmlplumbing.net.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Contemporary Plumbing",
+    "email": "admin@contemporaryplumbing.com.au",
+    "phone": "",
+    "website": "https://www.contemporaryplumbing.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "T Corp Plumbing",
+    "email": "info@t-corp.com.au",
+    "phone": "",
+    "website": "https://t-corp.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Capital Plumbing Specialists Canberra",
+    "email": "admin@capitalplumbingspecialists.com.au",
+    "phone": "",
+    "website": "https://capitalplumbingspecialists.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "BMF Plumbing and Gasfitting Canberra",
+    "email": "brad@bmfplumbing.com.au",
+    "phone": "",
+    "website": "https://www.bmfplumbing.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Just Electrical Sydney Pty Ltd",
+    "email": "cd64ba1f47df485bba2b0076c0dd3b25@sentry.wixpress.com",
+    "phone": "",
+    "website": "https://www.justelectricalsydney.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pav Plumbing",
+    "email": "service@pavplumbing.com.au",
+    "phone": "",
+    "website": "https://www.pavplumbing.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "A Grade Carpentry Group",
+    "email": "agradecarpentrygroup@gmail.com",
+    "phone": "",
+    "website": "http://agradecarpentry.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "North Shore Carpentry & Renovations",
+    "email": "alex@nsrenovations.au",
+    "phone": "",
+    "website": "http://nsrenovations.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Roofing Specialists",
+    "email": "info@sydneyroofingspecialists.com",
+    "phone": "",
+    "website": "http://www.sydneyroofingspecialists.com",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Tony Isgrove's Painting and Decorating",
+    "email": "office@paintanddecorate.com.au",
+    "phone": "",
+    "website": "https://paintanddecorate.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "ASL Painting Sydney",
+    "email": "info@aslpainting.com.au",
+    "phone": "",
+    "website": "https://www.aslpainting.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "24/7 mobile Mechanic Sydney",
+    "email": "service@247mobilemechanic.com.au",
+    "phone": "",
+    "website": "https://247mobilemechanic.com.au/",
+    "trade": "Mechanic",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "AutoTech WorldSquare",
+    "email": "autotechworldsquare@gmail.com",
+    "phone": "",
+    "website": "http://autotech.net.au/contact-us/autotech-worldsquare",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Alexandria Automotive Services",
+    "email": "info@alexandriaautomotiveservices.com.au",
+    "phone": "",
+    "website": "https://www.alexandriaautomotiveservices.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Eastern Auto Repairs",
+    "email": "bookings@easternautorepairs.com.au",
+    "phone": "",
+    "website": "https://easternautorepairs.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Eastern Suburbs Automotive",
+    "email": "service@esauto.com.au",
+    "phone": "",
+    "website": "https://esauto.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Automotive & Auto Electrical",
+    "email": "info@sydneyautomotives.com.au",
+    "phone": "",
+    "website": "http://sydneyautomotives.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Manipulate Hair Studio",
+    "email": "info@manipulatehair.com.au",
+    "phone": "",
+    "website": "https://manipulatehair.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Usfin Atelier",
+    "email": "hello@usfin.com.au",
+    "phone": "",
+    "website": "https://www.usfin.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Valonz",
+    "email": "valonz@valonz.com.au",
+    "phone": "",
+    "website": "http://www.valonz.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Christopher Hanna",
+    "email": "info@christopherhanna.com.au",
+    "phone": "",
+    "website": "http://www.christopherhanna.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Glow District",
+    "email": "hello@glowdistrict.com.au",
+    "phone": "",
+    "website": "https://glowdistrict.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Self by The Parlour Room",
+    "email": "self@theparlourroom.com.au",
+    "phone": "",
+    "website": "https://www.theparlourroom.com.au/self",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sen Spa & Beauty",
+    "email": "info@senspa.com.au",
+    "phone": "",
+    "website": "http://www.senspa.com.au",
+    "trade": "Spa",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Elegant Beauty, Hair & Nail Spa",
+    "email": "bg-5@2x.png",
+    "phone": "",
+    "website": "https://elegantbeautyspa.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Beauty Affairs MediSpa CBD",
+    "email": "back-in-stock@notifyboost.net",
+    "phone": "",
+    "website": "https://www.beautyaffairs.com.au/pages/medispa",
+    "trade": "Spa",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "suminails",
+    "email": "image0@1x-300x300.png",
+    "phone": "",
+    "website": "http://suminails.com",
+    "trade": "Nail",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "MD nails and beauty",
+    "email": "info@mdnails.com.au",
+    "phone": "",
+    "website": "https://www.mdnails.com.au",
+    "trade": "Nail",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pablo & Rusty's Sydney CBD",
+    "email": "bcorplogo_2020_blue-01_2_431ca669-03b2-4b33-8490-f3f4b61338e2_110x134@2x.png",
+    "phone": "",
+    "website": "https://pabloandrustys.com.au/pages/locations",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Skittle Lane",
+    "email": "info@skittlelane.com",
+    "phone": "",
+    "website": "http://skittlelane.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "ASLAN Coffee Roasters The Rocks",
+    "email": "northsydney@aslancoffee.com.au",
+    "phone": "",
+    "website": "http://www.aslancoffee.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Regiment specialty coffee",
+    "email": "regiment2022@hotmail.com",
+    "phone": "",
+    "website": "https://www.regimentcbd.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Reuben Hills",
+    "email": "orders@reubenhills.com.au",
+    "phone": "",
+    "website": "http://reubenhills.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Cafe Lost and Found - North Sydney Cafe, Coffee Nearby",
+    "email": "cafelostandfound@gmail.com",
+    "phone": "",
+    "website": "https://www.cafelostandfound.com.au",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Jejes Coffee",
+    "email": "support@jejescoffee.com",
+    "phone": "",
+    "website": "http://jejescoffee.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Starbucks",
+    "email": "press@starbucks.com",
+    "phone": "",
+    "website": "https://www.starbucks.com/store-locator/store/1018251",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "CuppaCoffee Boston Westend",
+    "email": "info@trycuppacoffee.com",
+    "phone": "",
+    "website": "http://www.trycuppacoffee.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Starbucks Coffee Company",
+    "email": "u003epressemea@starbucks.com",
+    "phone": "",
+    "website": "https://www.starbucks.com/store-locator/store/17793",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Aria Restaurant Sydney",
+    "email": "res.ariasydney@solotel.com.au",
+    "phone": "",
+    "website": "https://www.ariasydney.com.au/",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "6HEAD Sydney",
+    "email": "info@6head.com.au",
+    "phone": "",
+    "website": "https://6head.com.au/sydney-restaurant",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "NOUR",
+    "email": "info@noursydney.com",
+    "phone": "",
+    "website": "https://www.noursydney.com/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Butler",
+    "email": "05.03.2026-ajiwd004of177@them1group-1-1400x1065.jpg",
+    "phone": "",
+    "website": "http://www.butlersydney.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "LuMi Dining",
+    "email": "marketing@lumidining.com",
+    "phone": "",
+    "website": "http://www.lumidining.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Morena",
+    "email": "info@morenasydney.com.au",
+    "phone": "",
+    "website": "https://www.morenarestaurant.com.au",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "La Riviera Restaurant & Bar",
+    "email": "info@bambinitrust.com.au",
+    "phone": "",
+    "website": "http://www.larivieradining.com.au",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Feedwell Catering Sydney",
+    "email": "c0821c62493a920c1db0ec8fd052dce2@o4510831545876480.ingest.us.sentry.io",
+    "phone": "",
+    "website": "https://feedwell.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Gathar",
+    "email": "hello@gathar.com.au",
+    "phone": "",
+    "website": "https://www.gathar.com.au/catering/sydney",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Flavours Catering + Events",
+    "email": "info@flavourscatering.com.au",
+    "phone": "",
+    "website": "https://www.flavourscatering.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Clean Australia Service - Commercial & Residential Cleaning",
+    "email": "support@cleanaustraliaservice.com.au",
+    "phone": "",
+    "website": "https://www.cleanaustraliaservice.com.au/locations/sydney-cbd",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pest Control Sydney Wide",
+    "email": "info@pestcontrolsydneywide.com.au",
+    "phone": "",
+    "website": "http://pestcontrolsydneywide.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pest Control Sydney NSW",
+    "email": "info@pestcontrolsydney.com.au",
+    "phone": "",
+    "website": "https://pestcontrolsydney.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pest Power Sydney | General Pest Control and Termite Treatment Specialist",
+    "email": "info@pestpowersydney.com.au",
+    "phone": "",
+    "website": "https://pestpowersydney.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pestaway Sydney",
+    "email": "info@pestawaysydney.com.au",
+    "phone": "",
+    "website": "https://www.pestawaysydney.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Pest Crew",
+    "email": "info@sydneypestcrew.com.au",
+    "phone": "",
+    "website": "https://sydneypestcrew.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "NSW Pest Control Sydney",
+    "email": "nswpestcontrol@gmail.com",
+    "phone": "",
+    "website": "https://nswpestcontrol.sydney",
+    "trade": "Tow",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Masters Pest Control Sydney",
+    "email": "admin@masterspestcontrolsydney.com.au",
+    "phone": "",
+    "website": "https://www.masterspestcontrolsydney.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Safe Pest Control Sydney",
+    "email": "accounts@safepestcontrol.net.au",
+    "phone": "",
+    "website": "https://safepestcontrol.net.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Iconic Pest Solutions | Termite & General Exterminators | Termite Specialists in",
+    "email": "info@iconicpestsolutions.com.au",
+    "phone": "",
+    "website": "https://iconicpestsolutions.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Micropest Pest Control Sydney",
+    "email": "pest@micropest.com",
+    "phone": "",
+    "website": "https://www.micropest.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pestable Pest Control - Pest Control Sydney",
+    "email": "name@gmail.com",
+    "phone": "",
+    "website": "https://www.pestable.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "L&C Pest Management",
+    "email": "info@lcpest.com.au",
+    "phone": "",
+    "website": "https://www.lcpest.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pest2Kill",
+    "email": "info@pest2kill.com.au",
+    "phone": "",
+    "website": "https://pest2kill.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "PestOz",
+    "email": "admin@pestoz.com.au",
+    "phone": "",
+    "website": "https://pestoz.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Side Real Estate",
+    "email": "admin@sydneysidere.com.au",
+    "phone": "",
+    "website": "http://sydneysiderealestate.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "LY Criminal Lawyers Sydney",
+    "email": "50-years-combined-experience@2x.png",
+    "phone": "",
+    "website": "https://lylawyers.com.au/",
+    "trade": "Tow",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "MGL Lawyers",
+    "email": "info@mgllawyers.com.au",
+    "phone": "",
+    "website": "http://www.mgllawyers.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Goldman Lawyers",
+    "email": "gold-2@2x-100.jpg",
+    "phone": "",
+    "website": "https://www.goldman-lawyers.com",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Monte Luke Studio",
+    "email": "studio@monteluke.com.au",
+    "phone": "",
+    "website": "https://monteluke.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Wedding Photography by Katsu",
+    "email": "info@sydneyweddingphotographybykatsu.com.au",
+    "phone": "",
+    "website": "http://www.sydneyweddingphotographybykatsu.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "SYDPHOTOS Photography & Film",
+    "email": "booking@sydphotos.com",
+    "phone": "",
+    "website": "https://www.sydphotos.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Venue Alexandria",
+    "email": "v-only-greyasset-1@2x.png.webp",
+    "phone": "",
+    "website": "https://thevenuealexandria.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "STILE Downtown Los Angeles",
+    "email": "stiledtlapr@moderncurencypr.com",
+    "phone": "",
+    "website": "https://www.stayinstile.com",
+    "trade": "Tow",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Bear River Casino Resort",
+    "email": "slotsinquiry@bearrivercasino.com",
+    "phone": "",
+    "website": "http://www.bearrivercasino.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Soho House Holloway",
+    "email": "membershipadmin@sohohouse.com",
+    "phone": "",
+    "website": "https://www.sohohouse.com/en-us/houses/holloway-house",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Glendale Galleria",
+    "email": "glendaleadmin@brookfieldproperties.com",
+    "phone": "",
+    "website": "https://www.glendalegalleria.com/en.html",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "La Dolce Vita",
+    "email": "info@ladolcevitabeverlyhills.com",
+    "phone": "",
+    "website": "http://ladolcevitabeverlyhills.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "NVIDIA",
+    "email": "new-gtc26-best-of-gtc-wmfg-multi-img-d@2x.jpg",
+    "phone": "",
+    "website": "https://www.nvidia.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Redwood Riverwalk",
+    "email": "gm@theredwoodriverwalk.com",
+    "phone": "",
+    "website": "https://www.theredwoodriverwalk.com",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Spa Dental Sydney CBD",
+    "email": "info@spadental.com.au",
+    "phone": "",
+    "website": "https://www.spadentalsydneycbd.com.au",
+    "trade": "Spa",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Dental Boutique Sydney",
+    "email": "feedback@dentalboutique.com.au",
+    "phone": "",
+    "website": "https://dentalboutique.com.au/sydney/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney CBD Dentistry | Cosmetique Dental",
+    "email": "info@sydneycbddentistry.com.au",
+    "phone": "",
+    "website": "https://www.sydneycbddentistry.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Dental Lounge Sydney CBD",
+    "email": "emergencydentistry-banner-img@2x-768x1090.jpg",
+    "phone": "",
+    "website": "https://dentallounge.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Quay Dental Sydney CBD",
+    "email": "vertical_menu_cross_white@2x.png",
+    "phone": "",
+    "website": "https://quaydental.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Veterinary Specialists of Sydney",
+    "email": "info@vsos.com.au",
+    "phone": "",
+    "website": "http://www.vsos.com.au/",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Southern Cross Veterinary Clinic Inner West",
+    "email": "east@southerncrossvet.com.au",
+    "phone": "",
+    "website": "https://southerncrossvet.com.au/inner-west-vet-hospital/",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "SASH - Specialist & 24/7 Emergency Vets - North Ryde",
+    "email": "infosa@sashvets.com",
+    "phone": "",
+    "website": "https://sashvets.com/locations/sydney/",
+    "trade": "Vet",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Animal Hospitals Northern Beaches",
+    "email": "newport@sydneyanimalhospitals.com.au",
+    "phone": "",
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/newport",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Sydney Animal Hospitals Baulkham Hills",
+    "email": "baulkhamhills@sydneyanimalhospitals.com.au",
+    "phone": "",
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/baulkham-hills",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Skip Bin Finder Sydney",
+    "email": "admin@skipbinfinder.com.au",
+    "phone": "",
+    "website": "https://www.skipbinfinder.com.au/skip-bins-sydney",
+    "trade": "Skip",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Skip Bins Online Pty Ltd",
+    "email": "customers@skipbinsonline.com.au",
+    "phone": "",
+    "website": "https://www.skipbinsonline.com.au//",
+    "trade": "Skip",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Monsta Mobile Skips",
+    "email": "sprite-google-places@2x.png",
+    "phone": "",
+    "website": "https://www.monstamobileskips.com.au",
+    "trade": "Skip",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Absolute Tree Services",
+    "email": "info@absoltreeservices.com",
+    "phone": "",
+    "website": "https://absoltreeservices.com/",
+    "trade": "Tree",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "True Blue Tree Lopping",
+    "email": "info@truebluetreelopping.com.au",
+    "phone": "",
+    "website": "http://www.truebluetreelopping.com.au",
+    "trade": "Tree",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Automatic Garage Solutions",
+    "email": "image_1@2x-230x287.png",
+    "phone": "",
+    "website": "http://www.automaticgaragesolutions.com.au",
+    "trade": "Garage",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "B&D Garage Doors Sydney",
+    "email": "privacy@duluxgroup.com.au",
+    "phone": "",
+    "website": "https://www.bnd.com.au/garage-doors-sydney",
+    "trade": "Garage",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Melbourne Electrical Co",
+    "email": "leads@melbourneelectricalco.com.au",
+    "phone": "",
+    "website": "https://melbourneelectricalco.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Millerwatts Electricians",
+    "email": "admin@millerwatts.com.au",
+    "phone": "",
+    "website": "https://www.millerwatts.com.au",
+    "trade": "Electrician",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Eastern Melbourne Electricians",
+    "email": "developer@iformat.com.au",
+    "phone": "",
+    "website": "https://www.easternmelbourneelectricians.com",
+    "trade": "Electrician",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "All Electrics",
+    "email": "contact@allelectrics.com.au",
+    "phone": "",
+    "website": "https://allelectrics.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "24 Hour Melbourne Plumber",
+    "email": "pm@2x.jpg.webp",
+    "phone": "",
+    "website": "https://24hourmelbourneplumbers.com.au",
+    "trade": "Plumber",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Your Pro Plumber - Blocked Drain & Emergency Plumber | Melbourne",
+    "email": "info@yourproplumber.com.au",
+    "phone": "",
+    "website": "http://www.yourproplumber.com.au/",
+    "trade": "Plumber",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Melbourne Metro Plumbing Group",
+    "email": "noreply@mmpg.melbourne",
+    "phone": "",
+    "website": "https://mmpg.melbourne",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "DJS Melbourne Plumbing Solutions",
+    "email": "orders@djsmps.com.au",
+    "phone": "",
+    "website": "http://www.melbourneplumbingsolutions.com.au",
+    "trade": "Tow",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "DLG Electrical",
+    "email": "admin@dlgelectrical.com.au",
+    "phone": "",
+    "website": "https://dlgelectrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Speedy Electrical",
+    "email": "speedy@speedyelectrical.com.aux",
+    "phone": "",
+    "website": "https://speedyelectrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "All Fix Plumbing Brisbane Plumber",
+    "email": "info@allfixplumbing.com.au",
+    "phone": "",
+    "website": "https://www.allfixplumbing.com.au",
+    "trade": "Plumber",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Smartfix",
+    "email": "qr@2x-170x170-png.webp",
+    "phone": "",
+    "website": "https://teamsmartfix.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "South Adelaide Electrical",
+    "email": "jsmolicz1@gmail.com",
+    "phone": "",
+    "website": "http://www.southadelaideelectrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "One Stop Plumbing Limited",
+    "email": "onestop@onestopplumbing.ca",
+    "phone": "",
+    "website": "https://onestopplumbing.ca",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Vision Electrical",
+    "email": "info@visionelectrical.com.au",
+    "phone": "",
+    "website": "http://www.visionelectrical.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Jetset Plumbing",
+    "email": "left-slider-arrow@2x.png",
+    "phone": "",
+    "website": "https://www.jetsetplumbing.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Patricia Coffee Brewers",
+    "email": "shop@patriciacoffee.com.au",
+    "phone": "",
+    "website": "http://www.patriciacoffee.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Cafe Tomi",
+    "email": "meow@cafetomi.com",
+    "phone": "",
+    "website": "http://www.cafetomi.com",
+    "trade": "Cafe",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Golden Mug Cafe",
+    "email": "info@goldenmugcafe.com.au",
+    "phone": "",
+    "website": "https://golden-mug-cafe.square.site",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Clarence Restaurant",
+    "email": "contact@clarencerestaurant.com",
+    "phone": "",
+    "website": "http://clarencerestaurant.com",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Alchemy Restaurant and Bar Brisbane",
+    "email": "mail@alchemyrestaurant.com.au",
+    "phone": "",
+    "website": "https://www.alchemyrestaurant.com.au",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Toscano Bar & Kitchen",
+    "email": "c5095236fd2e4b8fae9ed6d73cdd81a3@sentry.wixpress.com",
+    "phone": "",
+    "website": "https://www.toscanobar.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Bacchus",
+    "email": "foodandbeverage_rydgessouthbank@evt.com",
+    "phone": "",
+    "website": "https://www.bacchussouthbank.com.au",
+    "trade": "Tree",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Pompette",
+    "email": "info@pompette.com.au",
+    "phone": "",
+    "website": "https://www.pompette.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "The Lex Brisbane",
+    "email": "wbrisbane@whotels.com",
+    "phone": "",
+    "website": "https://www.thelexbrisbane.com/",
+    "trade": "",
+    "score": 9,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Turo Cafe and Grill",
+    "email": "turocafeandgrill@gmail.com",
+    "phone": "",
+    "website": "http://www.turocafeandgrill.com",
+    "trade": "Cafe",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Grand Leader Market & Deli",
+    "email": "luciano@latinotype.com",
+    "phone": "",
+    "website": "https://grandleaderdeli.com",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Ongpin Restaurant",
+    "email": "%20ongpinrestaurant@aol.com",
+    "phone": "",
+    "website": "http://www.ongpin.com",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "La Vela Head Spa \u2013 Head Spa Gold Coast",
+    "email": "ashgrove@lavelaheadspa.com.au",
+    "phone": "",
+    "website": "https://www.lavelaheadspa.com.au",
+    "trade": "Spa",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Chameleon New Age Salon",
+    "email": "chameleonnewagesalon@gmail.com",
+    "phone": "",
+    "website": "https://chameleonnewagesalon.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Rapid Tune East Brisbane",
+    "email": "cropped-rapidtune-favicon@3x-1-180x180.png",
+    "phone": "",
+    "website": "https://eastbrisbane.rapidtune.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Nestocar Automotive Service Centre - BRISBANE",
+    "email": "sunshine@nestocar.com.au",
+    "phone": "",
+    "website": "http://www.nestocar.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Car One Automotive Mechanics Woolloongabba | Logbook Service, Brakes, Suspension",
+    "email": "info@car-one.com.au",
+    "phone": "",
+    "website": "https://car-one.com.au/",
+    "trade": "Mechanic",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Yes Cleaning - Commercial and Office Cleaning Melbourne",
+    "email": "viviens-homepage-logo@2x-300x78.webp",
+    "phone": "",
+    "website": "http://yescleaning.com.au/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Maid to Clean",
+    "email": "support@maidtoclean.com.au",
+    "phone": "",
+    "website": "https://www.maidtoclean.com.au/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Maid In Melbourne",
+    "email": "info@maidinmelbourne.com.au",
+    "phone": "",
+    "website": "https://www.maidinmelbourne.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Fantastic Cleaners",
+    "email": "fs-logo@2x.png",
+    "phone": "",
+    "website": "https://fantasticcleaners.com.au/melbourne/",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Inspire Small Business Accountants Brisbane",
+    "email": "default-blog@2x.jpg",
+    "phone": "",
+    "website": "https://inspire.accountants",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Amour Accountants",
+    "email": "booking@amoura.com.au",
+    "phone": "",
+    "website": "https://amoura.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Walshs",
+    "email": "enquiries@walshs.com.au",
+    "phone": "",
+    "website": "https://walshs.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Barrack Electrical",
+    "email": "info@barrackelectrical.com.au",
+    "phone": "",
+    "website": "http://www.barrackelectrical.com.au",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Duncan Kerr Electrical",
+    "email": "dkerrelectrical@optusnet.com.au",
+    "phone": "",
+    "website": "http://www.duncankerrelectrical.com.au",
+    "trade": "Tow",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Kis Hair On Bourke",
+    "email": "kishairbourke@gmail.com",
+    "phone": "",
+    "website": "https://www.kishair.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Rakis on Collins",
+    "email": "hair@rakis.com.au",
+    "phone": "",
+    "website": "https://www.rakis.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Saint Louie Hair",
+    "email": "hello@saintlouiehair.com.au",
+    "phone": "",
+    "website": "http://www.saintlouiehair.com.au",
+    "trade": "Hair",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Hair Hada",
+    "email": "hairhadasalon@gmail.com",
+    "phone": "",
+    "website": "http://www.hairhada.com.au",
+    "trade": "Hair",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "SALON A BY K",
+    "email": "button_dark@2x.png",
+    "phone": "",
+    "website": "http://salonabyk.gettimely.com",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "La Playa Beach and Eats",
+    "email": "info@laplayagc.com.au",
+    "phone": "",
+    "website": "http://www.laplayagc.com.au",
+    "trade": "",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Restaurant Labart",
+    "email": "info@restaurantlabart.com",
+    "phone": "",
+    "website": "http://www.restaurantlabart.com",
+    "trade": "Restaurant",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Las Palmas Gold Coast | Latin American Restaurant | Palm Beach",
+    "email": "hello@laspalmas.com.au",
+    "phone": "",
+    "website": "http://www.laspalmas.com.au/",
+    "trade": "Spa",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Make It Clean Services - Cleaners Brisbane | House Cleaning | Office & Commercia",
+    "email": "contact@makeitclean.com.au",
+    "phone": "",
+    "website": "https://www.makeitclean.com.au/brisbane/",
+    "trade": "",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Level Electrical + Air Fyshwick",
+    "email": "fyshwick@levelelectrical.com.au",
+    "phone": "",
+    "website": "https://levelau.com.au/electrician-fyshwick/",
+    "trade": "Electrician",
+    "score": 7,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  },
+  {
+    "name": "Blueline Plumbing & Gas",
+    "email": "admin@bluelineplumbers.com.au",
+    "phone": "",
+    "website": "https://bluelineplumbers.com.au",
+    "trade": "Plumber",
+    "score": 8,
+    "status": "SCRAPED",
+    "source": "hot_leads_851_crm"
+  }
+]

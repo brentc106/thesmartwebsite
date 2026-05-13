@@ -1,0 +1,6348 @@
+[
+  {
+    "website": "https://www.towtrucksydney.com",
+    "name": "Tow Truck Sydney - Cheap Towing Sydney & Emergency Towing",
+    "email": "info@towtrucksydney.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.fastsydneytowing.com.au/",
+    "name": "Fast Sydney Towing",
+    "email": "fastsydneytowing@gmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.supertowing.com.au",
+    "name": "Super Towing Greenacre | Tow Truck Service",
+    "email": "info@supertowing.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.retrievertowingsydney.com",
+    "name": "Retriever Towing Sydney",
+    "email": "info@retrievertowing.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.roadsiderecovery.com.au",
+    "name": "Roadside Recovery Towing",
+    "email": "admin@roadsiderecovery.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "http://www.treelopperssydney.com.au",
+    "name": "Tree Loppers Sydney-TLS",
+    "email": "jack@treelopperssydney.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://sydneytreecompany.com.au",
+    "name": "Sydney Tree Company",
+    "email": "sales@sydneytreecompany.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://aatreeservices.net.au",
+    "name": "AA Tree Services Sydney",
+    "email": "info@aatreeservices.net.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://plateautrees.com.au/",
+    "name": "Plateau Trees | Tree Removal Sydney",
+    "email": "info@plateautrees.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://treesdownunder.com.au",
+    "name": "Tree Removal Sydney - Trees Down Under",
+    "email": "info@treesdownunder.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "http://4seasonstreecare.au",
+    "name": "4 Seasons Tree Care",
+    "email": "f4seasonstrees@outlook.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "http://www.branchouttreespecialists.com.au",
+    "name": "Branch Out Tree Specialists",
+    "email": "info@branchouttreespecialists.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "http://www.treecutting.com.au",
+    "name": "The Tree Cutting Company",
+    "email": "info@treecutting.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://absoltreeservices.com/",
+    "name": "Absolute Tree Services",
+    "email": "fkosgei@absoltrees.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://www.skipbinfinder.com.au/skip-bins-sydney",
+    "name": "Skip Bin Finder Sydney",
+    "email": "admin@skipbinfinder.com.auhere",
+    "score": "7",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://www.freddyskipbins.com.au",
+    "name": "Freddy's Skip Bin Hire",
+    "email": "info@freddyskipbins.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.7skipbins.com.au/",
+    "name": "7 Skip Bins Sydney",
+    "email": "info@7skipbins.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://www.northernbeachesskipbins.com.au",
+    "name": "Northern Beaches Skip Bins",
+    "email": "sales@nbsb.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://proskipsaustralia.com.au",
+    "name": "Pro Skips Australia | Skip Bin Hire Sydney",
+    "email": "info@proskipsaustralia.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://vibegaragedoors.com.au",
+    "name": "Vibe Garage Door Repair",
+    "email": "info@vibegaragedoors.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://sydneygaragedoorrepair.com.au",
+    "name": "Garage Door Repair for Sydney",
+    "email": "info@sydneygaragedoorrepair.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "http://www.automaticgaragesolutions.com.au",
+    "name": "Automatic Garage Solutions",
+    "email": "info@automaticgaragesolutions.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "http://www.abdgaragedoors.com.au",
+    "name": "ABD Garage Doors",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://goodtogogarages.com.au",
+    "name": "Good To Go Garage Doors",
+    "email": "info@goodtogogarages.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://www.bouncebackgd.com.au",
+    "name": "BounceBack GD - Garage Doors & Automated Gates",
+    "email": "bouncebackgd@gmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://ptdoors.com.au/",
+    "name": "PT Garage Doors and Gates",
+    "email": "info@ptdoors.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://cronullagaragedoorrepairs.com",
+    "name": "Cronulla Garage Door Repairs",
+    "email": "troy@cronullagdr.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://kangaroogd.com.au",
+    "name": "KangarooGD - Garage Doors, Roller Shutters & Automated Gates",
+    "email": "admin@kangaroogd.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "http://www.garagedoorsautomations.com.au/",
+    "name": "Garage Door Sales & Repairs P/L",
+    "email": "garagedoorgliderol@bigpond.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "http://www.sydneygaragedoors.com.au",
+    "name": "Sydney Garage Doors",
+    "email": "info@sydneygaragedoors.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://www.hdlevel2electriciansydney.com.au",
+    "name": "High Demand Electrical Level 2 Sydney",
+    "email": "chris@highdemandelectrical.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://www.justelectricalsydney.com.au",
+    "name": "Just Electrical Sydney Pty Ltd",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.electriciantotherescue.com.au",
+    "name": "Electrician To The Rescue",
+    "email": "jobs@electriciantotherescue.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "http://www.360sydneyelectrical.com.au",
+    "name": "360 Degrees Sydney Electrical",
+    "email": "contact@360sydneyelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.helloelectrical.com.au/",
+    "name": "Hello Electrical | Electrician Sydney",
+    "email": "info@helloelectrical.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://scottelectrics.com.au",
+    "name": "Scott Electrics",
+    "email": "info@scottelectrics.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://proximityplumbing.com.au/",
+    "name": "Proximity Plumbing",
+    "email": "admin@proximityplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.cbdplumbers.com.au/%20%20%20%20%20%20http://www.kitchenpumpboxsydney.com.au",
+    "name": "Sydney CBD Plumbing Pty Ltd",
+    "email": "service@cbdplumbers.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "http://www.sydneyroofingspecialists.com",
+    "name": "Sydney Roofing Specialists",
+    "email": "info@sydneyroofingspecialists.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://roofernearme.com.au",
+    "name": "Roofer Near Me - Roof Repair Sydney",
+    "email": "contact@roofernearme.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Roofer"
+  },
+  {
+    "website": "https://affordablewesternsydneyroofing.com.au",
+    "name": "Affordable Western Sydney Roofing",
+    "email": "info@affordablewesternsydneyroofing.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://auscityroofing.com.au",
+    "name": "Auscity Roofing",
+    "email": "info@auscityroofing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://mipainting.com.au",
+    "name": "Mi Painting & Maintenance",
+    "email": "125info@mipainting.com.ausydney",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.sydneypaintingexperts.com.au",
+    "name": "SYDNEY PAINTING EXPERTS PTY LTD",
+    "email": "info@sydneypaintingexperts.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://247mobilemechanic.com.au/",
+    "name": "24/7 mobile Mechanic Sydney",
+    "email": "abc@abc.abc",
+    "score": "8",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "http://sydneymobilemechanic.com.au/",
+    "name": "Sydney Mobile Mechanic | Oil Change, Pink Slip & Car Service Sydney",
+    "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "https://www.kismetmechanical.com.au",
+    "name": "Leichhardt Car Mechanic - Kismet Mechanical",
+    "email": "info@kismetmechanical.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "https://northsydneyauto.com.au",
+    "name": "North Sydney Automotive",
+    "email": "service@northsydneyauto.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://sydneycarrepair.com.au",
+    "name": "Sydney Mechanic & Smash Repair",
+    "email": "richardshnz@gmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "http://autotech.net.au/contact-us/autotech-worldsquare",
+    "name": "AutoTech WorldSquare",
+    "email": "worldsquare@autotech.net.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.az-auto.com.au",
+    "name": "A-Z Auto Sydney Pty Ltd - Repco Authorised Car Service St Peters",
+    "email": "glenn@az-auto.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.autocuremobilemechanics.com.au",
+    "name": "Autocure Mobile Mechanics",
+    "email": "autocure@hotmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "http://sydneyautobody.com",
+    "name": "Autobody Mobile Scratch & Dent Repair Sydney Australia",
+    "email": "quotes@sydneyautobody.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://slsr.com.au",
+    "name": "Sydney Luxury Smash Repairs",
+    "email": "info@slsr.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.giasr.com.au/areas",
+    "name": "GIA Smash Repairs",
+    "email": "giasr@optusnet.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.prestigeautobody.com.au",
+    "name": "Prestige Auto Body Shop - Smash Repair | Car Detailer | Panel Beater | Artarmon",
+    "email": "info@prestigeautobody.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.blacktowncitysmash.com.au",
+    "name": "Blacktown City Smash Repairs - Accident Repairs, Panel Beaters & Paintless Dent ",
+    "email": "info@blacktowncitysmash.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "http://dsmsmashrepairs.com.au",
+    "name": "DSM Smash Repairs",
+    "email": "info@dsmsmashrepairs.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.fresha.com/book-now/style-lab-hair-clement-zpg7zuv5/all-offer",
+    "name": "Hair by Clement (George Street) By Appt. Only\u2014NO Walk-ins",
+    "email": "388fe63e6063cc241ca2a1b0f52622a3@o61919.ingest.us.sentry.io",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.hairzonesydney.com.au",
+    "name": "HAIRZONE Sydney",
+    "email": "hi@mystore.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://susanhairandbeautysalon.com.au",
+    "name": "Susan Hair & Beauty Salon",
+    "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://kawadahairstudio.com",
+    "name": "Kawada Hair Studio Sydney",
+    "email": "info@kawadahairstudio.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://www.planethair.com.au",
+    "name": "Planet Hair",
+    "email": "planethairsydney@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.salonher.com/",
+    "name": "Salon HER",
+    "email": "hello@salonher.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://letoileelite.com.au",
+    "name": "L'Etoile Elite",
+    "email": "info@letoileelite.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.lamphair.com.au",
+    "name": "Lamp Hair - Boutique Japanese Salon",
+    "email": "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://savvyhairboutique.com.au",
+    "name": "Savvy Hair Boutique",
+    "email": "your@gmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://manipulatehair.com.au",
+    "name": "Manipulate Hair Studio",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://www.featherfactorstudio.com.au",
+    "name": "Feather Factor Hair Studio",
+    "email": "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.usfin.com.au",
+    "name": "Usfin Atelier",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://alancoban.com.au",
+    "name": "Alan Coban",
+    "email": "mobile_immersive-hp_products_genesis_800x400@2x.jpg",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.heavenna.com.au",
+    "name": "Heavenna Hair Spa & Beauty",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://www.beautyonparkst.com.au",
+    "name": "Beauty On Park Street",
+    "email": "hello@beautyonparkst.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://orchardspa.com.au",
+    "name": "Orchard Day Spa & Massage",
+    "email": "orchardspa.syd@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://chezgracebeauty.com",
+    "name": "Chez Grace Beauty Sydney",
+    "email": "chezgrace.grace@gmail.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://elegantbeautyspa.com.au",
+    "name": "Elegant Beauty, Hair & Nail Spa",
+    "email": "bg-2_1@2x.png",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://alysium.com.au",
+    "name": "Alysium Day Spa Sydney - Spa Treatments and Luxury Services",
+    "email": "hilton.sydney@alysium.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://zendayspa.com.au/",
+    "name": "Zen Day Spa",
+    "email": "sales@zendayspa.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://www.qvbspa.com.au",
+    "name": "Queen Spa - QVB Massage Sydney",
+    "email": "john@doe.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://www.star.com.au/sydney/hotels-and-spa/the-darling/spa",
+    "name": "The Darling Spa",
+    "email": "thespa@thedarling.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "http://www.shangri-la.com/sydney/shangrila/health-leisure/chi-the-spa",
+    "name": "Chi, The Spa",
+    "email": "chispa.slsn@shangri-la.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://sacredritualspa.com.au",
+    "name": "Sacred Ritual Spa",
+    "email": "info@davinanaturals.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "http://beautyonmacquarie.com.au",
+    "name": "Beauty on Macquarie",
+    "email": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://charming-beauty-centre.square.site",
+    "name": "Charming Beauty Centre - City",
+    "email": "sydchb@gmail.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://infinitymassagesydney.com",
+    "name": "Infinity Massage, Laser & Beauty",
+    "email": "f36cc48fb72b4d298c835f2793cf3b84@sentry-next.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "http://www.acenailsandbeauty.com.au",
+    "name": "Ace Nails & Beauty Redfern",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "https://www.secretbutterfly.online",
+    "name": "Secret Butterfly Nails & Beauty",
+    "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "http://vividnailsalon.com.au",
+    "name": "Vivid Nail Salon",
+    "email": "sydney@vividnailsalon.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "http://www.tiaranailspa.com.au",
+    "name": "Tiara Nail Spa",
+    "email": "tiaranailspa@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "https://luxynailsbeauty.setmore.com",
+    "name": "Luxy Nails & Beauty",
+    "email": "curly-hair-women-setmore@2x.webp",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://www.ayunail.com",
+    "name": "AYU NAIL & BEAUTY",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "http://suminails.com",
+    "name": "suminails",
+    "email": "cropped-group@3x-192x192.png",
+    "score": "7",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "https://industrybeans.com/pages/york-st-cafe",
+    "name": "Industry Beans York St",
+    "email": "venues@industrybeans.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://diggydooscoffee.square.site",
+    "name": "Diggy Doo's Coffee",
+    "email": "13e49d785d8d4f828038b6136f3b48ba@sentry.io",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://pabloandrustys.com.au/pages/locations",
+    "name": "Pablo & Rusty's Sydney CBD",
+    "email": "pablorustys-explore_app_headline_600x600@2x.jpg",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.joeblackcafe.com.au",
+    "name": "JOE BLACK CAFE",
+    "email": "hi@mystore.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.brewcafe.com.au",
+    "name": "Brew Cafe",
+    "email": "info@brewcafe.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "http://www.socialbrewcafe.com.au",
+    "name": "Social Brew Cafe",
+    "email": "b4928a7ca6b9454192554f7a3911fd68@sentry.wixpress.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://coffeealchemy.com.au/pages/gumption",
+    "name": "Gumption by Coffee Alchemy",
+    "email": "support@coffeealchemy.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.gypsyespresso.au",
+    "name": "Gypsy Espresso | Potts Point Cafe",
+    "email": "info@gypsyespresso.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "http://www.paramountcoffeeproject.com.au",
+    "name": "Paramount Coffee Project",
+    "email": "hello@paramountcoffeeproject.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.taogroup.com.au/en/cafealma",
+    "name": "Cafe Alma Sydney",
+    "email": "cafealma@taogroup.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.envoycafe.com.au",
+    "name": "Envoy Cafe",
+    "email": "13e49d785d8d4f828038b6136f3b48ba@sentry.io",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "http://www.cafesydney.com",
+    "name": "Cafe Sydney Restaurant",
+    "email": "reservations@cafesydney.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.facebook.com/pages/STC-cafe-Wentworth-St-Sydney/158101664297956",
+    "name": "STC Cafe",
+    "email": "dev7561@gmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://voguecafe.au",
+    "name": "Vogue Cafe Sydney",
+    "email": "reservations@voguecafe.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.starbucks.com/store-locator/store/9179",
+    "name": "Starbucks Coffee Company",
+    "email": "pressemea@starbucks.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.aaliarestaurant.com/",
+    "name": "Aalia Restaurant Sydney",
+    "email": "info@aaliarestaurant.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://thesanderson.com.au",
+    "name": "The Sanderson",
+    "email": "sydney@thesanderson.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.ariasydney.com.au/",
+    "name": "Aria Restaurant Sydney",
+    "email": "ariasydney@solotel.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.bennelong.com.au",
+    "name": "Bennelong",
+    "email": "reservations@bennelong.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.chophousesydney.com.au/",
+    "name": "Chophouse Sydney",
+    "email": "res.chophousesydney@solotel.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.roastrepublic.com.au",
+    "name": "Roast Republic",
+    "email": "info@roastrepublic.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.hustlerssyd.com.au",
+    "name": "Hustlers. Syd",
+    "email": "hello@hustlerssyd.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.swillhouse.com/venues/restaurant-hubert",
+    "name": "Restaurant Hubert",
+    "email": "reservations@restauranthubert.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://6head.com.au/sydney-restaurant",
+    "name": "6HEAD Sydney",
+    "email": "sydney@6head.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.sydneycommon.com.au/",
+    "name": "Sydney Common",
+    "email": "sydneycommon@sheraton.com",
+    "score": "9",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.sixpenny.com.au",
+    "name": "Sixpenny",
+    "email": "info@sixpenny.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://nomad.sydney",
+    "name": "NOMAD Sydney",
+    "email": "eat@nomad.sydney",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.butlersydney.com.au",
+    "name": "The Butler",
+    "email": "05.11.2024-butlertaphousemelbournecup067of208@them1group-210x110.jpg",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.thaipothong.com.au",
+    "name": "Thai Pothong Restaurant",
+    "email": "info@thaipothong.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.platform818.com.au",
+    "name": "Platform 818",
+    "email": "platform818_white@2x-1024x808.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.obardining.com.au",
+    "name": "O Bar and Dining",
+    "email": "reservations@obardining.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.ester-restaurant.com.au",
+    "name": "Ester Restaurant",
+    "email": "esterrestaurant@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.thebluedoorsurryhills.com.au",
+    "name": "The Blue Door",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://jacksonsongeorge.com.au/bistro-george",
+    "name": "Bistro George",
+    "email": "reservations@jacksonsongeorge.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://ralphscatering.com.au",
+    "name": "Ralph's Catering Sydney",
+    "email": "rebecca@ralphscatering.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://cateredbymatt.com",
+    "name": "Catered By Matt",
+    "email": "info@cateredbymatt.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://cateringproject.com.au",
+    "name": "Catering Project Sydney",
+    "email": "orders@cateringproject.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.gathar.com.au/catering/sydney",
+    "name": "Gathar",
+    "email": "hello@gathar.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://bespokecatering.sydney",
+    "name": "Bespoke Catering Sydney",
+    "email": "events@bespokecatering.net.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.flavourscatering.com.au",
+    "name": "Flavours Catering + Events",
+    "email": "staffing@flavourscatering.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://feedwell.com.au/",
+    "name": "Feedwell Catering Sydney",
+    "email": "orders@feedwell.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.paellachef.com.au",
+    "name": "Paella Chef Sydney Catering",
+    "email": "paellachefsydney@gmail.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://catering-sydney.au",
+    "name": "Catering Sydney by Casa Fine Foods",
+    "email": "adrian@casafinefoods.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.uncleayjays.com",
+    "name": "Uncle Ayjays food truck",
+    "email": "uncleayjaysfoodtruck@gmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.dipit.com.au",
+    "name": "Dip It - Food Trailer Northern Beaches, Sydney",
+    "email": "user@domain.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.islandboysfoods.com.au",
+    "name": "Island Boys Food Jamaican restaurant We open when the factory has show",
+    "email": "info@wine.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.munichhaus.com",
+    "name": "Munich Haus",
+    "email": "yt@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://callthecleaners.com.au/sydney/",
+    "name": "Call The Cleaners Sydney",
+    "email": "info@callthecleaners.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.cleanaustraliaservice.com.au/locations/sydney-cbd",
+    "name": "Clean Australia Service - Commercial & Residential Cleaning",
+    "email": "info@cleanaustraliaservice.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://cleanrific.com.au",
+    "name": "Cleanrific Cleaning Services Sydney",
+    "email": "hello@cleanrific.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://miraclemaid.com.au/sydney",
+    "name": "Miracle Maid",
+    "email": "hello@miraclemaid.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://exitcleaners.com.au/",
+    "name": "Exit Cleaners Sydney",
+    "email": "hello@exitcleaners.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.calibrecleaning.com.au/house-cleaning/sydney/",
+    "name": "Calibre Cleaning Sydney",
+    "email": "support@calibrecleaning.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.cribcrew.com.au",
+    "name": "Crib Crew Sydney Cleaning",
+    "email": "hello@cribcrew.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://sydneycleaningspecialists.com.au",
+    "name": "Sydney Cleaning Specialists",
+    "email": "ivan@sydneycleaningspecialists.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://advancecleanup.com.au",
+    "name": "Advance Clean Up Au",
+    "email": "info@advancecleanup.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.metrorealty.com.au",
+    "name": "Metro Realty",
+    "email": "team@metrorealty.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://boutiquepropertyagents.com",
+    "name": "Boutique Property Agents",
+    "email": "info@boutiquepropertyagents.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://sydneyrealtygroup.com.au",
+    "name": "Sydney Realty Group",
+    "email": "support@sydneyrealtygroup.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.lsre.com.au/cbd-surry-hills",
+    "name": "Laing+Simmons CBD",
+    "email": "dean.applegate@lsre.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.ratemyagent.com.au/real-estate-agent/kenny-wu-ec064/sales/overview",
+    "name": "Evertop Agency - Sydney, Mascot, Greensquare",
+    "email": "support@renowned.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.centralsydneyrealty.com.au",
+    "name": "Central Sydney Realty",
+    "email": "info@centralsydneyrealty.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.hordernproperties.com.au",
+    "name": "Hordern Properties",
+    "email": "info@hordernproperties.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.sydneycriminallawyers.com.au/",
+    "name": "Sydney Criminal Lawyers\u00ae",
+    "email": "adminteam@sydneycriminallawyers.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://lylawyers.com.au/",
+    "name": "LY Criminal Lawyers Sydney",
+    "email": "australia-icon@2x.png",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.armstronglegal.com.au/new-south-wales-lawyers/sydney-lawyers/",
+    "name": "Armstrong Legal - Sydney",
+    "email": "enquiries@armstronglegal.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "http://www.codea.com.au",
+    "name": "Carroll & O'Dea Lawyers Sydney",
+    "email": "cod@codea.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.goldman-lawyers.com",
+    "name": "Goldman Lawyers",
+    "email": "legal@goldman-lawyers.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.obriensolicitors.com.au",
+    "name": "O\u2019Brien Criminal and Civil Solicitors",
+    "email": "info@obriensolicitors.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.criminaldefencelawyers.com.au",
+    "name": "Criminal Defence Lawyers Australia",
+    "email": "info@criminaldefencelawyers.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://truthlawyers.com.au",
+    "name": "Truth Lawyers",
+    "email": "info@truthlawyers.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://daysliketheseevents.com",
+    "name": "Days Like These Events",
+    "email": "user@domain.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://monteluke.com.au",
+    "name": "Monte Luke Studio",
+    "email": "monte-luke-studio_client-logos-2020@2x-100-20x11.jpg",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.sydneyweddingphotographybykatsu.com.au",
+    "name": "Sydney Wedding Photography by Katsu",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.sydphotos.com.au",
+    "name": "SYDPHOTOS Photography & Film",
+    "email": "sydphotos@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://candidchaser.com.au",
+    "name": "Candid chaser photographer",
+    "email": "candidchaser1@gmail.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.ahlimages.com",
+    "name": "AHL Photography",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://sydneyphotographicworkshops.com.au/",
+    "name": "Sydney Photographic Workshops",
+    "email": "info@spw.net.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.splendid.net.au",
+    "name": "Splendid Photos & Video",
+    "email": "info@splendid.net.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.alphadining.com.au/eventsbyalpha",
+    "name": "Events By Alpha",
+    "email": "marketing@dedesgroup.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://waterfrontfunctions.net.au",
+    "name": "The Waterfront Function Centre",
+    "email": "events@waterfrontfunctions.net.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://thesapphire.com.au",
+    "name": "The Sapphire Function Centre",
+    "email": "info@thesapphire.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://merivale.com/event-planning/event-spaces/ivyballroom-2",
+    "name": "ivy ballroom",
+    "email": "giftcards@merivale.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://thevenuealexandria.com.au/",
+    "name": "The Venue Alexandria",
+    "email": "info@thevenuealexandria.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://thevenuesco.au/watersedge",
+    "name": "Watersedge at Campbell's Stores",
+    "email": "%20watersedge@thevenuesco.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.bustlestudios.com",
+    "name": "Bustle Studios - Surry Hills",
+    "email": "user@domain.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://highlineevents.com.au",
+    "name": "The Highline Venue",
+    "email": "info@highlineevents.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://doltonehouse.com.au/venue/hyde-park/",
+    "name": "Doltone House Hyde Park",
+    "email": "info@doltonehouse.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://docksidegroup.com.au/",
+    "name": "L'Aqua | Dockside Group",
+    "email": "hello@docksidegroup.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.sydneyphysioclinic.com.au",
+    "name": "Sydney Physio Clinic",
+    "email": "shadow@2x.png",
+    "score": "7",
+    "status": "NEW",
+    "track": "Physio"
+  },
+  {
+    "website": "https://sydneyphysiosolutions.com.au/macquarie-street-physiotherapy/",
+    "name": "Sydney Physio Solutions | Macquarie St Sydney CBD",
+    "email": "reception@ssop.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://www.infinitehealthgroup.com.au/sydney-cbd-location",
+    "name": "Infinite Health | Sydney CBD Physiotherapists",
+    "email": "reception@infinitevhealthgroup.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Physio"
+  },
+  {
+    "website": "https://sydneyphysiosolutions.com.au/castlereagh-street-physiotherapy/",
+    "name": "Sydney Physio Solutions | Castlereagh St Sydney CBD",
+    "email": "reception@ssop.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://www.cityphysio.com.au",
+    "name": "City Physio & Pilates",
+    "email": "hello@cityphysio.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Physio"
+  },
+  {
+    "website": "https://www.evokerpps.com.au/",
+    "name": "Evoker Premium Physiotherapy Services",
+    "email": "170719-elixr-logo01_6918be11-6d9a-49fc-8916-1f821571b118_x320@2x-300x58.png",
+    "score": "8",
+    "status": "NEW",
+    "track": "Physio"
+  },
+  {
+    "website": "https://www.balanceinmotion.com.au/about-us/sydneycbdphysio",
+    "name": "Balance in Motion | Sydney CBD",
+    "email": "info@balanceinmotion.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Physio"
+  },
+  {
+    "website": "http://www.physicocityphysio.com.au",
+    "name": "PhysiCo City Physiotherapy",
+    "email": "admin@physico.me",
+    "score": "8",
+    "status": "NEW",
+    "track": "Physio"
+  },
+  {
+    "website": "http://sydneyspecialistphysiotherapy.com.au",
+    "name": "Sydney Specialist Physiotherapy Centre",
+    "email": "admin@specialistphysio.net.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Physio"
+  },
+  {
+    "website": "https://www.paramountdentalsydney.com.au",
+    "name": "Paramount Dental Sydney",
+    "email": "hello@paramountdentalsydney.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.spadentalsydneycbd.com.au",
+    "name": "Spa Dental Sydney CBD",
+    "email": "info@spadentalsydneycbd.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://www.affordabledentist.sydney/",
+    "name": "The Affordable Dentist Sydney",
+    "email": "pinhodental@icloud.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://macquariedental.com.au",
+    "name": "Macquarie Dental Sydney CBD",
+    "email": "shadow@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://dentalboutique.com.au/sydney/",
+    "name": "Dental Boutique Sydney",
+    "email": "enquiries@dentalboutique.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.experteethsydney.com.au",
+    "name": "City Dental \u2013 Experteeth Dental\u76ca\u767d\u9f7f\u79d1 Market street",
+    "email": "city@experteeth.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://www.sydneycbddentistry.com.au/",
+    "name": "Sydney CBD Dentistry | Cosmetique Dental",
+    "email": "info@hornsbydentist.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://thedentist.net.au",
+    "name": "The Dentist at 70 Pitt Street",
+    "email": "info@thedentist.net.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://pittstdentalcentre.com.au",
+    "name": "Pitt Street Dental Centre",
+    "email": "info@pittstdentalcentre.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://www.cleardental.com.au/sydney-dentist.html",
+    "name": "Clear Dental Sydney CBD | \u7259\u91ab (Wynyard Dental)",
+    "email": "info@cleardental.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://dentallounge.com.au/",
+    "name": "Dental Lounge Sydney CBD",
+    "email": "emergencydentistry-banner-img@2x-jpg.webp",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://quaydental.com.au/",
+    "name": "Quay Dental Sydney CBD",
+    "email": "minus@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.pacificsmilesdental.com.au/locations/nsw/sydney-cbd/",
+    "name": "Pacific Smiles Dental Sydney CBD",
+    "email": "psd21_smilelogo-200px@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.emergencydentistsydney.com.au",
+    "name": "EMERGENCY DENTIST SYDNEY",
+    "email": "info@emergencydentistsydney.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://horizondental.com.au",
+    "name": "Horizon Dental",
+    "email": "reception@horizondental.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.hydeparkdentalcare.com.au/",
+    "name": "Hyde Park Dental Care",
+    "email": "info@hydeparkdentalcare.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/newtown",
+    "name": "Sydney Animal Hospitals",
+    "email": "newtown@sydneyanimalhospitals.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/inner-west",
+    "name": "Sydney Animal Hospitals Inner West",
+    "email": "innerwest@sydneyanimalhospitals.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://southerncrossvet.com.au/inner-west-vet-hospital/",
+    "name": "Southern Cross Veterinary Clinic Inner West",
+    "email": "reception@southerncrossvet.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://www.alexandriavet.com.au/",
+    "name": "Alexandria Vet Hospital",
+    "email": "info@alexandriavet.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://sashvets.com/locations/alexandria/",
+    "name": "SASH - Specialist & 24/7 Emergency Vets - Alexandria",
+    "email": "infocc@sashvets.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://www.thewildvet.com.au",
+    "name": "The Wild Vet",
+    "email": "reception@thewildvet.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://www.sydney.edu.au/vet-hospital",
+    "name": "University Veterinary Teaching Hospital Sydney (UVTHS)",
+    "email": "campus.assist@sydney.edu.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://vetsoncrown.com.au",
+    "name": "Vets On Crown",
+    "email": "info@vetsoncrown.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "http://www.pyrmontvet.com.au",
+    "name": "Pyrmont Veterinary Hospital",
+    "email": "amkryukov@gmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "http://www.bondivets.com.au",
+    "name": "Bondi Vet Hospital",
+    "email": "info@bondivets.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://sashvets.com/locations/sydney/",
+    "name": "SASH - Specialist & 24/7 Emergency Vets - North Ryde",
+    "email": "info@sashvets.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://roseberyvet.com.au",
+    "name": "Rosebery Veterinary Hospital",
+    "email": "roseberyvet@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "http://www.pottspointvet.com.au",
+    "name": "Potts Point Veterinary Hospital",
+    "email": "info@pottspointvet.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://www.northshorevet.com.au/",
+    "name": "North Shore Veterinary Hospital",
+    "email": "info@northshorevet.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/norwest",
+    "name": "Sydney Animal Hospitals Norwest",
+    "email": "newtown@sydneyanimalhospitals.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "http://vethq.com.au",
+    "name": "Vet HQ Darlinghurst",
+    "email": "reception@vethq.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://myvetanimalhospital.com.au",
+    "name": "My Vet Waterloo",
+    "email": "reception@myvetanimalhospital.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://lockeroomgym.com/",
+    "name": "Lockeroom Gym Personal Trainers Bridge Street",
+    "email": "assist@lockeroomgym.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://ultimateperformance.com/au/personal-trainer/sydney",
+    "name": "Ultimate Performance Personal Trainers Sydney",
+    "email": "globe@2x.webp",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://onyxgym.com.au",
+    "name": "ONYX Gym & Fitness 24/7",
+    "email": "train@onyxgym.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://lockeroomgym.com/",
+    "name": "Lockeroom Gym Personal Trainers Bligh Street",
+    "email": "user@domain.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://vitruvianhealth.com.au",
+    "name": "Vitruvian Health",
+    "email": "info@vitruvianhealth.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://shvasa.com",
+    "name": "Shvasa",
+    "email": "hello@shvasa.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.skipbinfinder.com.au/skip-bins-sydney",
+    "name": "Skip Bin Finder Sydney",
+    "email": "admin@skipbinfinder.com.auhere",
+    "score": "7",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://www.7skipbins.com.au/",
+    "name": "7 Skip Bins Sydney",
+    "email": "info@7skipbins.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://www.northernbeachesskipbins.com.au",
+    "name": "Northern Beaches Skip Bins",
+    "email": "sales@nbsb.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://www.freddyskipbins.com.au",
+    "name": "Freddy's Skip Bin Hire",
+    "email": "info@freddyskipbins.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://proskipsaustralia.com.au",
+    "name": "Pro Skips Australia | Skip Bin Hire Sydney",
+    "email": "razzle7777@gmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://vibegaragedoors.com.au",
+    "name": "Vibe Garage Door Repair",
+    "email": "info@vibegaragedoors.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://sydneygaragedoorrepair.com.au",
+    "name": "Garage Door Repair for Sydney",
+    "email": "info@sydneygaragedoorrepair.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://www.bouncebackgd.com.au",
+    "name": "BounceBack GD - Garage Doors & Automated Gates",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://ptdoors.com.au/",
+    "name": "PT Garage Doors and Gates",
+    "email": "info@ptdoors.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://goodtogogarages.com.au",
+    "name": "Good To Go Garage Doors",
+    "email": "info@goodtogogarages.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://kangaroogd.com.au",
+    "name": "KangarooGD - Garage Doors, Roller Shutters & Automated Gates",
+    "email": "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "http://www.sydneygaragedoors.com.au",
+    "name": "Sydney Garage Doors",
+    "email": "info@sydneygaragedoors.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://www.emugaragedoors.com.au",
+    "name": "Emu Garage Doors",
+    "email": "info@emugaragedoors.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "http://www.abdgaragedoors.com.au",
+    "name": "ABD Garage Doors",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://www.rapidgdr.com.au",
+    "name": "Rapid GDR",
+    "email": "bill@rapidgdr.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.plumbmedic.com.au",
+    "name": "Plumb Medic - Emergency Plumber Melbourne",
+    "email": "info@plumbmedic.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://24hourmelbourneplumbers.com.au",
+    "name": "24 Hour Melbourne Plumber",
+    "email": "bbm-grey_540c5057-a967-4d5e-a5fa-2e9530669293_580x-copy@2x.png.webp",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://velaquaplumbing.com.au",
+    "name": "Velaqua Plumbing",
+    "email": "velaqua@live.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.butlerplumbing.com.au",
+    "name": "Butler Plumbing Pty Ltd",
+    "email": "service@butlerplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://mmpg.melbourne",
+    "name": "Melbourne Metro Plumbing Group",
+    "email": "service@mmpg.melbourne",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.fixitrightplumbing.com.au/emergency-plumber-melbourne/",
+    "name": "Fix It Right Plumbing Melbourne",
+    "email": "contact@fixitrightplumbing.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "http://www.melbourneplumbingco.com.au",
+    "name": "Melbourne Plumbing Co",
+    "email": "office@melbourneplumbingco.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://zebraplumbing.com.au",
+    "name": "Zebra Plumbing",
+    "email": "contact@zebraplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://innercityplumbing.com.au/locations/abbotsford",
+    "name": "Inner City Plumbing",
+    "email": "info@innercityplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://bpelectricians.com.au",
+    "name": "Brisbane Power Electricians",
+    "email": "info@bpelectricians.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://www.dawsonelectric.com.au",
+    "name": "Dawson Electric",
+    "email": "info@dawsonelectric.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://audemelectrical.com.au/",
+    "name": "Audem Electrical",
+    "email": "jobs@audem.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.staticelectrics.com.au/electrician/brisbane/",
+    "name": "Static Electrics Brisbane",
+    "email": "chosen-sprite@2x.png",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://dlgelectrical.com.au",
+    "name": "DLG Electrical",
+    "email": "info@dlgelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://speedyelectrical.com.au",
+    "name": "Speedy Electrical",
+    "email": "speedy@speedyelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://yourelectricalexpert.com.au/",
+    "name": "Your Electrical Expert",
+    "email": "bpd.webforms@fallonsolutions.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://jetsetelectrical.com/",
+    "name": "Jetset Electrical",
+    "email": "customerservice@jetsetelectrical.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.brisbaneplumbinganddrainage.com.au/",
+    "name": "Brisbane Plumbing and Drainage",
+    "email": "bpd.webforms@fallonsolutions.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://sjplumbingandgas.com.au/",
+    "name": "S&J Plumbing and Gasfitting Brisbane Northside",
+    "email": "admin@sjplumbingandgas.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://brisbanecityplumbingandgas.com.au",
+    "name": "Brisbane City Plumbing and Gas",
+    "email": "webmaster@brisbanecityplumbingandgas.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://agradeplumbingandgas.com.au/",
+    "name": "A Grade Plumbing and Gas - Plumber Brisbane",
+    "email": "admin@agradepg.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://www.allfixplumbing.com.au",
+    "name": "All Fix Plumbing Brisbane Plumber",
+    "email": "jw.carolan@hotmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://nationalplumbingaustralia.com.au",
+    "name": "National Plumbing",
+    "email": "info@nationalplumbingaustralia.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://lwplumbing.com.au",
+    "name": "L&W Plumbing Solutions",
+    "email": "admin@lwplumbing.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://ck-plumbing.com.au",
+    "name": "CK Plumbing & Maintenance",
+    "email": "ck-plumbing@hotmail.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.kozplumbing.com.au/",
+    "name": "K-Oz Plumbing & Gas",
+    "email": "info@kozplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://bris-plumb-gas.com.au",
+    "name": "Brisbane Plumbing and Gas",
+    "email": "hello@bris-plumb-gas.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.bttd.au",
+    "name": "Brisbane Taps Toilets and Drains",
+    "email": "%20info@bttd.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.electricianinperth.com.au/",
+    "name": "Westline Electricians Perth",
+    "email": "info@westlineelectrical.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://www.responseelectricianperth.com.au",
+    "name": "Response Electricians",
+    "email": "info@rfes.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://www.localperthelectrician.com.au/",
+    "name": "Web X Electricians Perth",
+    "email": "admin@webxelectrical.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://www.brillare.net.au",
+    "name": "Brillare Perth Electricians",
+    "email": "info@brillare.net.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "http://www.opeperth.com.au",
+    "name": "On Point Electrical Perth",
+    "email": "web@aeozo.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://boyanelectrical.com.au",
+    "name": "Boyan Electrical",
+    "email": "admin@boyanelectrical.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://primetimewa.com.au/",
+    "name": "Prime Time Electrical",
+    "email": "hello@primetimewa.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://www.drsparkyelectrical.com.au",
+    "name": "Dr Sparky Electrical",
+    "email": "info@drsparkyelectrical.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "http://electricalgroup.com.au",
+    "name": "The Electrical Group",
+    "email": "admin@electricalgroup.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.mactecelectrical.com.au",
+    "name": "Mactec Electrical",
+    "email": "admin@mactecelectrical.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.theadelaideelectricalco.com",
+    "name": "The Adelaide Electrical Co. - Electrician",
+    "email": "admin@taeco.net.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://www.bmselectrical.com.au",
+    "name": "BMS Electrical Services",
+    "email": "info@bmselectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.cornellelectrical.com.au",
+    "name": "Cornell Electrical Pty Ltd",
+    "email": "info@cornellelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.sametroelectrical.com.au",
+    "name": "SA METRO Electrical",
+    "email": "info@sametroelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://adelaideurbanelectrical.com.au",
+    "name": "Adelaide Urban Electrical",
+    "email": "admin@auemail.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.hirwinelectrical.com.au",
+    "name": "H. Irwin Electrical Adelaide Electrician",
+    "email": "%20admin@hirwinelectrical.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "http://www.ielectricalandcomms.com.au",
+    "name": "iElectrical & Communications",
+    "email": "matthews@ielectricalandcomms.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.southadelaideelectrical.com.au",
+    "name": "South Adelaide Electrical",
+    "email": "admin@southadelaideelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.visionelectrical.com.au",
+    "name": "Vision Electrical",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.eslelectricalservices.com",
+    "name": "ESL Electrical Services",
+    "email": "maintenance@eslelectricalservices.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.ejelectricalgoldcoast.com.au",
+    "name": "EJ Electrical",
+    "email": "info@ejelectrical.net",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://goldcoastplumbingexperts.com.au/",
+    "name": "Gold Coast Plumbing Experts",
+    "email": "info@goldcoastplumbingexperts.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.servicetoday.com.au",
+    "name": "Service Today Plumber Gold Coast",
+    "email": "info@servicetoday.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://dcmplumbing.com.au/",
+    "name": "DCM Plumbing & Drainage Pty Ltd",
+    "email": "office@dcmplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.theplumbingdoctor.com.au",
+    "name": "The Plumbing Doctor",
+    "email": "thedr@theplumbingdoctor.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.capitalplumbing.com.au",
+    "name": "Capital Plumbing",
+    "email": "tracey@munndigital.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://charlietheplumber.com.au",
+    "name": "Charlie The Plumber",
+    "email": "chosen-sprite@2x.png",
+    "score": "7",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://localplumbingandgasco.com.au",
+    "name": "Local Plumbing & Gas Company",
+    "email": "info@localplumbingandgasco.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.bondplumbing.com.au",
+    "name": "Bond Plumbing",
+    "email": "enquiries@bondplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.hightideplumbing.au",
+    "name": "High Tide Plumbing & Gas Gold Coast",
+    "email": "contact@hightideplumbing.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.jetsetplumbing.com.au/",
+    "name": "Jetset Plumbing",
+    "email": "right-slider-arrow@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.completeplumbingqld.com.au",
+    "name": "Complete Plumbing Qld",
+    "email": "office@completeplumbingqld.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://oceansideservices.com.au/",
+    "name": "Oceanside Services",
+    "email": "ocean@oceansideservices.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.coastalplumbingprofessionals.com",
+    "name": "Coastal Plumbing Professionals",
+    "email": "admin@coastalplumbingprofessionals.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://highergroundmelbourne.com.au",
+    "name": "Higher Ground",
+    "email": "info@highergroundmelbourne.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.tomoslittlecollins.com",
+    "name": "Tomo\u2019s Little Collins",
+    "email": "info@tomoslittlecollins.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.facebook.com/manchesterpress",
+    "name": "Manchester Press",
+    "email": "manchesterpresscafe@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.caffeetorta.com",
+    "name": "Caff\u00e9 E Torta",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.littlerogue.com.au",
+    "name": "Little Rogue.",
+    "email": "shop@littlerogue.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://cafevictoriaqvm.com.au",
+    "name": "Cafe Victoria",
+    "email": "info@kenoliptyltd.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.ozfoodhunter.com.au/cafe-court",
+    "name": "Cafe Court",
+    "email": "yourmail@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.journalcafemelbourne.com.au",
+    "name": "The Journal Cafe",
+    "email": "journal.canteen@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "http://thequarter.com.au",
+    "name": "The Quarter",
+    "email": "info@thequarter.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.cafetomi.com",
+    "name": "Cafe Tomi",
+    "email": "hr@cafetomi.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.kpos.com.au/amiri/index_table.php",
+    "name": "AMIRI CAFE",
+    "email": "info@kpos.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "http://hardwaresociete.com",
+    "name": "The Hardware Soci\u00e9t\u00e9",
+    "email": "bonjour@hardwaresociete.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://stali.com.au",
+    "name": "ST. ALi Coffee Roasters - South Melbourne",
+    "email": "support@stali.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.krimper.com.au",
+    "name": "Krimper Cafe",
+    "email": "info@krimper.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "http://www.trendkitchena1a.com",
+    "name": "Le French Restaurant",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.wyndhamhotels.com/laquinta/melbourne-florida/la-quinta-melbourne-viera/overview",
+    "name": "La Quinta Inn & Suites by Wyndham Melbourne Viera",
+    "email": "accessibility@wyndham.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://lavuerestaurant.com.au",
+    "name": "La Vue Waterfront Restaurant",
+    "email": "ronaldo@lavuerestaurant.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://clarencerestaurant.com",
+    "name": "Clarence Restaurant",
+    "email": "ncontact@clarencerestaurant.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.alchemyrestaurant.com.au",
+    "name": "Alchemy Restaurant and Bar Brisbane",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://libertine.net.au",
+    "name": "Libertine Restaurant & Cocktail Bar",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.opabar.com.au",
+    "name": "Opa Bar & Mezze",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.toscanobar.com.au",
+    "name": "Toscano Bar & Kitchen",
+    "email": "info@toscanobar.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.pompette.com.au",
+    "name": "Pompette",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://rothwellsbrisbane.com.au",
+    "name": "Rothwell\u2019s Bar & Grill",
+    "email": "reservations@rothwellsbrisbane.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.darkshepherd.com.au",
+    "name": "Dark Shepherd",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://madorestaurant.com.au",
+    "name": "Mado Turkish Restaurant",
+    "email": "bookings@madorestaurant.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.moomoorestaurant.com",
+    "name": "Moo Moo The Wine Bar and Grill Brisbane",
+    "email": "flags@2x.png",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.blackhidecaxton.com.au",
+    "name": "Black Hide Caxton Street",
+    "email": "book@blackhidesteakhouse.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "http://exhibitionrestaurant.com",
+    "name": "Exhibition Restaurant",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.walnutrestaurant.com.au",
+    "name": "The Walnut Restaurant & Lounge Bar",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.roguebistro.com",
+    "name": "Rogue Bistro",
+    "email": "info@roguebistro.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://centralbne.com.au",
+    "name": "Central Restaurant",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://patinacustomshouse.com.au/",
+    "name": "Patina at Customs House",
+    "email": "a.pham1@uq.edu.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.lennonsrestaurant.com.au",
+    "name": "Lennons Restaurant & Bar",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.shahnazbeauty.com.au",
+    "name": "SHAHNAZ BEAUTY GOLD COAST",
+    "email": "shahnazbeautysalon@yahoo.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://g-andco.com.au",
+    "name": "G+Co Hair and Beauty",
+    "email": "info@g-andco.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://skinmindandbeauty.com.au",
+    "name": "Skin Mind Beauty & Hair | Hair & Beauty Salon",
+    "email": "marketing@skinmindandbeauty.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.beibeauty.com.au",
+    "name": "Bei Beauty Salon",
+    "email": "info@gracebeautyandmassage.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.beautyonqueen.com.au",
+    "name": "Beauty on Queen",
+    "email": "info@beautyonqueen.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.lotusbeautylounge.com.au",
+    "name": "Lotus Beauty Lounge",
+    "email": "lee@lotusbeautylounge.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://blowbarlane.com.au",
+    "name": "Blow Bar Lane | Beauty Hair Salon & Cocktail Bar Gold Coast",
+    "email": "bookings@blowbarlane.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.lavelaheadspa.com.au",
+    "name": "La Vela Head Spa \u2013 Head Spa Gold Coast",
+    "email": "booking@lavelaheadspa.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://www.fresha.com/a/auzus-hair-and-beauty-paradise-centre-surfers-paradise-2-cavill-avenue-uoxp7xre",
+    "name": "Auzus Hair and Beauty",
+    "email": "388fe63e6063cc241ca2a1b0f52622a3@o61919.ingest.us.sentry.io",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.seoul-haus.com.au",
+    "name": "Seoul Haus Hair & Nail | Southport Gold Coast",
+    "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://justskynbeauty.com.au",
+    "name": "Just Skyn Beauty Treatment Clinic",
+    "email": "jade@justskynbeauty.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://mobilemechanicbrisbanenorthside.com.au",
+    "name": "Mobile Mechanic Brisbane Northside",
+    "email": "gallardoray@yahoo.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "https://lemansmotors.com.au",
+    "name": "Lemans Mechanic Brisbane Car Service Brisbane",
+    "email": "group-3656@2x-1536x754.png",
+    "score": "7",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "https://eastbrisbane.rapidtune.com.au",
+    "name": "Rapid Tune East Brisbane",
+    "email": "cropped-rapidtune-favicon@3x-1-270x270.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.nestocar.com.au",
+    "name": "Nestocar Automotive Service Centre - BRISBANE",
+    "email": "brisbane@nestocar.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.ultratune.com.au/stores/ultra-tune-woolloongabba/",
+    "name": "Ultra Tune Woolloongabba",
+    "email": "woolloongabba@ultratune.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.genesisautoworks.com.au",
+    "name": "Genesis Autoworks East Brisbane",
+    "email": "coorparoo@genesisautoworks.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.calibrecleaning.com.au/house-cleaning/melbourne/",
+    "name": "Calibre Cleaning Melbourne",
+    "email": "support@calibrecleaning.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://yescleaning.com.au/",
+    "name": "Yes Cleaning - Commercial and Office Cleaning Melbourne",
+    "email": "info@yescleaning.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://melbournevacateandcarpetcleaning.com.au",
+    "name": "Melbourne Vacate & Carpet Cleaning",
+    "email": "melbournevacate@gmail.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://o2ocleaning.com.au/",
+    "name": "End of lease Cleaning Melbourne | O2Ocleaning",
+    "email": "info@o2ocleaning.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.cheapandbestcleaning.com.au",
+    "name": "Cheap And Best Cleaning",
+    "email": "info@cheapandbestcleaning.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://endofleasecleaning.melbourne",
+    "name": "End of Lease Clean Melbourne",
+    "email": "info@endofleasecleaning.melbourne",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://fantasticcleaners.com.au/melbourne/",
+    "name": "Fantastic Cleaners",
+    "email": "google-reviews@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://theaccountants.au",
+    "name": "The Accountants",
+    "email": "hello@theaccountants.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://inspire.accountants",
+    "name": "Inspire Small Business Accountants Brisbane",
+    "email": "abi-who-we-work-with@2x-1024x284.png",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://leeandassociates.com.au",
+    "name": "Lee and Associates Accountants",
+    "email": "enquiries@leeandassociates.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://walkerhill.com.au",
+    "name": "Walker Hill - Accountants",
+    "email": "support@walkerhill.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://acctivate.com.au",
+    "name": "Acctivate - Business Accountants Brisbane",
+    "email": "hello@acctivate.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.rubylam.com.au",
+    "name": "Ruby Lam Accountants",
+    "email": "admin@rubylam.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://emergency-electrical.com.au",
+    "name": "Newcastle Emergency Electrical",
+    "email": "info@emergency-electrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.barrackelectrical.com.au",
+    "name": "Barrack Electrical",
+    "email": "user@domain.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.allsight.com.au",
+    "name": "All Sight Electrical - Level 2 Electrician",
+    "email": "admin@allsight.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://coopers24hrelectrical.com.au",
+    "name": "Coopers 24HR Electrical - Residential Electrician | Newcastle & Merewether",
+    "email": "cam@coopers24.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://willplumb.com.au",
+    "name": "WillPlumb Plumbing Services",
+    "email": "admin@willplumb.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://csplumbingservices.com.au",
+    "name": "CS Plumbing & Drainage Services",
+    "email": "info@csplumbingservices.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.kishair.com.au",
+    "name": "Kis Hair On Bourke",
+    "email": "kishairspencer@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.kishair.com.au",
+    "name": "Kis Hair on La Trobe",
+    "email": "kishairlatrobe@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.kishair.com.au",
+    "name": "Kis Hair On Spencer",
+    "email": "kishairlatrobe@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://www.vijusalon.com",
+    "name": "VIJU SALON",
+    "email": "mini37373@gmail.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.dyhairdesign.com.au",
+    "name": "D&Y Hair Design Bourke Street CBD",
+    "email": "towahairdesign@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://salonabyk.gettimely.com",
+    "name": "SALON A BY K",
+    "email": "button_light@2x.png",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://dyhairdesign.com.au",
+    "name": "D&Y Hair Design Collins Street CBD",
+    "email": "dyhaircollins@gmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://www.maisontsumiki.com",
+    "name": "Maison Tsumiki",
+    "email": "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://a2salon.com.au",
+    "name": "A2 Salon",
+    "email": "info@ndiscovered.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://hairretreatsouthmelbourne.com.au",
+    "name": "Hair Retreat South Melbourne",
+    "email": "info@ndiscovered.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.sparlorhair.com.au",
+    "name": "S PARLOR HAIR",
+    "email": "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://aerysalon.com.au",
+    "name": "Aery Salon",
+    "email": "admin@aerysalon.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.facebook.com/melbcafe",
+    "name": "Caf\u00e9 Melbourne",
+    "email": "lecafemelbourne@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://bluestonelane.com/cafes/hoboken-409-washington-st-new-jersey/",
+    "name": "Bluestone Lane Hoboken Caf\u00e9",
+    "email": "support@bluestone-lane.zendesk.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://22-shades.square.site",
+    "name": "22 Shades Nail Studio",
+    "email": "aestheticnailsllc@outlook.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "https://bluestonelane.com/coffee-shops/garment-district-1375-broadway-new-york/",
+    "name": "Bluestone Lane Garment District Coffee Shop",
+    "email": "support@bluestone-lane.zendesk.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.facebook.com/CafeGC",
+    "name": "Cafe Gold Coast",
+    "email": "dev7561@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://shirazgoldcoast.com/en",
+    "name": "Shiraz - Best Persian Restaurant + Bar Gold Coast",
+    "email": "info@shirazgoldcoast.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.rickshores.com.au",
+    "name": "Rick Shores",
+    "email": "seatme@rickshores.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.holyship.restaurant",
+    "name": "Holy Ship Restaurant & Bar",
+    "email": "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.thenorthroom.com.au",
+    "name": "The North Room",
+    "email": "info@thenorthroom.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://seascape.com.au",
+    "name": "Seascape Restaurant & Bar",
+    "email": "info@seascape.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://gennarigroup.com.au/mare-restaurant-marina-mirage",
+    "name": "M\u0100RE Restaurant by La Luna",
+    "email": "info@lalunabeachclub.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.littletruffle.com.au",
+    "name": "Little Truffle",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.star.com.au/goldcoast/restaurants/kiyomi",
+    "name": "Kiyomi",
+    "email": "stargcdining@star.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.moomoorestaurant.com/gold-coast",
+    "name": "Moo Moo The Wine Bar + Grill",
+    "email": "functions.gc@moomoorestaurant.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.coastbeachbar.com.au",
+    "name": "COAST",
+    "email": "team@latofonts.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://paletterestaurant.com.au",
+    "name": "Palette Restaurant",
+    "email": "palette@experiencegoldcoast.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.citriquerestaurant.com/",
+    "name": "Citrique",
+    "email": "citrique.reservations@jwmarriott.com",
+    "score": "9",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.restaurantlabart.com",
+    "name": "Restaurant Labart",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.alfrescogc.com",
+    "name": "Alfresco Italian Restaurant",
+    "email": "ciao@alfrescogc.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://thetropic.com.au",
+    "name": "The Tropic - Burleigh",
+    "email": "reservations@burleighpavilion.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.quarterdeckkitchen.com.au",
+    "name": "Quarterdeck Kitchen + Bar",
+    "email": "hello@quarterdeckkitchen.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://paradiseresort.com.au/eat/penguins-restaurant",
+    "name": "Penguins Restaurant",
+    "email": "book@paradiseresort.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://balboaitalian.com.au",
+    "name": "Balboa Italian Restaurant",
+    "email": "info@balboaitalian.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.perthmech.com.au",
+    "name": "Perth Mech Mobile Mechanics",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "score": "7",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "http://palazzoautomotives.com.au",
+    "name": "Palazzo Automotive",
+    "email": "palazzo@palazzoautomotives.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.automasters.com.au/locations/perth-northbridge/",
+    "name": "Auto Masters Northbridge",
+    "email": "admin@automasters.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.brisbanehousecleaners.net.au",
+    "name": "Brisbane House Cleaners",
+    "email": "brisbanehousecleaners@gmail.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.calibrecleaning.com.au/house-cleaning/brisbane/",
+    "name": "Calibre Cleaning - House Cleaning Brisbane",
+    "email": "support@calibrecleaning.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.trueconnectionelectrical.com.au/",
+    "name": "True Connection Electrical",
+    "email": "admin@trueconnectionelectrical.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.wattsneeded.com.au",
+    "name": "Watts Needed Electrical: 24/7 Electrician Canberra",
+    "email": "info@wattsneeded.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "http://www.recordelectrical.com.au",
+    "name": "Record Electrical",
+    "email": "admin@recordelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://levelau.com.au/plumber-canberra/",
+    "name": "Level Plumbing Canberra",
+    "email": "canberra@levelplumbing.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://www.fixitrightplumbing.com.au/emergency-plumber-canberra/",
+    "name": "Fix It Right Plumbing Canberra",
+    "email": "contact@fixitrightplumbing.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://jmlplumbing.net.au",
+    "name": "JML Plumbing & Gas Canberra",
+    "email": "office@jmlplumbing.net.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.contemporaryplumbing.com.au",
+    "name": "Contemporary Plumbing",
+    "email": "admin@contemporaryplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://t-corp.com.au/",
+    "name": "T Corp Plumbing",
+    "email": "info@t-corp.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://capitalplumbingspecialists.com.au/",
+    "name": "Capital Plumbing Specialists Canberra",
+    "email": "admin@capitalplumbingspecialists.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.bmfplumbing.com.au",
+    "name": "BMF Plumbing and Gasfitting Canberra",
+    "email": "brad@bmfplumbing.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.hdlevel2electriciansydney.com.au",
+    "name": "High Demand Electrical Level 2 Sydney",
+    "email": "chris@highdemandelectrical.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://www.justelectricalsydney.com.au",
+    "name": "Just Electrical Sydney Pty Ltd",
+    "email": "cd64ba1f47df485bba2b0076c0dd3b25@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.helloelectrical.com.au/",
+    "name": "Hello Electrical | Electrician Sydney",
+    "email": "info@helloelectrical.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "http://www.360sydneyelectrical.com.au",
+    "name": "360 Degrees Sydney Electrical",
+    "email": "contact@360sydneyelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://scottelectrics.com.au",
+    "name": "Scott Electrics",
+    "email": "info@scottelectrics.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://proximityplumbing.com.au/",
+    "name": "Proximity Plumbing",
+    "email": "admin@proximityplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.cbdplumbers.com.au/%20%20%20%20%20%20http://www.kitchenpumpboxsydney.com.au",
+    "name": "Sydney CBD Plumbing Pty Ltd",
+    "email": "service@cbdplumbers.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://www.pavplumbing.com.au/",
+    "name": "Pav Plumbing",
+    "email": "service@pavplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://agradecarpentry.com.au",
+    "name": "A Grade Carpentry Group",
+    "email": "agradecarpentrygroup@gmail.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://nsrenovations.au",
+    "name": "North Shore Carpentry & Renovations",
+    "email": "alex@nsrenovations.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.sydneyroofingspecialists.com",
+    "name": "Sydney Roofing Specialists",
+    "email": "info@sydneyroofingspecialists.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://roofernearme.com.au",
+    "name": "Roofer Near Me - Roof Repair Sydney",
+    "email": "contact@roofernearme.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Roofer"
+  },
+  {
+    "website": "https://affordablewesternsydneyroofing.com.au",
+    "name": "Affordable Western Sydney Roofing",
+    "email": "info@affordablewesternsydneyroofing.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://paintanddecorate.com.au",
+    "name": "Tony Isgrove's Painting and Decorating",
+    "email": "office@paintanddecorate.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.aslpainting.com.au/",
+    "name": "ASL Painting Sydney",
+    "email": "info@aslpainting.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.sydneypaintingexperts.com.au",
+    "name": "SYDNEY PAINTING EXPERTS PTY LTD",
+    "email": "info@sydneypaintingexperts.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://sydneymobilemechanic.com.au/",
+    "name": "Sydney Mobile Mechanic | Oil Change, Pink Slip & Car Service Sydney",
+    "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "https://247mobilemechanic.com.au/",
+    "name": "24/7 mobile Mechanic Sydney",
+    "email": "service@247mobilemechanic.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "https://northsydneyauto.com.au",
+    "name": "North Sydney Automotive",
+    "email": "service@northsydneyauto.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://sydneycarrepair.com.au",
+    "name": "Sydney Mechanic & Smash Repair",
+    "email": "richardshnz@gmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "https://www.kismetmechanical.com.au",
+    "name": "Leichhardt Car Mechanic - Kismet Mechanical",
+    "email": "info@kismetmechanical.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "http://autotech.net.au/contact-us/autotech-worldsquare",
+    "name": "AutoTech WorldSquare",
+    "email": "autotechworldsquare@gmail.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.az-auto.com.au",
+    "name": "A-Z Auto Sydney Pty Ltd - Repco Authorised Car Service St Peters",
+    "email": "glenn@az-auto.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.alexandriaautomotiveservices.com.au",
+    "name": "Alexandria Automotive Services",
+    "email": "info@alexandriaautomotiveservices.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://easternautorepairs.com.au",
+    "name": "Eastern Auto Repairs",
+    "email": "bookings@easternautorepairs.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://esauto.com.au",
+    "name": "Eastern Suburbs Automotive",
+    "email": "service@esauto.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://sydneyautomotives.com.au",
+    "name": "Sydney Automotive & Auto Electrical",
+    "email": "info@sydneyautomotives.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://slsr.com.au",
+    "name": "Sydney Luxury Smash Repairs",
+    "email": "info@slsr.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://sydneyautobody.com",
+    "name": "Autobody Mobile Scratch & Dent Repair Sydney Australia",
+    "email": "quotes@sydneyautobody.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.giasr.com.au/areas",
+    "name": "GIA Smash Repairs",
+    "email": "giasr@optusnet.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.prestigeautobody.com.au",
+    "name": "Prestige Auto Body Shop - Smash Repair | Car Detailer | Panel Beater | Artarmon",
+    "email": "info@prestigeautobody.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://dsmsmashrepairs.com.au",
+    "name": "DSM Smash Repairs",
+    "email": "info@dsmsmashrepairs.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.fresha.com/book-now/style-lab-hair-clement-zpg7zuv5/all-offer",
+    "name": "Hair by Clement (George Street) By Appt. Only\u2014NO Walk-ins",
+    "email": "388fe63e6063cc241ca2a1b0f52622a3@o61919.ingest.us.sentry.io",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://kawadahairstudio.com",
+    "name": "Kawada Hair Studio Sydney",
+    "email": "info@kawadahairstudio.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.salonher.com/",
+    "name": "Salon HER",
+    "email": "hello@salonher.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://manipulatehair.com.au",
+    "name": "Manipulate Hair Studio",
+    "email": "info@manipulatehair.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://letoileelite.com.au",
+    "name": "L'Etoile Elite",
+    "email": "info@letoileelite.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.usfin.com.au",
+    "name": "Usfin Atelier",
+    "email": "hello@usfin.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.hairzonesydney.com.au",
+    "name": "HAIRZONE Sydney",
+    "email": "hi@mystore.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://susanhairandbeautysalon.com.au",
+    "name": "Susan Hair & Beauty Salon",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://www.valonz.com.au",
+    "name": "Valonz",
+    "email": "valonz@valonz.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.christopherhanna.com.au",
+    "name": "Christopher Hanna",
+    "email": "info@christopherhanna.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://dkhairstudio.square.site",
+    "name": "DK Hairstudio Haymarket",
+    "email": "hi@mystore.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://www.beautyonparkst.com.au",
+    "name": "Beauty On Park Street",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://www.heavenna.com.au",
+    "name": "Heavenna Hair Spa & Beauty",
+    "email": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://chezgracebeauty.com",
+    "name": "Chez Grace Beauty Sydney",
+    "email": "chezgrace.grace@gmail.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://glowdistrict.com.au",
+    "name": "Glow District",
+    "email": "hello@glowdistrict.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://sacredritualspa.com.au",
+    "name": "Sacred Ritual Spa",
+    "email": "info@davinanaturals.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://www.theparlourroom.com.au/self",
+    "name": "Self by The Parlour Room",
+    "email": "self@theparlourroom.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.senspa.com.au",
+    "name": "Sen Spa & Beauty",
+    "email": "info@senspa.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://elegantbeautyspa.com.au",
+    "name": "Elegant Beauty, Hair & Nail Spa",
+    "email": "bg-5@2x.png",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://charming-beauty-centre.square.site",
+    "name": "Charming Beauty Centre - City",
+    "email": "sydchb@gmail.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://alysium.com.au",
+    "name": "Alysium Day Spa Sydney - Spa Treatments and Luxury Services",
+    "email": "hilton.sydney@alysium.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "http://beautyonmacquarie.com.au",
+    "name": "Beauty on Macquarie",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.beautyaffairs.com.au/pages/medispa",
+    "name": "Beauty Affairs MediSpa CBD",
+    "email": "back-in-stock@notifyboost.net",
+    "score": "7",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "http://vividnailsalon.com.au",
+    "name": "Vivid Nail Salon",
+    "email": "sydney@vividnailsalon.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "https://www.secretbutterfly.online",
+    "name": "Secret Butterfly Nails & Beauty",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "score": "8",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "http://www.acenailsandbeauty.com.au",
+    "name": "Ace Nails & Beauty Redfern",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "http://www.tiaranailspa.com.au",
+    "name": "Tiara Nail Spa",
+    "email": "tiaranailspa@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "http://www.ayunail.com",
+    "name": "AYU NAIL & BEAUTY",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "http://suminails.com",
+    "name": "suminails",
+    "email": "image0@1x-300x300.png",
+    "score": "7",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "https://www.mdnails.com.au",
+    "name": "MD nails and beauty",
+    "email": "info@mdnails.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Nail"
+  },
+  {
+    "website": "https://diggydooscoffee.square.site",
+    "name": "Diggy Doo's Coffee",
+    "email": "13e49d785d8d4f828038b6136f3b48ba@sentry.io",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.joeblackcafe.com.au",
+    "name": "JOE BLACK CAFE",
+    "email": "13e49d785d8d4f828038b6136f3b48ba@sentry.io",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://pabloandrustys.com.au/pages/locations",
+    "name": "Pablo & Rusty's Sydney CBD",
+    "email": "bcorplogo_2020_blue-01_2_431ca669-03b2-4b33-8490-f3f4b61338e2_110x134@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://skittlelane.com",
+    "name": "Skittle Lane",
+    "email": "info@skittlelane.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://industrybeans.com/pages/york-st-cafe",
+    "name": "Industry Beans York St",
+    "email": "venues@industrybeans.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "http://www.paramountcoffeeproject.com.au",
+    "name": "Paramount Coffee Project",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.socialbrewcafe.com.au",
+    "name": "Social Brew Cafe",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "http://www.aslancoffee.com.au",
+    "name": "ASLAN Coffee Roasters The Rocks",
+    "email": "northsydney@aslancoffee.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.regimentcbd.com.au",
+    "name": "Regiment specialty coffee",
+    "email": "regiment2022@hotmail.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://reubenhills.com.au",
+    "name": "Reuben Hills",
+    "email": "orders@reubenhills.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.cafelostandfound.com.au",
+    "name": "Cafe Lost and Found - North Sydney Cafe, Coffee Nearby",
+    "email": "cafelostandfound@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.gypsyespresso.au",
+    "name": "Gypsy Espresso | Potts Point Cafe",
+    "email": "info@gypsyespresso.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "http://www.cafesydney.com",
+    "name": "Cafe Sydney Restaurant",
+    "email": "reservations@cafesydney.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.thecoffeemovement.com",
+    "name": "The Coffee Movement",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://jejescoffee.com",
+    "name": "Jejes Coffee",
+    "email": "support@jejescoffee.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.starbucks.com/store-locator/store/15908",
+    "name": "Starbucks Coffee Company",
+    "email": "pressemea@starbucks.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://10000coffeeusa.com",
+    "name": "Ten Thousand Coffee",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.starbucks.com/store-locator/store/1018251",
+    "name": "Starbucks",
+    "email": "press@starbucks.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.starbucks.com/store-locator/store/1026082",
+    "name": "Starbucks",
+    "email": "press@starbucks.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://10000coffeeusa.com",
+    "name": "Ten Thousand Coffee",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.trycuppacoffee.com",
+    "name": "CuppaCoffee Boston Westend",
+    "email": "info@trycuppacoffee.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.starbucks.com/store-locator/store/12928",
+    "name": "Starbucks Coffee Company",
+    "email": "pressemea@starbucks.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.starbucks.com/store-locator/store/15202",
+    "name": "Starbucks Coffee Company",
+    "email": "press@starbucks.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.starbucks.com/store-locator/store/15601",
+    "name": "Starbucks Coffee Company",
+    "email": "press@starbucks.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.starbucks.com/store-locator/store/17793",
+    "name": "Starbucks Coffee Company",
+    "email": "u003epressemea@starbucks.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://bluestonelane.com/coffee-shops/garment-district-1375-broadway-new-york/",
+    "name": "Bluestone Lane Garment District Coffee Shop",
+    "email": "support@bluestone-lane.zendesk.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.aaliarestaurant.com/",
+    "name": "Aalia Restaurant Sydney",
+    "email": "info@aaliarestaurant.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://thesanderson.com.au",
+    "name": "The Sanderson",
+    "email": "sydney@thesanderson.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.ariasydney.com.au/",
+    "name": "Aria Restaurant Sydney",
+    "email": "res.ariasydney@solotel.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.bennelong.com.au",
+    "name": "Bennelong",
+    "email": "reservations@bennelong.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.chophousesydney.com.au/",
+    "name": "Chophouse Sydney",
+    "email": "res.chophousesydney@solotel.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://6head.com.au/sydney-restaurant",
+    "name": "6HEAD Sydney",
+    "email": "info@6head.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.hustlerssyd.com.au",
+    "name": "Hustlers. Syd",
+    "email": "hello@hustlerssyd.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.swillhouse.com/venues/restaurant-hubert",
+    "name": "Restaurant Hubert",
+    "email": "reservations@restauranthubert.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.roastrepublic.com.au",
+    "name": "Roast Republic",
+    "email": "info@roastrepublic.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.sydneycommon.com.au/",
+    "name": "Sydney Common",
+    "email": "sydneycommon@sheraton.com",
+    "score": "9",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.noursydney.com/",
+    "name": "NOUR",
+    "email": "info@noursydney.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://nomad.sydney",
+    "name": "NOMAD Sydney",
+    "email": "eat@nomad.sydney",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.butlersydney.com.au",
+    "name": "The Butler",
+    "email": "05.03.2026-ajiwd004of177@them1group-1-1400x1065.jpg",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.sixpenny.com.au",
+    "name": "Sixpenny",
+    "email": "info@sixpenny.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.obardining.com.au",
+    "name": "O Bar and Dining",
+    "email": "reservations@obardining.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.lumidining.com",
+    "name": "LuMi Dining",
+    "email": "marketing@lumidining.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.ester-restaurant.com.au",
+    "name": "Ester Restaurant",
+    "email": "esterrestaurant@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.morenarestaurant.com.au",
+    "name": "Morena",
+    "email": "info@morenasydney.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.larivieradining.com.au",
+    "name": "La Riviera Restaurant & Bar",
+    "email": "info@bambinitrust.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://ralphscatering.com.au",
+    "name": "Ralph's Catering Sydney",
+    "email": "rebecca@ralphscatering.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://feedwell.com.au/",
+    "name": "Feedwell Catering Sydney",
+    "email": "c0821c62493a920c1db0ec8fd052dce2@o4510831545876480.ingest.us.sentry.io",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://bespokecatering.sydney",
+    "name": "Bespoke Catering Sydney",
+    "email": "events@bespokecatering.net.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://catering-sydney.au",
+    "name": "Catering Sydney by Casa Fine Foods",
+    "email": "adrian@casafinefoods.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://cateringproject.com.au",
+    "name": "Catering Project Sydney",
+    "email": "orders@cateringproject.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.gathar.com.au/catering/sydney",
+    "name": "Gathar",
+    "email": "hello@gathar.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://cateredbymatt.com",
+    "name": "Catered By Matt",
+    "email": "info@cateredbymatt.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.flavourscatering.com.au",
+    "name": "Flavours Catering + Events",
+    "email": "info@flavourscatering.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.uncleayjays.com",
+    "name": "Uncle Ayjays food truck",
+    "email": "uncleayjaysfoodtruck@gmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "http://www.islandboysfoods.com.au",
+    "name": "Island Boys Food Jamaican restaurant We open when the factory has show",
+    "email": "info@wine.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://callthecleaners.com.au/sydney/",
+    "name": "Call The Cleaners Sydney",
+    "email": "info@callthecleaners.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.cleanaustraliaservice.com.au/locations/sydney-cbd",
+    "name": "Clean Australia Service - Commercial & Residential Cleaning",
+    "email": "support@cleanaustraliaservice.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://cleanrific.com.au",
+    "name": "Cleanrific Cleaning Services Sydney",
+    "email": "hello@cleanrific.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://miraclemaid.com.au/sydney",
+    "name": "Miracle Maid",
+    "email": "hello@miraclemaid.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.dashandshine.com",
+    "name": "Dash & Shine Cleaning Services Sydney",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.cribcrew.com.au",
+    "name": "Crib Crew Sydney Cleaning",
+    "email": "hello@cribcrew.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://exitcleaners.com.au/",
+    "name": "Exit Cleaners Sydney",
+    "email": "hello@exitcleaners.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.calibrecleaning.com.au/house-cleaning/sydney/",
+    "name": "Calibre Cleaning Sydney",
+    "email": "support@calibrecleaning.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://pestcontrolsydneywide.com.au",
+    "name": "Pest Control Sydney Wide",
+    "email": "info@pestcontrolsydneywide.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://pestcontrolsydney.com.au",
+    "name": "Pest Control Sydney NSW",
+    "email": "info@pestcontrolsydney.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://pestpowersydney.com.au/",
+    "name": "Pest Power Sydney | General Pest Control and Termite Treatment Specialist",
+    "email": "info@pestpowersydney.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.pestawaysydney.com.au",
+    "name": "Pestaway Sydney",
+    "email": "info@pestawaysydney.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://sydneypestcrew.com.au/",
+    "name": "Sydney Pest Crew",
+    "email": "info@sydneypestcrew.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://nswpestcontrol.sydney",
+    "name": "NSW Pest Control Sydney",
+    "email": "nswpestcontrol@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.masterspestcontrolsydney.com.au/",
+    "name": "Masters Pest Control Sydney",
+    "email": "admin@masterspestcontrolsydney.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://safepestcontrol.net.au/",
+    "name": "Safe Pest Control Sydney",
+    "email": "accounts@safepestcontrol.net.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://iconicpestsolutions.com.au/",
+    "name": "Iconic Pest Solutions | Termite & General Exterminators | Termite Specialists in",
+    "email": "info@iconicpestsolutions.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.greatersydneypestcontrol.com",
+    "name": "Greater Sydney Pest Control",
+    "email": "user@domain.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.micropest.com",
+    "name": "Micropest Pest Control Sydney",
+    "email": "pest@micropest.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.pestable.com.au",
+    "name": "Pestable Pest Control - Pest Control Sydney",
+    "email": "name@gmail.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.masterspestcontrolsydney.com.au/locations/gordon/",
+    "name": "Masters Pest Control Sydney",
+    "email": "admin@masterspestcontrolsydney.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.lcpest.com.au",
+    "name": "L&C Pest Management",
+    "email": "info@lcpest.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://pest2kill.com.au",
+    "name": "Pest2Kill",
+    "email": "info@pest2kill.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.innerwestpestcontrol.com.au",
+    "name": "InnerWest Pest Control Pty Ltd.",
+    "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://pestoz.com.au",
+    "name": "PestOz",
+    "email": "admin@pestoz.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.metrorealty.com.au",
+    "name": "Metro Realty",
+    "email": "team@metrorealty.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://boutiquepropertyagents.com",
+    "name": "Boutique Property Agents",
+    "email": "info@boutiquepropertyagents.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://sydneyrealtygroup.com.au",
+    "name": "Sydney Realty Group",
+    "email": "support@sydneyrealtygroup.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.ratemyagent.com.au/real-estate-agent/kenny-wu-ec064/sales/overview",
+    "name": "Evertop Agency - Sydney, Mascot, Greensquare",
+    "email": "support@renowned.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.lsre.com.au/cbd-surry-hills",
+    "name": "Laing+Simmons CBD",
+    "email": "dean.applegate@lsre.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.centralsydneyrealty.com.au",
+    "name": "Central Sydney Realty",
+    "email": "info@centralsydneyrealty.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://sydneysiderealestate.com.au",
+    "name": "Sydney Side Real Estate",
+    "email": "admin@sydneysidere.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.hordernproperties.com.au",
+    "name": "Hordern Properties",
+    "email": "info@hordernproperties.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.sydneycriminallawyers.com.au/",
+    "name": "Sydney Criminal Lawyers\u00ae",
+    "email": "adminteam@sydneycriminallawyers.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://lylawyers.com.au/",
+    "name": "LY Criminal Lawyers Sydney",
+    "email": "50-years-combined-experience@2x.png",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "http://www.codea.com.au",
+    "name": "Carroll & O'Dea Lawyers Sydney",
+    "email": "cod@codea.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.obriensolicitors.com.au",
+    "name": "O\u2019Brien Criminal and Civil Solicitors",
+    "email": "info@obriensolicitors.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.armstronglegal.com.au/new-south-wales-lawyers/sydney-lawyers/",
+    "name": "Armstrong Legal - Sydney",
+    "email": "chosen-sprite@2x.png",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "http://www.mgllawyers.com.au",
+    "name": "MGL Lawyers",
+    "email": "info@mgllawyers.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.goldman-lawyers.com",
+    "name": "Goldman Lawyers",
+    "email": "gold-2@2x-100.jpg",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://monteluke.com.au",
+    "name": "Monte Luke Studio",
+    "email": "studio@monteluke.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.sydneyweddingphotographybykatsu.com.au",
+    "name": "Sydney Wedding Photography by Katsu",
+    "email": "info@sydneyweddingphotographybykatsu.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.ahlimages.com",
+    "name": "AHL Photography",
+    "email": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://candidchaser.com.au",
+    "name": "Candid chaser photographer",
+    "email": "candidchaser1@gmail.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.simonajanek.com.au",
+    "name": "Simona Janek",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.sydphotos.com.au",
+    "name": "SYDPHOTOS Photography & Film",
+    "email": "booking@sydphotos.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.alphadining.com.au/eventsbyalpha",
+    "name": "Events By Alpha",
+    "email": "marketing@dedesgroup.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://merivale.com/event-planning/event-spaces/ivyballroom-2",
+    "name": "ivy ballroom",
+    "email": "giftcards@merivale.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://docksidegroup.com.au/",
+    "name": "Dockside Group",
+    "email": "hello@docksidegroup.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://doltonehouse.com.au/venue/hyde-park/",
+    "name": "Doltone House Hyde Park",
+    "email": "info@doltonehouse.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://thevenuealexandria.com.au/",
+    "name": "The Venue Alexandria",
+    "email": "v-only-greyasset-1@2x.png.webp",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://waterfrontfunctions.net.au",
+    "name": "The Waterfront Function Centre",
+    "email": "events@waterfrontfunctions.net.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://thesapphire.com.au",
+    "name": "The Sapphire Function Centre",
+    "email": "info@thesapphire.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://docksidegroup.com.au/",
+    "name": "L'Aqua | Dockside Group",
+    "email": "hello@docksidegroup.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.stayinstile.com",
+    "name": "STILE Downtown Los Angeles",
+    "email": "stiledtlapr@moderncurencypr.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "http://www.bearrivercasino.com",
+    "name": "Bear River Casino Resort",
+    "email": "slotsinquiry@bearrivercasino.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.sohohouse.com/en-us/houses/holloway-house",
+    "name": "Soho House Holloway",
+    "email": "membershipadmin@sohohouse.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://hinanocafevenice.com",
+    "name": "Hinano Cafe",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.wyndhamhotels.com/ramada/west-hollywood-california/ramada-plaza-hotel-suites-west-hollywood-beverly-hills/overview",
+    "name": "Ramada Plaza by Wyndham West Hollywood Hotel & Suites",
+    "email": "accessibility@wyndham.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.glendalegalleria.com/en.html",
+    "name": "Glendale Galleria",
+    "email": "glendaleadmin@brookfieldproperties.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://ladolcevitabeverlyhills.com",
+    "name": "La Dolce Vita",
+    "email": "info@ladolcevitabeverlyhills.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.nvidia.com",
+    "name": "NVIDIA",
+    "email": "new-gtc26-best-of-gtc-wmfg-multi-img-d@2x.jpg",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.theredwoodriverwalk.com",
+    "name": "The Redwood Riverwalk",
+    "email": "gm@theredwoodriverwalk.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.paramountdentalsydney.com.au",
+    "name": "Paramount Dental Sydney",
+    "email": "hello@paramountdentalsydney.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.spadentalsydneycbd.com.au",
+    "name": "Spa Dental Sydney CBD",
+    "email": "info@spadental.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://macquariedental.com.au",
+    "name": "Macquarie Dental Sydney CBD",
+    "email": "shadow@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://dentalboutique.com.au/sydney/",
+    "name": "Dental Boutique Sydney",
+    "email": "feedback@dentalboutique.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.experteethsydney.com.au",
+    "name": "City Dental \u2013 Experteeth Dental\u76ca\u767d\u9f7f\u79d1 Market street",
+    "email": "city@experteeth.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://thedentist.net.au",
+    "name": "The Dentist at 70 Pitt Street",
+    "email": "info@thedentist.net.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://pittstdentalcentre.com.au",
+    "name": "Pitt Street Dental Centre",
+    "email": "info@pittstdentalcentre.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://www.cleardental.com.au/sydney-dentist.html",
+    "name": "Clear Dental Sydney CBD | \u7259\u91ab (Wynyard Dental)",
+    "email": "info@cleardental.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.sydneycbddentistry.com.au/",
+    "name": "Sydney CBD Dentistry | Cosmetique Dental",
+    "email": "info@sydneycbddentistry.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://dentallounge.com.au/",
+    "name": "Dental Lounge Sydney CBD",
+    "email": "emergencydentistry-banner-img@2x-768x1090.jpg",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.pacificsmilesdental.com.au/locations/nsw/sydney-cbd/",
+    "name": "Pacific Smiles Dental Sydney CBD",
+    "email": "psd21_smilelogo-200px@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://quaydental.com.au/",
+    "name": "Quay Dental Sydney CBD",
+    "email": "vertical_menu_cross_white@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://horizondental.com.au",
+    "name": "Horizon Dental",
+    "email": "reception@horizondental.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.affordabledentist.sydney/",
+    "name": "The Affordable Dentist Sydney",
+    "email": "pinhodental@icloud.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.emergencydentistsydney.com.au",
+    "name": "EMERGENCY DENTIST SYDNEY",
+    "email": "info@emergencydentistsydney.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.hydeparkdentalcare.com.au/",
+    "name": "Hyde Park Dental Care",
+    "email": "info@hydeparkdentalcare.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/newtown",
+    "name": "Sydney Animal Hospitals",
+    "email": "newtown@sydneyanimalhospitals.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://sashvets.com/locations/alexandria/",
+    "name": "SASH - Specialist & 24/7 Emergency Vets - Alexandria",
+    "email": "infocc@sashvets.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "http://www.exoticsvet.com.au",
+    "name": "Sydney Exotics and Rabbit Vets (SERV)",
+    "email": "user@domain.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://www.sydney.edu.au/vet-hospital",
+    "name": "University Veterinary Teaching Hospital Sydney (UVTHS)",
+    "email": "campus.assist@sydney.edu.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/inner-west",
+    "name": "Sydney Animal Hospitals Inner West",
+    "email": "innerwest@sydneyanimalhospitals.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.vsos.com.au/",
+    "name": "Veterinary Specialists of Sydney",
+    "email": "info@vsos.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://southerncrossvet.com.au/inner-west-vet-hospital/",
+    "name": "Southern Cross Veterinary Clinic Inner West",
+    "email": "east@southerncrossvet.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://sashvets.com/locations/sydney/",
+    "name": "SASH - Specialist & 24/7 Emergency Vets - North Ryde",
+    "email": "infosa@sashvets.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://www.alexandriavet.com.au/",
+    "name": "Alexandria Vet Hospital",
+    "email": "info@alexandriavet.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/newport",
+    "name": "Sydney Animal Hospitals Northern Beaches",
+    "email": "newport@sydneyanimalhospitals.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/norwest",
+    "name": "Sydney Animal Hospitals Norwest",
+    "email": "newtown@sydneyanimalhospitals.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.thewildvet.com.au",
+    "name": "The Wild Vet",
+    "email": "reception@thewildvet.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Vet"
+  },
+  {
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/baulkham-hills",
+    "name": "Sydney Animal Hospitals Baulkham Hills",
+    "email": "baulkhamhills@sydneyanimalhospitals.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://ultimateperformance.com/au/personal-trainer/sydney",
+    "name": "Ultimate Performance Personal Trainers Sydney",
+    "email": "globe@2x.webp",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://lockeroomgym.com/",
+    "name": "Lockeroom Gym Personal Trainers Bridge Street",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://lockeroomgym.com/",
+    "name": "Lockeroom Gym Personal Trainers Bligh Street",
+    "email": "assist@lockeroomgym.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://vitruvianhealth.com.au",
+    "name": "Vitruvian Health",
+    "email": "info@vitruvianhealth.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://onyxgym.com.au",
+    "name": "ONYX Gym & Fitness 24/7",
+    "email": "train@onyxgym.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.skipbinfinder.com.au/skip-bins-sydney",
+    "name": "Skip Bin Finder Sydney",
+    "email": "admin@skipbinfinder.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://www.7skipbins.com.au/",
+    "name": "7 Skip Bins Sydney",
+    "email": "info@7skipbins.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://www.freddyskipbins.com.au",
+    "name": "Freddy's Skip Bin Hire",
+    "email": "info@freddyskipbins.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.northernbeachesskipbins.com.au",
+    "name": "Northern Beaches Skip Bins",
+    "email": "sales@nbsb.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://proskipsaustralia.com.au",
+    "name": "Pro Skips Australia | Skip Bin Hire Sydney",
+    "email": "info@proskipsaustralia.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://www.skipbinsonline.com.au//",
+    "name": "Skip Bins Online Pty Ltd",
+    "email": "customers@skipbinsonline.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "https://www.monstamobileskips.com.au",
+    "name": "Monsta Mobile Skips",
+    "email": "sprite-google-places@2x.png",
+    "score": "7",
+    "status": "NEW",
+    "track": "Skip"
+  },
+  {
+    "website": "http://www.treelopperssydney.com.au",
+    "name": "Tree Loppers Sydney-TLS",
+    "email": "jack@treelopperssydney.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://treesdownunder.com.au",
+    "name": "Tree Removal Sydney - Trees Down Under",
+    "email": "info@treesdownunder.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://aatreeservices.net.au",
+    "name": "AA Tree Services Sydney",
+    "email": "info@aatreeservices.net.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://absoltreeservices.com/",
+    "name": "Absolute Tree Services",
+    "email": "info@absoltreeservices.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://sydneytreecompany.com.au",
+    "name": "Sydney Tree Company",
+    "email": "sales@sydneytreecompany.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "http://www.truebluetreelopping.com.au",
+    "name": "True Blue Tree Lopping",
+    "email": "info@truebluetreelopping.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://sydneygaragedoorrepair.com.au",
+    "name": "Garage Door Repair for Sydney",
+    "email": "info@sydneygaragedoorrepair.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://vibegaragedoors.com.au",
+    "name": "Vibe Garage Door Repair",
+    "email": "info@vibegaragedoors.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "http://www.sydneygaragedoors.com.au",
+    "name": "Sydney Garage Doors",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "http://www.abdgaragedoors.com.au",
+    "name": "ABD Garage Doors",
+    "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://ptdoors.com.au/",
+    "name": "PT Garage Doors and Gates",
+    "email": "info@ptdoors.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://www.bouncebackgd.com.au",
+    "name": "BounceBack GD - Garage Doors & Automated Gates",
+    "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://cronullagaragedoorrepairs.com",
+    "name": "Cronulla Garage Door Repairs",
+    "email": "troy@cronullagdr.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "http://www.automaticgaragesolutions.com.au",
+    "name": "Automatic Garage Solutions",
+    "email": "image_1@2x-230x287.png",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://www.bnd.com.au/garage-doors-sydney",
+    "name": "B&D Garage Doors Sydney",
+    "email": "privacy@duluxgroup.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://goodtogogarages.com.au",
+    "name": "Good To Go Garage Doors",
+    "email": "info@goodtogogarages.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Garage"
+  },
+  {
+    "website": "https://melbourneelectricalco.com.au/",
+    "name": "Melbourne Electrical Co",
+    "email": "leads@melbourneelectricalco.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.millerwatts.com.au",
+    "name": "Millerwatts Electricians",
+    "email": "admin@millerwatts.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://www.easternmelbourneelectricians.com",
+    "name": "Eastern Melbourne Electricians",
+    "email": "developer@iformat.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://allelectrics.com.au",
+    "name": "All Electrics",
+    "email": "contact@allelectrics.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.plumbmedic.com.au",
+    "name": "Plumb Medic - Emergency Plumber Melbourne",
+    "email": "info@plumbmedic.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://24hourmelbourneplumbers.com.au",
+    "name": "24 Hour Melbourne Plumber",
+    "email": "pm@2x.jpg.webp",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "http://www.yourproplumber.com.au/",
+    "name": "Your Pro Plumber - Blocked Drain & Emergency Plumber | Melbourne",
+    "email": "info@yourproplumber.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://velaquaplumbing.com.au",
+    "name": "Velaqua Plumbing",
+    "email": "velaqua@live.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://innercityplumbing.com.au/locations/abbotsford",
+    "name": "Inner City Plumbing",
+    "email": "info@innercityplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://mmpg.melbourne",
+    "name": "Melbourne Metro Plumbing Group",
+    "email": "noreply@mmpg.melbourne",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.melbourneplumbingco.com.au",
+    "name": "Melbourne Plumbing Co",
+    "email": "office@melbourneplumbingco.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.butlerplumbing.com.au",
+    "name": "Butler Plumbing Pty Ltd",
+    "email": "service@butlerplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.melbourneplumbingsolutions.com.au",
+    "name": "DJS Melbourne Plumbing Solutions",
+    "email": "orders@djsmps.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://www.fixitrightplumbing.com.au/emergency-plumber-melbourne/",
+    "name": "Fix It Right Plumbing Melbourne",
+    "email": "contact@fixitrightplumbing.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://zebraplumbing.com.au",
+    "name": "Zebra Plumbing",
+    "email": "contact@zebraplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.dawsonelectric.com.au",
+    "name": "Dawson Electric",
+    "email": "info@dawsonelectric.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://bpelectricians.com.au",
+    "name": "Brisbane Power Electricians",
+    "email": "info@bpelectricians.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://dlgelectrical.com.au",
+    "name": "DLG Electrical",
+    "email": "admin@dlgelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://audemelectrical.com.au/",
+    "name": "Audem Electrical",
+    "email": "jobs@audem.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.staticelectrics.com.au/electrician/brisbane/",
+    "name": "Static Electrics Brisbane",
+    "email": "chosen-sprite@2x.png",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://speedyelectrical.com.au",
+    "name": "Speedy Electrical",
+    "email": "speedy@speedyelectrical.com.aux",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.brisbaneplumbinganddrainage.com.au/",
+    "name": "Brisbane Plumbing and Drainage",
+    "email": "bpd.webforms@fallonsolutions.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://sjplumbingandgas.com.au/",
+    "name": "S&J Plumbing and Gasfitting Brisbane Northside",
+    "email": "admin@sjplumbingandgas.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://brisbanecityplumbingandgas.com.au",
+    "name": "Brisbane City Plumbing and Gas",
+    "email": "webmaster@brisbanecityplumbingandgas.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.bttd.au",
+    "name": "Brisbane Taps Toilets and Drains",
+    "email": "%20info@bttd.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://agradeplumbingandgas.com.au/",
+    "name": "A Grade Plumbing and Gas - Plumber Brisbane",
+    "email": "admin@agradepg.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://www.allfixplumbing.com.au",
+    "name": "All Fix Plumbing Brisbane Plumber",
+    "email": "info@allfixplumbing.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://nationalplumbingaustralia.com.au",
+    "name": "National Plumbing",
+    "email": "info@nationalplumbingaustralia.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://lwplumbing.com.au",
+    "name": "L&W Plumbing Solutions",
+    "email": "admin@lwplumbing.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://bris-plumb-gas.com.au",
+    "name": "Brisbane Plumbing and Gas",
+    "email": "hello@bris-plumb-gas.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.electricianinperth.com.au/",
+    "name": "Westline Electricians Perth",
+    "email": "info@westlineelectrical.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://www.responseelectricianperth.com.au",
+    "name": "Response Electricians",
+    "email": "info@rfes.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://www.localperthelectrician.com.au/",
+    "name": "Web X Electricians Perth",
+    "email": "admin@webxelectrical.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://www.brillare.net.au",
+    "name": "Brillare Perth Electricians",
+    "email": "info@brillare.net.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "http://www.opeperth.com.au",
+    "name": "On Point Electrical Perth",
+    "email": "web@aeozo.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.drsparkyelectrical.com.au",
+    "name": "Dr Sparky Electrical",
+    "email": "info@drsparkyelectrical.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "http://electricalgroup.com.au",
+    "name": "The Electrical Group",
+    "email": "admin@electricalgroup.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://boyanelectrical.com.au",
+    "name": "Boyan Electrical",
+    "email": "admin@boyanelectrical.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://primetimewa.com.au/",
+    "name": "Prime Time Electrical",
+    "email": "hello@primetimewa.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://teamsmartfix.com.au/",
+    "name": "Smartfix",
+    "email": "qr@2x-170x170-png.webp",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.theadelaideelectricalco.com",
+    "name": "The Adelaide Electrical Co. - Electrician",
+    "email": "admin@taeco.net.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://adelaideurbanelectrical.com.au",
+    "name": "Adelaide Urban Electrical",
+    "email": "admin@auemail.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.southadelaideelectrical.com.au",
+    "name": "South Adelaide Electrical",
+    "email": "jsmolicz1@gmail.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.bmselectrical.com.au",
+    "name": "BMS Electrical Services",
+    "email": "info@bmselectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.sametroelectrical.com.au",
+    "name": "SA METRO Electrical",
+    "email": "info@sametroelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.cornellelectrical.com.au",
+    "name": "Cornell Electrical Pty Ltd",
+    "email": "info@cornellelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://onestopplumbing.ca",
+    "name": "One Stop Plumbing Limited",
+    "email": "onestop@onestopplumbing.ca",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.visionelectrical.com.au",
+    "name": "Vision Electrical",
+    "email": "info@visionelectrical.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://goldcoastplumbingexperts.com.au/",
+    "name": "Gold Coast Plumbing Experts",
+    "email": "info@goldcoastplumbingexperts.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.servicetoday.com.au",
+    "name": "Service Today Plumber Gold Coast",
+    "email": "info@servicetoday.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "http://www.theplumbingdoctor.com.au",
+    "name": "The Plumbing Doctor",
+    "email": "thedr@theplumbingdoctor.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://dcmplumbing.com.au/",
+    "name": "DCM Plumbing & Drainage Pty Ltd",
+    "email": "office@dcmplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.capitalplumbing.com.au",
+    "name": "Capital Plumbing",
+    "email": "tracey@munndigital.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.hightideplumbing.au",
+    "name": "High Tide Plumbing & Gas Gold Coast",
+    "email": "contact@hightideplumbing.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://localplumbingandgasco.com.au",
+    "name": "Local Plumbing & Gas Company",
+    "email": "info@localplumbingandgasco.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://charlietheplumber.com.au",
+    "name": "Charlie The Plumber",
+    "email": "chosen-sprite@2x.png",
+    "score": "7",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://oceansideservices.com.au/",
+    "name": "Oceanside Services",
+    "email": "ocean@oceansideservices.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "http://www.completeplumbingqld.com.au",
+    "name": "Complete Plumbing Qld",
+    "email": "office@completeplumbingqld.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.jetsetplumbing.com.au/",
+    "name": "Jetset Plumbing",
+    "email": "left-slider-arrow@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.bondplumbing.com.au",
+    "name": "Bond Plumbing",
+    "email": "enquiries@bondplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.tomoslittlecollins.com",
+    "name": "Tomo\u2019s Little Collins",
+    "email": "info@tomoslittlecollins.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://highergroundmelbourne.com.au",
+    "name": "Higher Ground",
+    "email": "info@highergroundmelbourne.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.facebook.com/manchesterpress",
+    "name": "Manchester Press",
+    "email": "manchesterpresscafe@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "http://cafevictoriaqvm.com.au",
+    "name": "Cafe Victoria",
+    "email": "info@kenoliptyltd.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.caffeetorta.com",
+    "name": "Caff\u00e9 E Torta",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.littlerogue.com.au",
+    "name": "Little Rogue.",
+    "email": "shop@littlerogue.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.journalcafemelbourne.com.au",
+    "name": "The Journal Cafe",
+    "email": "journal.canteen@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.ozfoodhunter.com.au/cafe-court",
+    "name": "Cafe Court",
+    "email": "yourmail@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "http://www.patriciacoffee.com.au",
+    "name": "Patricia Coffee Brewers",
+    "email": "shop@patriciacoffee.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://thequarter.com.au",
+    "name": "The Quarter",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.cafetomi.com",
+    "name": "Cafe Tomi",
+    "email": "meow@cafetomi.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://golden-mug-cafe.square.site",
+    "name": "Golden Mug Cafe",
+    "email": "info@goldenmugcafe.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.kpos.com.au/amiri/index_table.php",
+    "name": "AMIRI CAFE",
+    "email": "info@kpos.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://lavuerestaurant.com.au",
+    "name": "La Vue Waterfront Restaurant",
+    "email": "ronaldo@lavuerestaurant.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://clarencerestaurant.com",
+    "name": "Clarence Restaurant",
+    "email": "contact@clarencerestaurant.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.alchemyrestaurant.com.au",
+    "name": "Alchemy Restaurant and Bar Brisbane",
+    "email": "mail@alchemyrestaurant.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://libertine.net.au",
+    "name": "Libertine Restaurant & Cocktail Bar",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.toscanobar.com.au",
+    "name": "Toscano Bar & Kitchen",
+    "email": "c5095236fd2e4b8fae9ed6d73cdd81a3@sentry.wixpress.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://rothwellsbrisbane.com.au",
+    "name": "Rothwell\u2019s Bar & Grill",
+    "email": "reservations@rothwellsbrisbane.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://madorestaurant.com.au",
+    "name": "Mado Turkish Restaurant",
+    "email": "bookings@madorestaurant.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://exhibitionrestaurant.com",
+    "name": "Exhibition Restaurant",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.moomoorestaurant.com",
+    "name": "Moo Moo The Wine Bar and Grill Brisbane",
+    "email": "flags@2x.png",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.blackhidecaxton.com.au",
+    "name": "Black Hide Caxton Street",
+    "email": "book@blackhidesteakhouse.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "http://www.opabar.com.au",
+    "name": "Opa Bar & Mezze",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.bacchussouthbank.com.au",
+    "name": "Bacchus",
+    "email": "foodandbeverage_rydgessouthbank@evt.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "https://www.pompette.com.au",
+    "name": "Pompette",
+    "email": "info@pompette.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.walnutrestaurant.com.au",
+    "name": "The Walnut Restaurant & Lounge Bar",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://centralbne.com.au",
+    "name": "Central Restaurant",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.darkshepherd.com.au",
+    "name": "Dark Shepherd",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.thelexbrisbane.com/",
+    "name": "The Lex Brisbane",
+    "email": "wbrisbane@whotels.com",
+    "score": "9",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.turocafeandgrill.com",
+    "name": "Turo Cafe and Grill",
+    "email": "turocafeandgrill@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://grandleaderdeli.com",
+    "name": "Grand Leader Market & Deli",
+    "email": "luciano@latinotype.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.ongpin.com",
+    "name": "Ongpin Restaurant",
+    "email": "%20ongpinrestaurant@aol.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.shahnazbeauty.com.au",
+    "name": "SHAHNAZ BEAUTY GOLD COAST",
+    "email": "shahnazbeautysalon@yahoo.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://g-andco.com.au",
+    "name": "G+Co Hair and Beauty",
+    "email": "info@g-andco.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.beautyonqueen.com.au",
+    "name": "Beauty on Queen",
+    "email": "info@beautyonqueen.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://skinmindandbeauty.com.au",
+    "name": "Skin Mind Beauty & Hair | Hair & Beauty Salon",
+    "email": "marketing@skinmindandbeauty.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.beibeauty.com.au",
+    "name": "Bei Beauty Salon",
+    "email": "info@gracebeautyandmassage.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.lavelaheadspa.com.au",
+    "name": "La Vela Head Spa \u2013 Head Spa Gold Coast",
+    "email": "ashgrove@lavelaheadspa.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://www.seoul-haus.com.au",
+    "name": "Seoul Haus Hair & Nail | Southport Gold Coast",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.fresha.com/a/auzus-hair-and-beauty-paradise-centre-surfers-paradise-2-cavill-avenue-uoxp7xre",
+    "name": "Auzus Hair and Beauty",
+    "email": "388fe63e6063cc241ca2a1b0f52622a3@o61919.ingest.us.sentry.io",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://www.lotusbeautylounge.com.au",
+    "name": "Lotus Beauty Lounge",
+    "email": "lee@lotusbeautylounge.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://blowbarlane.com.au",
+    "name": "Blow Bar Lane | Beauty Hair Salon & Cocktail Bar Gold Coast",
+    "email": "bookings@blowbarlane.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://chameleonnewagesalon.com.au",
+    "name": "Chameleon New Age Salon",
+    "email": "chameleonnewagesalon@gmail.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://justskynbeauty.com.au",
+    "name": "Just Skyn Beauty Treatment Clinic",
+    "email": "jade@justskynbeauty.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://mobilemechanicbrisbanenorthside.com.au",
+    "name": "Mobile Mechanic Brisbane Northside",
+    "email": "gallardoray@yahoo.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "https://eastbrisbane.rapidtune.com.au",
+    "name": "Rapid Tune East Brisbane",
+    "email": "cropped-rapidtune-favicon@3x-1-180x180.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.nestocar.com.au",
+    "name": "Nestocar Automotive Service Centre - BRISBANE",
+    "email": "sunshine@nestocar.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.ultratune.com.au/stores/ultra-tune-woolloongabba/",
+    "name": "Ultra Tune Woolloongabba",
+    "email": "woolloongabba@ultratune.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://brisbaneeuroservice.com.au/locations/newstead",
+    "name": "Brisbane Euro Car Service Newstead",
+    "email": "chosen-sprite@2x.png",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.genesisautoworks.com.au",
+    "name": "Genesis Autoworks East Brisbane",
+    "email": "coorparoo@genesisautoworks.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://brisbaneeuroservice.com.au/locations/woolloongabba",
+    "name": "Brisbane Euro Car Service Woolloongabba",
+    "email": "chosen-sprite@2x.png",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://car-one.com.au/",
+    "name": "Car One Automotive Mechanics Woolloongabba | Logbook Service, Brakes, Suspension",
+    "email": "info@car-one.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "https://www.calibrecleaning.com.au/house-cleaning/melbourne/",
+    "name": "Calibre Cleaning Melbourne",
+    "email": "support@calibrecleaning.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://yescleaning.com.au/",
+    "name": "Yes Cleaning - Commercial and Office Cleaning Melbourne",
+    "email": "viviens-homepage-logo@2x-300x78.webp",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.maidtoclean.com.au/",
+    "name": "Maid to Clean",
+    "email": "support@maidtoclean.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.maidinmelbourne.com.au",
+    "name": "Maid In Melbourne",
+    "email": "info@maidinmelbourne.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://o2ocleaning.com.au/",
+    "name": "End of lease Cleaning Melbourne | O2Ocleaning",
+    "email": "info@o2ocleaning.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://melbournevacateandcarpetcleaning.com.au",
+    "name": "Melbourne Vacate & Carpet Cleaning",
+    "email": "melbournevacate@gmail.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.cheapandbestcleaning.com.au",
+    "name": "Cheap And Best Cleaning",
+    "email": "info@cheapandbestcleaning.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://fantasticcleaners.com.au/melbourne/",
+    "name": "Fantastic Cleaners",
+    "email": "fs-logo@2x.png",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://theaccountants.au",
+    "name": "The Accountants",
+    "email": "hello@theaccountants.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://inspire.accountants",
+    "name": "Inspire Small Business Accountants Brisbane",
+    "email": "default-blog@2x.jpg",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://walkerhill.com.au",
+    "name": "Walker Hill - Accountants",
+    "email": "support@walkerhill.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://acctivate.com.au",
+    "name": "Acctivate - Business Accountants Brisbane",
+    "email": "hello@acctivate.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://leeandassociates.com.au",
+    "name": "Lee and Associates Accountants",
+    "email": "enquiries@leeandassociates.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "http://www.rubylam.com.au",
+    "name": "Ruby Lam Accountants",
+    "email": "admin@rubylam.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://amoura.com.au",
+    "name": "Amour Accountants",
+    "email": "booking@amoura.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://walshs.com.au",
+    "name": "Walshs",
+    "email": "enquiries@walshs.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://emergency-electrical.com.au",
+    "name": "Newcastle Emergency Electrical",
+    "email": "info@emergency-electrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.barrackelectrical.com.au",
+    "name": "Barrack Electrical",
+    "email": "info@barrackelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.allsight.com.au",
+    "name": "All Sight Electrical - Level 2 Electrician",
+    "email": "admin@allsight.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "http://www.duncankerrelectrical.com.au",
+    "name": "Duncan Kerr Electrical",
+    "email": "dkerrelectrical@optusnet.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Tow"
+  },
+  {
+    "website": "https://coopers24hrelectrical.com.au",
+    "name": "Coopers 24HR Electrical - Residential Electrician | Newcastle & Merewether",
+    "email": "cam@coopers24.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://csplumbingservices.com.au",
+    "name": "CS Plumbing & Drainage Services",
+    "email": "info@csplumbingservices.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://willplumb.com.au",
+    "name": "WillPlumb Plumbing Services",
+    "email": "admin@willplumb.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.kishair.com.au",
+    "name": "Kis Hair On Bourke",
+    "email": "kishairbourke@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.kishair.com.au",
+    "name": "Kis Hair On Spencer",
+    "email": "kishairspencer@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://aerysalon.com.au",
+    "name": "Aery Salon",
+    "email": "admin@aerysalon.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://dyhairdesign.com.au",
+    "name": "D&Y Hair Design Collins Street CBD",
+    "email": "dyhaircollins@gmail.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://hairretreatsouthmelbourne.com.au",
+    "name": "Hair Retreat South Melbourne",
+    "email": "info@ndiscovered.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.rakis.com.au",
+    "name": "Rakis on Collins",
+    "email": "hair@rakis.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://www.dyhairdesign.com.au",
+    "name": "D&Y Hair Design Bourke Street CBD",
+    "email": "towahairdesign@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://www.vijusalon.com",
+    "name": "VIJU SALON",
+    "email": "hi@mystore.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.saintlouiehair.com.au",
+    "name": "Saint Louie Hair",
+    "email": "hello@saintlouiehair.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "http://www.hairhada.com.au",
+    "name": "Hair Hada",
+    "email": "hairhadasalon@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.kishair.com.au",
+    "name": "Kis Hair on La Trobe",
+    "email": "kishairlatrobe@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Hair"
+  },
+  {
+    "website": "https://www.facebook.com/j.lo.magic.salon",
+    "name": "JLO Salon & BARBER SHOP",
+    "email": "dev7561@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Barber"
+  },
+  {
+    "website": "https://cream.melbourne",
+    "name": "Cream Melbourne",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Tree"
+  },
+  {
+    "website": "http://salonabyk.gettimely.com",
+    "name": "SALON A BY K",
+    "email": "button_dark@2x.png",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.facebook.com/CafeGC",
+    "name": "Cafe Gold Coast",
+    "email": "dev7561@gmail.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Cafe"
+  },
+  {
+    "website": "https://www.holyship.restaurant",
+    "name": "Holy Ship Restaurant & Bar",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.thenorthroom.com.au",
+    "name": "The North Room",
+    "email": "info@thenorthroom.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://shirazgoldcoast.com/en",
+    "name": "Shiraz - Best Persian Restaurant + Bar Gold Coast",
+    "email": "info@shirazgoldcoast.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.rickshores.com.au",
+    "name": "Rick Shores",
+    "email": "seatme@rickshores.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://seascape.com.au",
+    "name": "Seascape Restaurant & Bar",
+    "email": "info@seascape.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.littletruffle.com.au",
+    "name": "Little Truffle",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://gennarigroup.com.au/mare-restaurant-marina-mirage",
+    "name": "M\u0100RE Restaurant by La Luna",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.moomoorestaurant.com/gold-coast",
+    "name": "Moo Moo The Wine Bar + Grill",
+    "email": "functions.gc@moomoorestaurant.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.star.com.au/goldcoast/restaurants/kiyomi",
+    "name": "Kiyomi",
+    "email": "stargcdining@star.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.coastbeachbar.com.au",
+    "name": "COAST",
+    "email": "team@latofonts.com",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://paletterestaurant.com.au",
+    "name": "Palette Restaurant",
+    "email": "palette@experiencegoldcoast.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.laplayagc.com.au",
+    "name": "La Playa Beach and Eats",
+    "email": "info@laplayagc.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.citriquerestaurant.com/",
+    "name": "Citrique",
+    "email": "citrique.reservations@jwmarriott.com",
+    "score": "9",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://paradiseresort.com.au/eat/penguins-restaurant",
+    "name": "Penguins Restaurant",
+    "email": "book@paradiseresort.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "https://www.norte.restaurant",
+    "name": "Nort\u00e9",
+    "email": "user@domain.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.restaurantlabart.com",
+    "name": "Restaurant Labart",
+    "email": "info@restaurantlabart.com",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.quarterdeckkitchen.com.au",
+    "name": "Quarterdeck Kitchen + Bar",
+    "email": "hello@quarterdeckkitchen.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://balboaitalian.com.au",
+    "name": "Balboa Italian Restaurant",
+    "email": "info@balboaitalian.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Restaurant"
+  },
+  {
+    "website": "http://www.laspalmas.com.au/",
+    "name": "Las Palmas Gold Coast | Latin American Restaurant | Palm Beach",
+    "email": "hello@laspalmas.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Spa"
+  },
+  {
+    "website": "https://www.perthmech.com.au",
+    "name": "Perth Mech Mobile Mechanics",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "score": "7",
+    "status": "NEW",
+    "track": "Mechanic"
+  },
+  {
+    "website": "http://palazzoautomotives.com.au",
+    "name": "Palazzo Automotive",
+    "email": "palazzo@palazzoautomotives.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.automasters.com.au/locations/perth-northbridge/",
+    "name": "Auto Masters Northbridge",
+    "email": "admin@automasters.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.automasters.com.au/locations/north-perth/",
+    "name": "Auto Masters",
+    "email": "admin@automasters.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.brisbanehousecleaners.net.au",
+    "name": "Brisbane House Cleaners",
+    "email": "brisbanehousecleaners@gmail.com",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.calibrecleaning.com.au/house-cleaning/brisbane/",
+    "name": "Calibre Cleaning - House Cleaning Brisbane",
+    "email": "support@calibrecleaning.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.makeitclean.com.au/brisbane/",
+    "name": "Make It Clean Services - Cleaners Brisbane | House Cleaning | Office & Commercia",
+    "email": "contact@makeitclean.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.trueconnectionelectrical.com.au/",
+    "name": "True Connection Electrical",
+    "email": "admin@trueconnectionelectrical.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "http://www.recordelectrical.com.au",
+    "name": "Record Electrical",
+    "email": "admin@recordelectrical.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.wattsneeded.com.au",
+    "name": "Watts Needed Electrical: 24/7 Electrician Canberra",
+    "email": "info@wattsneeded.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://levelau.com.au/electrician-fyshwick/",
+    "name": "Level Electrical + Air Fyshwick",
+    "email": "fyshwick@levelelectrical.com.au",
+    "score": "7",
+    "status": "NEW",
+    "track": "Electrician"
+  },
+  {
+    "website": "https://levelau.com.au/plumber-canberra/",
+    "name": "Level Plumbing Canberra",
+    "email": "canberra@levelplumbing.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://jmlplumbing.net.au",
+    "name": "JML Plumbing & Gas Canberra",
+    "email": "office@jmlplumbing.net.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://www.fixitrightplumbing.com.au/emergency-plumber-canberra/",
+    "name": "Fix It Right Plumbing Canberra",
+    "email": "contact@fixitrightplumbing.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://www.contemporaryplumbing.com.au",
+    "name": "Contemporary Plumbing",
+    "email": "admin@contemporaryplumbing.com.au",
+    "score": "8",
+    "status": "NEW"
+  },
+  {
+    "website": "https://bluelineplumbers.com.au",
+    "name": "Blueline Plumbing & Gas",
+    "email": "admin@bluelineplumbers.com.au",
+    "score": "8",
+    "status": "NEW",
+    "track": "Plumber"
+  },
+  {
+    "website": "https://t-corp.com.au/",
+    "name": "T Corp Plumbing",
+    "email": "info@t-corp.com.au",
+    "score": "7",
+    "status": "NEW"
+  },
+  {
+    "website": "https://capitalplumbingspecialists.com.au/",
+    "name": "Capital Plumbing Specialists Canberra",
+    "email": "admin@capitalplumbingspecialists.com.au",
+    "score": "7",
+    "status": "NEW"
+  }
+]

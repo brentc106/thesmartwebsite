@@ -1,0 +1,31 @@
+{
+  "processed": [
+    "info@towtrucksydney.com",
+    "fastsydneytowing@gmail.com",
+    "info@supertowing.com.au",
+    "info@retrievertowing.com.au",
+    "admin@roadsiderecovery.com.au",
+    "jack@treelopperssydney.com",
+    "sales@sydneytreecompany.com.au",
+    "info@aatreeservices.net.au",
+    "info@plateautrees.com.au",
+    "info@treesdownunder.com.au",
+    "f4seasonstrees@outlook.com",
+    "info@towtrucksydney.com"
+  ],
+  "in_progress": [],
+  "failed": [],
+  "audit_urls": {
+    "info@towtrucksydney.com": "https://audit.thesmartwebsite.co/tow-truck-sydney-cheap-towing-sydney-emergency-tow",
+    "fastsydneytowing@gmail.com": "https://audit.thesmartwebsite.co/fast-sydney-towing",
+    "info@supertowing.com.au": "https://audit.thesmartwebsite.co/super-towing-greenacre-tow-truck-service",
+    "info@retrievertowing.com.au": "https://audit.thesmartwebsite.co/retriever-towing-sydney",
+    "admin@roadsiderecovery.com.au": "https://audit.thesmartwebsite.co/roadside-recovery-towing",
+    "jack@treelopperssydney.com": "https://audit.thesmartwebsite.co/tree-loppers-sydney",
+    "sales@sydneytreecompany.com.au": "https://audit.thesmartwebsite.co/sydney-tree-company",
+    "info@aatreeservices.net.au": "https://audit.thesmartwebsite.co/aa-tree-services-sydney",
+    "info@plateautrees.com.au": "https://audit.thesmartwebsite.co/plateau-trees-tree-removal-sydney",
+    "info@treesdownunder.com.au": "file:///Users/brentext/.openclaw/workspace/smart-website/data/audits/tree-removal-sydney---trees-down-under.html",
+    "f4seasonstrees@outlook.com": "https://audit.thesmartwebsite.co/4-seasons-tree-care"
+  }
+}
