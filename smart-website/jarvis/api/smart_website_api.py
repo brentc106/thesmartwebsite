@@ -18,7 +18,7 @@ from datetime import datetime
 from urllib.request import urlopen, Request
 from urllib.parse import urlencode
 from flask import Flask, request, jsonify
-import psycopg3
+import psycopg2
 import requests
 
 app = Flask(__name__)
@@ -67,7 +67,7 @@ IMPECCABLE_23 = [
 # ─── DB ──────────────────────────────────────────────────────────────────────
 
 def get_db():
-    return psycopg3.connect(DATABASE_URL)
+    return psycopg2.connect(DATABASE_URL)
 
 # ─── HELPERS ─────────────────────────────────────────────────────────────────
 
